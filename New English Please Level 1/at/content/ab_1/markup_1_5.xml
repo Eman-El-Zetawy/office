@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page>
+  <popup style="audio" name="Unit 0 Classroom... Exercise 4" type="audio" data="../atm/Eng Please 1 NE CD1 Trk03.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="5" y="59"/>
+    <point x="49" y="59"/>
+    <point x="49" y="122"/>
+    <point x="5" y="122"/>
+  </popup>
+</page>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[<b>People and places (Unit 2, Lesson 3)</b>]]></title>
+	<Banner><![CDATA[je me vois]]></Banner>
+	<version><![CDATA[student]]></version>							<!-- student/teacher -->
+	<verticalIndent>75</verticalIndent>
+	<multipleSelection>false</multipleSelection>
+	<hilightText color="0x0033CC"></hilightText>
+	<helpText><![CDATA[Select the correct option from the drop-down menus to fill in the gaps.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+	<feedback>
+		<positiveFeedback><![CDATA[Bravo! Clique sur «Next».]]></positiveFeedback>
+		<negativeFeedback><![CDATA[Dommage, mauvaise réponse. Clique sur «Next».]]></negativeFeedback>
+	</feedback>
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+    <audioPanel><![CDATA[true]]></audioPanel>
+	<templateType><![CDATA[DD]]></templateType>  <!-- DND/DD -->
+	<!--multipleUse><![CDATA[true]]></multipleUse-->
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+			<!--image><![CDATA[dummy.swf]]></image-->
+
+			<!--Used for 18g(with block of reading text). Remove "--readingText" node for 18f (gapped options only). -->
+			<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<!--audio><![CDATA[dummy_1.mp3]]></audio-->
+			<options childType="array">
+
+				<!-- Use for 18f (gapped options only). Width should be "690". -->
+				<!--option id="1" left="0" top="0" height="800" width="690" lineHeight="35"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. each word <object type="mcTarget_" id="0" height="32" width="150"></object>below that describes older people and  <object type="mcTarget_" id="1" height="32" width="100"></object>decide how you would categorise themunder the <br/> headings in the grid.&nbsp; </font></p>]]></option-->
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. Where <object type="mcTarget_" id="0" height="32" width="150"></object>you from? <br><br>2. Where <object type="mcTarget_" id="1" height="32" width="100"></object>New York?<br><br>3. I <object type="mcTarget_" id="2" height="32" width="100"></object> from Greece.<br><br>4. London is<object type="mcTarget_" id="3" height="32" width="100"></object>England.<br><br>5. This is my husband. <object type="mcTarget_" id="4" height="32" width="100"></object> is from Wales.<br><br>6. This is my wife. <object type="mcTarget_" id="5" height="32" width="100"></object>is from Scotland.<br><br>7. Where is Dallas?<object type="mcTarget_" id="6" height="32" width="100"></object> is in America.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[is]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[are]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[am]]></textValue>
+				</optionText>
+				<optionText id="1">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[is]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[are]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[am]]></textValue>
+				</optionText>
+				<optionText id="2">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[is]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[are]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[am]]></textValue>
+				</optionText>
+				<optionText id="3">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[in]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[from]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[of]]></textValue>
+				</optionText>
+				<optionText id="4">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[She]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[It]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[He]]></textValue>
+				</optionText>
+				<optionText id="5">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[She]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[It]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[He]]></textValue>
+				</optionText>
+				<optionText id="6">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[She]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[He]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[It]]></textValue>
+				</optionText>
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+		<assessmentItem id="2">
+			<rubric><![CDATA[Click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<options childType="array">
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. Athens is in <object type="mcTarget_" id="7" height="32" width="150"></object>.<br><br>2. Cardiff is in <object type="mcTarget_" id="8" height="32" width="100"></object>.<br><br>3. Glasgow is in<object type="mcTarget_" id="9" height="32" width="100"></object>.<br><br>4. Sousse is in<object type="mcTarget_" id="10" height="32" width="100"></object>.<br><br>5. Rabat is in<object type="mcTarget_" id="11" height="32" width="100"></object>.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="7">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[England]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[Greece]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[USA]]></textValue>
+				</optionText>
+				<optionText id="8">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[Wales]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[Egypt]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[Morocco]]></textValue>
+				</optionText>
+				<optionText id="9">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[Oman]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[Wales]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[Scotland]]></textValue>
+				</optionText>
+				<optionText id="10">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[England]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[Algeria]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[Tunisia]]></textValue>
+				</optionText>
+				<optionText id="11">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[Morroco]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[Egypt]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[Greece]]></textValue>
+				</optionText>
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+</assessment>

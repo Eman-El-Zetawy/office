@@ -1,0 +1,109 @@
+/*
+The style holds the data for customizing the labels of Glossary word definition items.
+'font_family' specifies the font type of text displayed.
+'font_size'  specifies the font size of text displayed.
+'bold', 'italic' and 'underline' specifies the formatting of text displayed.  Possible values: true or false.
+'color'  specifies the color of text displayed.
+'text_align' specifies the allignment of the text displayed. Possible values: left, right or center
+'embed_font' specifies if the font embeded in Glossary skin should be used or not. Possible values: true or false.
+*/
+definition
+{
+	font_family:Verdana;
+	font_size:12;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	embed_font:true;
+}
+
+
+/*
+The style holds the data for customizing the Glossary Letter buttons.
+We are explaining here the formatting of Up state, follow same steps for other states also.
+'font_family' specifies the font type of text displayed.
+'font_size'  specifies the font size of text displayed.
+'bold', 'italic' and 'underline' specifies the formatting of text displayed.  Possible values: true or false.
+'color'  specifies the color of text displayed.
+'text_align' specifies the allignment of the label text displayed. Possible values: left, right or center
+'graphic' specifies the linkage name of graphic used for Glossary letter buttons.
+'embed_font' specifies if the font embeded in Glossary skin should be used or not. Possible values: true or false.
+*/
+button.down
+{
+	font_family:Verdana;
+	font_size:12;
+	bold:true;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: center;
+	graphic: charBG;
+	embed_font:true;
+}
+
+button.up
+{
+	font_family:Verdana;
+	font_size:12;
+	bold:true;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: center;
+	graphic: charBG1;
+	embed_font:true;
+}
+
+
+/*
+The style holds the data for customizing the Glossary word items.
+*/
+button1.up
+{
+	font_family:Verdana;
+	font_size:12;
+	bold:false
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	embed_font:true;
+}
+
+button1.over
+{
+	font_family:Verdana;
+	font_size:12;
+	bold:false
+	italic:false
+	underline:false;
+	color: 0x729900;
+	text_align: left;
+	embed_font:true;
+}
+
+button1.down
+{
+	font_family:Verdana;
+	font_size:12;
+	bold:true
+	italic:false
+	underline:false;
+	color: 0x729900;
+	text_align: left;
+	embed_font:true;
+}
+
+
+/*
+The style holds the data for positioning the audio play button.
+'X' and 'Y' specifies the position of audio play button in glossary tab.
+*/
+playbutton
+{
+	X: 688;
+	Y: 440;
+}

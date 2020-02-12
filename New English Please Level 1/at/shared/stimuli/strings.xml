@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- Tooltip text       -->
+
+		<string id="tooltip.controls.quit"></string>
+		<string id="tooltip.controls.minimize">Minimise</string>
+		<string id="tooltip.controls.home">Front Screen</string>
+		<string id="tooltip.controls.exit"></string>
+		<string id="tooltip.controls.HelpMinimize">Help</string>
+
+		<string id="tooltip.home.windowControls.quit"></string>
+		<string id="tooltip.home.windowControls.minimize">Minimise</string>
+		<string id="tooltip.home.windowControls.help">Help</string>
+
+		<string id="tooltip.windowControls.quit"></string>
+		<string id="tooltip.windowControls.minimize">Minimise</string>
+		<string id="tooltip.windowControls.help">Help</string>
+
+		<string id="tooltip.paletteButton.label1">Label</string>
+		<string id="tooltip.paletteButton.label2">Sticky Note </string>
+		<string id="tooltip.paletteButton.label3">Speech Bubble 1</string>
+		<string id="tooltip.paletteButton.label4">Speech Bubble 2</string>
+		<string id="tooltip.paletteButton.label5">Thought Bubble 1</string>
+		<string id="tooltip.paletteButton.label6">Thought Bubble 2</string>
+
+		<string id="tooltip.paletteButton.thickPencil">Crayon</string>
+		<string id="tooltip.paletteButton.highlighter">Highlighter</string>
+		<string id="tooltip.paletteButton.colorDraw">Change Colour</string>
+
+		<string id="tooltip.editButton.play">Play</string>
+		<string id="tooltip.editButton.playBlink">Play</string>
+		<string id="tooltip.editButton.pause">Pause</string>
+		<string id="tooltip.editButton.forward">Forward</string>
+		<string id="tooltip.editButton.forward2">Forward</string>
+		<string id="tooltip.editButton.rewind">Rewind</string>
+		<string id="tooltip.editButton.back">Back</string>
+		<string id="tooltip.editButton.rewind2">Back</string>
+
+		<string id="tooltip.editButton.thumbs">Select Page</string>
+		<string id="tooltip.editButton.thumbs2">Select Page</string>
+
+		<string id="tooltip.editButton.fullScreenButton">Full Screen</string>
+		<string id="tooltip.editButton.fullScreenButton2">Full Screen</string>
+
+		<string id="tooltip.paletteButton.small.bold">Bold</string>
+		<string id="tooltip.paletteButton.small.italic">Italic</string>
+		<string id="tooltip.paletteButton.small.underline">Underline</string>
+		<string id="tooltip.paletteButton.small.fontsize1">Small Text</string>
+		<string id="tooltip.paletteButton.small.fontsize2">Medium Text</string>
+		<string id="tooltip.paletteButton.small.fontsize3">Large Text</string>
+		<string id="tooltip.paletteButton.colorText">Change Colour</string>
+		<string id="tooltip.paletteButton.copy">Copy</string>
+		<string id="tooltip.paletteButton.paste">Paste</string>
+		<string id="tooltip.paletteButton.textRevealIcon">Text Reveal </string>
+		<string id="tooltip.paletteButton.textHideIcon">Text Hide</string>
+
+		<string id="tooltip.paletteButton.colorDropdown.color1">Black</string>
+		<string id="tooltip.paletteButton.colorDropdown.color2">White</string>
+		<string id="tooltip.paletteButton.colorDropdown.color3">Red</string>
+		<string id="tooltip.paletteButton.colorDropdown.color4">Orange</string>
+		<string id="tooltip.paletteButton.colorDropdown.color5">Yellow</string>
+		<string id="tooltip.paletteButton.colorDropdown.color6">Green</string>
+		<string id="tooltip.paletteButton.colorDropdown.color7">Blue</string>
+		<string id="tooltip.paletteButton.colorDropdown.color8">Purple</string>
+		<string id="tooltip.paletteButton.colorDropdown.color9">Pink</string>
+
+		<string id="tooltip.paletteButton.dropdown.color1">Black</string>
+		<string id="tooltip.paletteButton.dropdown.color2">White</string>
+		<string id="tooltip.paletteButton.dropdown.color3">Red</string>
+		<string id="tooltip.paletteButton.dropdown.color4">Orange</string>
+		<string id="tooltip.paletteButton.dropdown.color5">Yellow</string>
+		<string id="tooltip.paletteButton.dropdown.color6">Green</string>
+		<string id="tooltip.paletteButton.dropdown.color7">Blue</string>
+		<string id="tooltip.paletteButton.dropdown.color8">Purple</string>
+		<string id="tooltip.paletteButton.dropdown.color9">Pink</string>
+
+		<string id="tooltip.controlButton.save">Save</string>
+		<string id="tooltip.controlButton.reset">Reset</string>
+		<string id="tooltip.controlButton.print">Print</string>
+
+		<string id="tooltip.controlButton.audio">Audio</string>
+		<!--
+		<string id="tooltip.controlButton.Stimulus.showAll">Display Toggle</string>
+		<string id="tooltip.controlButton.Text.showAll">Display Toggle</string>
+		<string id="tooltip.controlButton.UandI.showAll">Display Toggle</string>
+		<string id="tooltip.controlButton.EandR.showAll">Display Toggle</string>
+
+		<string id="tooltip.analysisControlButton.nouns">Nouns</string>
+		<string id="tooltip.analysisControlButton.verbs">Verbs</string>
+		<string id="tooltip.analysisControlButton.adjectives">Adjectives</string>
+		<string id="tooltip.analysisControlButton.punctuation">Punctuation</string>
+		-->
+		<string id="tooltip.homeButton.credits">Credits</string>
+
+		<string id="tooltip.AudioOff">Audio Off</string>
+		<string id="tooltip.AudioOn">Audio On</string>
+
+		<string id="tooltip.ShowAll">Show All</string>
+		<string id="tooltip.HideAll">Hide All</string>
+		<string id="tooltip.HideText">Hide Text</string>
+		<string id="tooltip.HideImage">Hide Image</string>
+		<string id="tooltip.creditScreenButton"></string>
+		<string id="tooltip.pageControllerButton">Playback Head</string>
+
+		<string id="tooltip.trailLink.home">Return to main menu</string>
+		<string id="tooltip.trailLink.link1">Return to unit menu</string>
+
+
+	<!-- End Tooltip text -->
+	<string id="alertTitle">*** ALERT ***</string>
+	<string id="creditScreenTitle">Credits</string>
+	<string id="helpScreenTitle">Help</string>
+	<string id="exitScreenTitle">Exit</string>
+	<string id="creditScreenButtonClose"></string>
+	<string id="exitScreenButtonClose">Exit</string>
+	<string id="alertButtonNo">No</string>
+	<string id="alertButtonOkay">Okay</string>
+	<string id="alertButtonYes">Yes</string>
+
+	<string id="alertButtonOriginal">Original</string>
+	<string id="alertButtonSaved">Saved</string>
+	<string id="alertButtonCancel">Cancel</string>
+	
+	<string id="alertButtonYes">Yes</string>
+	<string id="alertButtonNo">No</string>
+	<string id="alertButtonCancel">Cancel</string>
+
+	<string id="resetPanelLabel">Are you sure you wish to reset your most recent changes?</string>
+	<string id="resetButtonOK">OK</string>
+	<string id="resetButtonCancel">Cancel</string>
+	<string id="frameLinkHelp">Help</string>
+	<string id="frameLinkGlossary">Glossary</string>
+	<string id="frameLinkMap">Curriculum map</string>
+	<string id="trailLinkHome">Home</string>
+	<string id="confirmationOpen">You have unsaved changes. Are you sure you want to open a new file?</string>
+	<string id="confirmationQuit">Do you want to save your Text annotation?</string>
+	<string id="openSaved">Do you want to save the changes?</string>
+	<string id="complexQuit">Would you like to save changes to this unit?</string>
+
+	<string id="ExistFileSavePopup">Save, or Save As?</string>
+	<string id="SaveButtonSave">Save</string>
+	<string id="SaveButtonSaveAs">Save As</string>
+	<string id="SaveButtonCancel">Cancel</string>
+
+	<string id="controlButtonSave">Save</string>
+	<string id="controlButtonReset">Reset</string>
+	<string id="controlButtonPrint">Print</string>
+	<string id="copyPageButton">Duplicate</string>
+	<string id="editButtonHide">Hide</string>
+	<string id="editButtonShow">Show</string>
+	<string id="editButtonMute">Mute</string>
+	<!--
+	<string id="analysisButtonNouns">Nouns</string>
+	<string id="analysisButtonVerbs">Verbs</string>
+	<string id="analysisButtonAdjectives">Adjectives</string>
+	<string id="analysisButtonPunctuation">Punctuation</string>
+	-->
+	<string id="controlButtonAudioOn">Audio On</string>
+	<string id="controlButtonAudioOff">Audio Off</string>
+	<string id="controlButtonShowAll">Show All</string>
+	<string id="controlButtonHideAll">Hide All</string>
+	<string id="controlButtonHideText">Hide Text</string>
+	<string id="controlButtonHideImage">Hide Image</string>
+	<string id="errorActivity">The activity for this page could not be loaded.</string>
+	<string id="errorAnimation">The animation for this page could not be loaded.</string>
+	<string id="errorAudio">An audio track for this page could not be loaded.</string>
+	<string id="errorBackgroundImage">The background image for this page could not be loaded.</string>
+	<string id="errorDownloadResource">There was an error downloading this resource.</string>
+	<string id="errorImage">An image for this page could not be loaded.</string>
+	<string id="errorLoadFile">The file could not be loaded.</string>
+	<string id="errorPageData">The XML data for this page could not be loaded.</string>
+	<string id="errorPageSave">The data for this page could not be saved.</string>
+	<string id="errorPaper">The FlashPaper document could not be loaded.</string>
+	<string id="errorSaveFile">The file could not be saved.</string>
+	<string id="errorSearchXML">A search related XML document could not be found.</string>
+	<string id="errorVideo">The video for this page could not be loaded.</string>
+	<!------------------------------------------------------------------------------->
+	<string id="homeButtonFiction">Fiction</string>
+	<string id="homeButtonNonFiction">Non-fiction</string>
+	<string id="homeButtonPoetry">Poetry</string>
+	<string id="homeButtonCredits">Credits</string>
+
+	<string id="fictionUnit1">Story with familiar setting</string>
+	<string id="fictionUnit2">Myth</string>
+	<string id="fictionUnit3">Traditional story</string>
+	<string id="fictionUnit4">Adventure story</string>
+	<string id="fictionUnit5">Dialogue and plays</string>
+
+	<string id="nonfictionUnit1">Non-chronological report</string>
+	<string id="nonfictionUnit2">Report</string>
+	<string id="nonfictionUnit3">Instructions</string>
+	<string id="nonfictionUnit4">Non-linear information text</string>
+
+	<string id="poetryUnit1">Performance poem</string>
+	<string id="poetryUnit2">Shape poem</string>
+	<string id="poetryUnit3">Language play poem</string>
+
+
+	<string id="homeTabFiction">Fiction</string>
+	<string id="homeTabNonfiction">Non-fiction</string>
+	<string id="homeTabPoetry">Poetry</string>
+
+	<string id="pageTabStimulus">Stimulus</string>
+	<string id="pageTabText">Text</string>
+	<string id="pageTabUandI">Understand and Interpret</string>
+	<string id="pageTabE_R">Engage and Respond</string>
+	<!------------------------------------------------------------------------------->
+	<string id="okayPageSave">The data for this page was saved successfully.</string>
+	<string id="printWarning">When the print dialog appears, please change the print setting to 'landscape' and scale the image to about 85%.</string>
+	<string id="resourcesMessage">There are no resources for this page.</string>
+	<string id="resourceTypeAnimation">Animation</string>
+	<string id="resourceTypeAudio">Audio</string>
+	<string id="resourceTypeImage">Image</string>
+	<string id="resourceTypePdf">PDF</string>
+	<string id="resourceTypeVideo">Video</string>
+	<string id="saveAsButton">Save As</string>
+	<string id="saveButton">Save</string>
+	<string id="selectionDelete">Delete</string>
+	<string id="selectionHide">Hide</string>
+</strings>

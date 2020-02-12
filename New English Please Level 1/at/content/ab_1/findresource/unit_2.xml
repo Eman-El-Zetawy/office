@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<categories id="activeteach">
+  <category label="Family and friends">
+    <category label="interactive">
+      <assetdata>
+        <asset data="../atm/ep1_09/ep1_09.swf"/>
+        <asset data="../atm/ep1_10/ep1_10.swf"/>
+        <asset data="../atm/ep1_11/ep1_11.swf"/>
+        <asset data="../atm/ep1_12/ep1_12.swf"/>
+        <asset data="../atm/ep1_13/ep1_13.swf"/>
+        <asset data="../atm/ep1_14/ep1_14.swf"/>
+        <asset data="../atm/ep1_15/ep1_15.swf"/>
+        <asset data="../atm/ep1_16/ep1_16.swf"/>
+      </assetdata>
+    </category>
+    <category label="audio">
+      <assetdata>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk34.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk35.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk36.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk37.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk38.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk39.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk40.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk41.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk42.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk43.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk44.mp3"/>
+      </assetdata>
+    </category>
+  </category>
+</categories>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <main_assets>
+    <asset resource_type_id="4">
+      <text_screen id="S016823_Y3FU01_t02" bg_colour="0xFFFFFF" bg_image="01_text_bg.swf">
+        <text_field left="50" top="0" width="500"></text_field>
+      </text_screen>
+    </asset>
+  </main_assets>
+</page>

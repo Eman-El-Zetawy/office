@@ -1,0 +1,8 @@
+﻿<settings>
+  <resourceID>wrapper</resourceID>
+  <fullscreen>1</fullscreen>
+  <alertTitle>English Please Level 1</alertTitle>
+  <applicationTitle>English Please Level 1</applicationTitle>
+  <debugMode>0</debugMode>
+  <commandLineWaitTimeOut>5</commandLineWaitTimeOut>
+</settings>

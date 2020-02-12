@@ -1,0 +1,17 @@
+/*Right asset panel colors*/
+/*color normal: #DBF4FF
+//color selected: #FF9933
+//drag frm the box: #FFF6DB
+*/
+panel.url
+{
+	color: 0xDBF4FF;
+}
+panel.book
+{
+	color: 0xFFF6DB;
+}
+panel.nonEditable
+{
+	color: 0xffffff;
+}

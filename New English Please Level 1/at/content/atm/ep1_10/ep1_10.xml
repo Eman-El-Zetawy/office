@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[Contrôle de lecture (Level 3)]]></title>
+	<version><![CDATA[student]]></version>							<!-- student/teacher 15a-->
+	<banner><![CDATA[<b>The family (Unit 2, Lesson 1)</b>]]></banner>
+	<rubric><![CDATA[]]></rubric>
+	<helpText><![CDATA[Rearrange the characters within the words. When you drag and drop a character onto another they swap places.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+
+	<feedback>
+		<relative><![CDATA[Your score: ]]></relative>
+		<final><![CDATA[Do you want to try again?]]></final>
+	</feedback>
+
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+
+	<audioPanel><![CDATA[false]]></audioPanel>
+	<activityType><![CDATA[character]]></activityType>
+	<navigationAudio><![CDATA[false]]></navigationAudio>
+
+	<assessmentItems childType="array">
+
+		<assessmentItem id="1" constYGap="95">
+			<rubric><![CDATA[Spell the family words.]]></rubric>
+			<audio><![CDATA[]]></audio>
+			<contentType><![CDATA[text]]></contentType>
+			<groups childType="array">
+				<group>
+					<prompt><![CDATA[grandmother]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[uncle]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[brother]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>;
+					<prompt><![CDATA[father]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[son]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+			</groups>
+		</assessmentItem>
+
+
+		<assessmentItem id="2" constYGap="95">
+			<rubric><![CDATA[Spell the family words.]]></rubric>
+			<audio><![CDATA[dummy_2.mp3]]></audio>
+			<contentType><![CDATA[text]]></contentType>
+			<groups childType="array">
+				<group>
+					<prompt><![CDATA[grandfather]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[mother]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[sister]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[aunt]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[daughter]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+			</groups>
+		</assessmentItem>
+
+
+	<!--
+		<assessmentItem id="1">
+			<rubric><![CDATA[]]></rubric>
+			<audio><![CDATA[dummy_1.mp3]]></audio>
+			<contentType><![CDATA[image]]></contentType>
+			<groups childType="array">
+				<group>
+					<prompt><![CDATA[They're selling postcards of the hanging They're painting the passports brown]]></prompt>
+					<content><![CDATA[dummy_1.swf]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[The beauty parlour is filled with sailors]]></prompt>
+					<content><![CDATA[dummy_1.swf]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[The circus is in town Then in comes the blind commissioner They got him in a trance One hand is tied to a tight-rope walker]]></prompt>
+					<content><![CDATA[dummy_1.swf]]></content>
+				</group>
+			</groups>
+		</assessmentItem>
+		-->
+
+	</assessmentItems>
+</assessment>

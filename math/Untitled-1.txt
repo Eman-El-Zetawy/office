@@ -1,0 +1,91 @@
+<html> <head><style type = "text/CSS" >
+.all{ background-color: yellow;}
+              /* p.font{
+                   font-family: Arial, Helvetica, sans-serif ;
+                   font-style: oblique;
+                   font-weight: bold;
+                   font-size: 40px;  } */
+               h3.h3{  }
+               .dd{  background-color: darkolivegreen;
+                   float: right ;
+                   width: 35% ; }
+             .tt{ overflow:auto;
+               /*content: "";
+               display: table;
+               clear: both; */ }
+             .pp{ text-align: right;
+                 float: left;
+                 width: 55%; }
+             .ar{ border :solid ;
+                 border-color: black; } 
+               .rr{ float: left;
+                   width:400px;  }
+               .ii{  float: left;
+                   width:500px ; }
+               .oo{ float: left;
+                   width:500px ;      }
+</style> </head> <body> <div class=all> <div class=aa>
+             <img src="logo L.jpg.png" alt = "logo"  style=width:40px;height:40px; >
+             <h1 class=font > Zozo </h1> <p>Travel diaries</p> 
+              <var><ul style="list-style-type:none; display: inline;">
+                  <li><a href="#">HOME</a></li>
+                  <li><a href ="#" >BLOG</a></li>
+                  <li><a href ="#">RESUME</a></li>
+                  <li><a href ="#">CONTACT</a></li></ul> </var>
+         </div> <!--end class aa-->
+         <div class =bb>
+             <img src="line.png " alt ="line "  style =width:100%;height:10px; ><br>
+          <img src="san.jpg"  alt="sans-serif" style = width:100%; >
+          <div  class =nn>
+          <p>Reflection on my holiday in the united states..</p>  
+          <div class=nnm > 
+              <p>see articde</p>
+              <img src="arrow.png" alt ="smol" style="float: right;" > </div>  </div> </div> <!--end class bb-->  <div class =cc>
+          <img src="pin.png" alt="pin" style= "width:40px;height:40px; float: left;">
+           <h4>I'M A GREAT TRAVELLR </h4>
+         </div> <!--end class cc--> <div class=pp >
+         <P>One night four college students were out partying late night and didn’t 
+             study for the test which was scheduled for the next day. In the morning, 
+             they thought of a plan.
+            They made themselves look dirty with grease and dirt.
+            Then they went to the Dean and said they had gone out to a
+             wedding last night and on their way back the tire of their car
+              burst and they had to push the car all the way back. So they were
+               in no condition to take the test.
+            The Dean thought for a minute and said they can have the re-test after
+             3 days. They thanked him and said they will be ready by that time.
+            On the third day, they appeared before the Dean. The Dean said that as
+             this was a Special Condition Test, all four were required to sit in separate
+              classrooms for the test. They all agreed as they
+               had prepared well in the last 3 days.</P>  </div> <div class=dd >
+                <h4>A BOUT THE AUTHOR</h4>
+             <img src="zozor.png" alt ="zozo " class=ar >
+             <p>On the third day, they appeared before the Dean. The Dean said that as
+                    this was a Special Condition Test, all four were required to sit in separate
+                     classrooms for the test. They all agreed as they
+                      had prepared well in the last 3 days </p> <div class=ae>
+               <img src ="facebook.png" alt="facebook"  >
+               <img src ="twitter.png" alt ="twitter" >
+               <img src = "vimeo.png"   alt = "vimeo " >
+               <img src = "flickr.png"   alt ="flickr" >
+               <img src = "rss.png"  alt = "rss" > </div> </div> <div > <!--img and line -->
+             <img src ="line.png" alt = "line " style =width:100%;height:10px;>
+             <img src ="top.png" alt = "top"    ></div> <div class=tt><div  class=rr>
+                 <h1>MY LAST TWEET</h1>
+            <p>Hee_haw!</p> <br>
+            <p>12/05  23:12</p> </div>
+             <div class=ii> 
+                 <h1>MY PICTURES</h1>
+                 <img src ="pic1.jpg" alt ="pic"   style="width: 60px ;border: 1px solid black; ">
+                 <img src ="pic2.jpg" alt ="pic"    style="width: 60px ;border: 1px solid black; ">
+                 <img src ="pic3.jpg" alt ="pic"     style="width: 60px ;border: 1px solid black;  ">
+                 <img src ="pic4.jpg" alt ="pic"      style="width: 60px;border: 1px solid black; "></div><div class=oo>
+                 <h1>MY FRIENDS</h1>
+                 <img src ="external_link.png" alt="am" style="float: left;" >  <p>pupi the rabbi </p> <img src ="external_link.png" alt="am"  style="float: left;">  <p>My Baobab </p> 
+                 <img src ="external_link.png" alt="am"    style="float: left;">  <p>Kaiwaii</p>
+                 <img src ="external_link.png" alt="am"   style="float: left;" >  <p>perceval.eu</p>
+                 <img src ="external_link.png" alt="am"  style="float: left;" >  <p>ji </p>
+                 <img src ="external_link.png" alt="am"   style="float: left;" >  <p>super cucumen</p>
+                 <img src ="external_link.png" alt="am"     style="float: left;"> <p>prince</p>
+                 <img src ="external_link.png" alt="am"   style="float: left;" > <p>Mr Fan</p>
+             </div> </div></div> <!--end class all--></body></html>

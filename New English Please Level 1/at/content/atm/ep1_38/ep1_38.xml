@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+<assessment>
+	<title><![CDATA[<b>She’s got green eyes (Unit 5, Lesson 3)</b>]]></title>
+	<Banner><![CDATA[je me vois]]></Banner>
+	<version><![CDATA[student]]></version>							<!-- student/teacher -->
+	<verticalIndent>75</verticalIndent>
+	<multipleSelection>false</multipleSelection>
+	<hilightText color="0x0033CC"></hilightText>
+	<contentUrl>
+		<image>content/image/thumbnail/</image>
+		<audio>content/audio/</audio>
+		<swf></swf>
+	</contentUrl>
+	<helpText><![CDATA[The aim of the game is to escape the maze by forming a correct sentence that ends on one of the edges of the grid.<br><br>From each square you can only move to one of the highlighted squares.<br>Choose the only word that can correctly follow the word in the square that you are in and click on it.<br>Move one square at a time, forming a sentence, until you reach one of the edges of the grid or until it is impossible to extend your sentence further.<br>Click on Submit.<br><br>To undo your selections click on the squares you want to deselect in the reverse order to that in which you selected them (they will be numbered).<br>If you make a mistake and submit an incorrect answer, you will have to try again later.<br><br>If you click on Reveal, the sentence will be shown for two seconds, and then you’ll be able to resume playing.<br><br>In the Single player game find all of the sentences in the shortest time possible.<br><br>In the Two player game players take turns to play. Player 1 plays first.<br>The first player to score three points is the winner.]]></helpText>
+	<feedback>
+		<winTwoPoint><![CDATA[Well done! Click on 'Close' and then click Start to continue the game.]]></winTwoPoint>
+		<looseTwoPoint><![CDATA[Wrong answer! Let’s carry on now! Click on 'Close' and then click Start to continue the game.]]></looseTwoPoint>
+		<!-- Use the **##** fpr team -->
+		<winTwoGame><![CDATA[Player **##** wins. Congratulations!]]></winTwoGame>
+		<timeUpTwoPoint><![CDATA[Time’s up! Click on 'Close' and then click Start to continue the game.]]></timeUpTwoPoint>
+		<!-- USE THE ** AND ## FOR SENTENCE GIVEN BELOW -->
+		<winSingleGame><![CDATA[Congratulations! You have found all the sentences in **:##.]]></winSingleGame>
+		<winSinglePoint><![CDATA[Well done! Click on ‘Close’ to continue playing.]]></winSinglePoint>
+		<looseSinglePoint><![CDATA[Wrong answer! Let’s carry on now! Click on 'Close' to continue playing.]]></looseSinglePoint>
+	</feedback>
+
+	<twoPlayerWinCount><![CDATA[3]]></twoPlayerWinCount>
+	<singlePlayerWinCount><![CDATA[10]]></singlePlayerWinCount>
+
+	<winnerAudio><![CDATA[winnersTune.mp3]]></winnerAudio>
+
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Click to select number of players.]]></rubric>
+			<wordList childType="array">
+				<set>
+					<rubric><![CDATA[Start in the blue square and move across the board to make a sentence.]]></rubric>
+					<cells childType="array">
+						<row><![CDATA[He’s;look;grey;medium;moustache.]]></row>
+						<row><![CDATA[hair;got;tall;hair;matter.]]></row>
+						<row><![CDATA[bag;late;car;and;really.]]></row>
+						<row><![CDATA[sister;beard;lemon;blue;eyes.]]></row>
+						<row><![CDATA[beautiful;like;suitcase;thin;fat.]]></row>
+						<row><![CDATA[keys;house;ticket;passport;quite.]]></row>
+					</cells>
+					<!-- DO NOT PUT THE EXTRA SPACE BETWEEN THE IN THIS TAG -->
+					<correctAnswer><![CDATA[1_1,2_2,1_3,2_4,3_4,4_4,4_5]]></correctAnswer>
+					<correctAnswerString><![CDATA[He’s got grey hair and blue eyes.]]></correctAnswerString>
+				</set>
+				<set>
+					<rubric><![CDATA[Start in the blue square and move across the board to make a sentence.]]></rubric>
+					<cells childType="array">
+						<row><![CDATA[He’s;excuse;camera;far;centre.]]></row>
+						<row><![CDATA[got;road;market;airport;date.]]></row>
+						<row><![CDATA[park;fair;hair;lorry;brakes.]]></row>
+						<row><![CDATA[pound;clutch;and;a;moustache.]]></row>
+						<row><![CDATA[kilo;mosque;street;many;what’s.]]></row>
+						<row><![CDATA[they’re;rial;apricot;radio;much.]]></row>
+					</cells>
+					<!-- DO NOT PUT THE EXTRA SPACE BETWEEN THE IN THIS TAG -->
+					<correctAnswer><![CDATA[1_1,2_1,3_2,3_3,4_3,4_4,4_5]]></correctAnswer>
+					<correctAnswerString><![CDATA[He’s got fair hair and a moustache.]]></correctAnswerString>
+				</set>
+				<set>
+					<rubric><![CDATA[Start in the blue square and move across the board to make a sentence.]]></rubric>
+					<cells childType="array">
+						<row><![CDATA[She’s;late;how;thirty;passport.]]></row>
+						<row><![CDATA[o’clock;got;like;very;beautiful.]]></row>
+						<row><![CDATA[twenty;yes;brown;are;teacher.]]></row>
+						<row><![CDATA[and;old;eyes;is;forty.]]></row>
+						<row><![CDATA[doctor;really;and;am;matter.]]></row>
+						<row><![CDATA[secretary;job;what’s;black;hair.]]></row>
+					</cells>
+					<!-- DO NOT PUT THE EXTRA SPACE BETWEEN THE IN THIS TAG -->
+					<correctAnswer><![CDATA[1_1,2_2,3_3,4_3,5_3,6_4,6_5]]></correctAnswer>
+					<correctAnswerString><![CDATA[She’s got brown eyes and black hair.]]></correctAnswerString>
+				</set>
+				<set>
+					<rubric><![CDATA[Start in the blue square and move across the board to make a sentence.]]></rubric>
+					<cells childType="array">
+						<row><![CDATA[He’s;got;street;wife;town.]]></row>
+						<row><![CDATA[hundred;short;excuse;army;name.]]></row>
+						<row><![CDATA[sandwich;bus;brown;truck;friends.]]></row>
+						<row><![CDATA[station;hospital;hair;cab;school.]]></row>
+						<row><![CDATA[watch;taxi;and;bank;problem.]]></row>
+						<row><![CDATA[lemon;palace;road;green;eyes.]]></row>
+					</cells>
+					<!-- DO NOT PUT THE EXTRA SPACE BETWEEN THE IN THIS TAG -->
+					<correctAnswer><![CDATA[1_1,1_2,2_2,3_3,4_3,5_3,6_4,6_5]]></correctAnswer>
+					<correctAnswerString><![CDATA[He’s got short brown hair and green eyes.]]></correctAnswerString>
+				</set>
+				<set>
+					<rubric><![CDATA[Start in the blue square and move across the board to make a sentence.]]></rubric>
+					<cells childType="array">
+						<row><![CDATA[She’s;got;building;men;goodbye.]]></row>
+						<row><![CDATA[tea;morning;fair;singer;tomorrow.]]></row>
+						<row><![CDATA[handle;thirsty;there;hair;pilot.]]></row>
+						<row><![CDATA[mine;colour;whose;and;spaceman.]]></row>
+						<row><![CDATA[think;visa;ticket;brown;next.]]></row>
+						<row><![CDATA[money;seat;book;excuse;eyes.]]></row>
+					</cells>
+					<!-- DO NOT PUT THE EXTRA SPACE BETWEEN THE IN THIS TAG -->
+					<correctAnswer><![CDATA[1_1,1_2,2_3,3_4,4_4,5_4,6_5]]></correctAnswer>
+					<correctAnswerString><![CDATA[She’s got fair hair and brown eyes.]]></correctAnswerString>
+				</set>
+				<set>
+					<rubric><![CDATA[Start in the blue square and move across the board to make a sentence.]]></rubric>
+					<cells childType="array">
+						<row><![CDATA[My;got;station;men;hello.]]></row>
+						<row><![CDATA[sandwich;father;fair;singer;tomorrow.]]></row>
+						<row><![CDATA[handle;has;got;a;pilot.]]></row>
+						<row><![CDATA[yours;colour;whose;grey;spaceman.]]></row>
+						<row><![CDATA[think;visa;ticket;brown;beard.]]></row>
+						<row><![CDATA[money;street;book;excuse;eyes.]]></row>
+					</cells>
+					<!-- DO NOT PUT THE EXTRA SPACE BETWEEN THE IN THIS TAG -->
+					<correctAnswer><![CDATA[1_1,2_2,3_2,3_3,3_4,4_4,5_5]]></correctAnswer>
+					<correctAnswerString><![CDATA[My father has got a grey beard.]]></correctAnswerString>
+				</set>
+			</wordList>
+		</assessmentItem>
+	</assessmentItems>
+</assessment>

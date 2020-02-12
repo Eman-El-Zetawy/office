@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<unit>
+  <page pageid="52">
+    <popup style="audio" name="Unit 3 Lesson 1 Exercise 2" type="audio" data="../atm/Eng Please 1 NE CD1 Trk46.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="330"/>
+      <point x="56" y="330"/>
+      <point x="56" y="390"/>
+      <point x="15" y="390"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 1" type="flash" data="../atm/ep1_17/ep1_17.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="663"/>
+      <point x="56" y="663"/>
+      <point x="56" y="723"/>
+      <point x="15" y="723"/>
+    </popup>
+  </page>
+  <page pageid="53">
+    <popup style="audio" name="Unit 3 Lesson 1 Exercise 3" type="audio" data="../atm/Eng Please 1 NE CD1 Trk47.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="62"/>
+      <point x="46" y="62"/>
+      <point x="46" y="122"/>
+      <point x="5" y="122"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 1" type="flash" data="../atm/ep1_18/ep1_18.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="406"/>
+      <point x="46" y="406"/>
+      <point x="46" y="466"/>
+      <point x="5" y="466"/>
+    </popup>
+  </page>
+  <page pageid="54">
+    <popup style="audio" name="Unit 3 Lesson 2 Exercise 1" type="audio" data="../atm/Eng Please 1 NE CD1 Trk48.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="92"/>
+      <point x="57" y="92"/>
+      <point x="57" y="153"/>
+      <point x="15" y="153"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 2" type="flash" data="../atm/ep1_20/ep1_20.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="143"/>
+      <point x="57" y="143"/>
+      <point x="57" y="204"/>
+      <point x="15" y="204"/>
+    </popup>
+  </page>
+  <page pageid="55">
+    <popup style="audio" name="Unit 3 Lesson 2 Exercise 3" type="audio" data="../atm/Eng Please 1 NE CD1 Trk49.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="222"/>
+      <point x="46" y="222"/>
+      <point x="46" y="282"/>
+      <point x="5" y="282"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 2" type="flash" data="../atm/ep1_19/ep1_19.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="284"/>
+      <point x="46" y="284"/>
+      <point x="46" y="344"/>
+      <point x="5" y="344"/>
+    </popup>
+    <popup style="audio" name="Unit 3 Lesson 2 Exercise 5" type="audio" data="../atm/Eng Please 1 NE CD1 Trk50.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="437"/>
+      <point x="46" y="437"/>
+      <point x="46" y="497"/>
+      <point x="5" y="497"/>
+    </popup>
+  </page>
+  <page pageid="56">
+    <popup style="audio" name="Unit 3 Lesson 3 Exercise 1" type="audio" data="../atm/Eng Please 1 NE CD1 Trk51.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="92"/>
+      <point x="56" y="92"/>
+      <point x="56" y="152"/>
+      <point x="15" y="152"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 3" type="flash" data="../atm/ep1_21/ep1_21.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="456"/>
+      <point x="56" y="456"/>
+      <point x="56" y="516"/>
+      <point x="15" y="516"/>
+    </popup>
+  </page>
+  <page pageid="57">
+    <popup style="audio" name="Unit 3 Lesson 3 Exercise 3" type="audio" data="../atm/Eng Please 1 NE CD1 Trk52.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="60"/>
+      <point x="46" y="60"/>
+      <point x="46" y="120"/>
+      <point x="5" y="120"/>
+    </popup>
+    <popup style="audio" name="Unit 3 Lesson 3 Exercise 6" type="audio" data="../atm/Eng Please 1 NE CD1 Trk53.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="565"/>
+      <point x="46" y="565"/>
+      <point x="46" y="625"/>
+      <point x="5" y="625"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 2" type="flash" data="../atm/ep1_22/ep1_22.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="623"/>
+      <point x="46" y="623"/>
+      <point x="46" y="683"/>
+      <point x="5" y="683"/>
+    </popup>
+  </page>
+  <page pageid="58">
+    <popup style="audio" name="Unit 3 Lesson 4 Exercise 2" type="audio" data="../atm/Eng Please 1 NE CD1 Trk54.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="290"/>
+      <point x="57" y="290"/>
+      <point x="57" y="351"/>
+      <point x="15" y="351"/>
+    </popup>
+    <popup style="flash" name="Unit 3 Lesson 1" type="flash" data="../atm/ep1_23/ep1_23.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="370"/>
+      <point x="57" y="370"/>
+      <point x="57" y="431"/>
+      <point x="15" y="431"/>
+    </popup>
+  </page>
+  <page pageid="59">
+    <popup style="audio" name="Unit 3 Lesson 4 Exercise 5" type="audio" data="../atm/Eng Please 1 NE CD1 Trk55.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="289"/>
+      <point x="47" y="289"/>
+      <point x="47" y="350"/>
+      <point x="5" y="350"/>
+    </popup>
+    <popup style="audio" name="Unit 3 Lesson 4 Exercise 7" type="audio" data="../atm/Eng Please 1 NE CD1 Trk56.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="515"/>
+      <point x="47" y="515"/>
+      <point x="47" y="576"/>
+      <point x="5" y="576"/>
+    </popup>
+  </page>
+  <page pageid="60"/>
+  <page pageid="61">
+    <popup style="flash" name="Unit 3 New words" type="flash" data="../atm/ep1_24/ep1_24.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="14" y="73"/>
+      <point x="55" y="73"/>
+      <point x="55" y="133"/>
+      <point x="14" y="133"/>
+    </popup>
+  </page>
+</unit>

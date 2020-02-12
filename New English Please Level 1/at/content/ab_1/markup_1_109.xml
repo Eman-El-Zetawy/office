@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page>
+  <glossary style="Glossary" data="desk" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="107"/>
+    <point x="120" y="107"/>
+    <point x="120" y="120"/>
+    <point x="30" y="120"/>
+  </glossary>
+  <glossary style="Glossary" data="dinar" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="121"/>
+    <point x="120" y="121"/>
+    <point x="120" y="134"/>
+    <point x="30" y="134"/>
+  </glossary>
+  <glossary style="Glossary" data="dining room" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="135"/>
+    <point x="120" y="135"/>
+    <point x="120" y="148"/>
+    <point x="30" y="148"/>
+  </glossary>
+  <glossary style="Glossary" data="diploma" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="149"/>
+    <point x="121" y="149"/>
+    <point x="121" y="163"/>
+    <point x="30" y="163"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="59" y="157"/>
+    <point x="59" y="157"/>
+    <point x="59" y="157"/>
+    <point x="59" y="157"/>
+  </glossary>
+  <glossary style="Glossary" data="dirham" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="163"/>
+    <point x="120" y="163"/>
+    <point x="120" y="176"/>
+    <point x="30" y="176"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="55" y="188"/>
+    <point x="55" y="188"/>
+    <point x="55" y="188"/>
+    <point x="55" y="188"/>
+  </glossary>
+  <glossary style="Glossary" data="doctor" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="177"/>
+    <point x="120" y="177"/>
+    <point x="120" y="190"/>
+    <point x="30" y="190"/>
+  </glossary>
+  <glossary style="Glossary" data="door" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="205"/>
+    <point x="120" y="205"/>
+    <point x="120" y="218"/>
+    <point x="30" y="218"/>
+  </glossary>
+  <glossary style="Glossary" data="down" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="219"/>
+    <point x="120" y="219"/>
+    <point x="120" y="232"/>
+    <point x="30" y="232"/>
+  </glossary>
+  <glossary style="Glossary" data="dozen" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="233"/>
+    <point x="120" y="233"/>
+    <point x="120" y="246"/>
+    <point x="30" y="246"/>
+  </glossary>
+  <glossary style="Glossary" data="driver" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="248"/>
+    <point x="120" y="248"/>
+    <point x="120" y="261"/>
+    <point x="30" y="261"/>
+  </glossary>
+  <glossary style="Glossary" data="Dutch" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="262"/>
+    <point x="120" y="262"/>
+    <point x="120" y="275"/>
+    <point x="30" y="275"/>
+  </glossary>
+  <glossary style="Glossary" data="Egypt" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="304"/>
+    <point x="120" y="304"/>
+    <point x="120" y="317"/>
+    <point x="30" y="317"/>
+  </glossary>
+  <glossary style="Glossary" data="Egyptian" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="318"/>
+    <point x="120" y="318"/>
+    <point x="120" y="331"/>
+    <point x="30" y="331"/>
+  </glossary>
+  <glossary style="Glossary" data="eight" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="332"/>
+    <point x="120" y="332"/>
+    <point x="120" y="345"/>
+    <point x="30" y="345"/>
+  </glossary>
+  <glossary style="Glossary" data="eighteen" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="346"/>
+    <point x="120" y="346"/>
+    <point x="120" y="359"/>
+    <point x="30" y="359"/>
+  </glossary>
+  <glossary style="Glossary" data="eighty" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="360"/>
+    <point x="120" y="360"/>
+    <point x="120" y="373"/>
+    <point x="30" y="373"/>
+  </glossary>
+  <glossary style="Glossary" data="eleven" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="374"/>
+    <point x="120" y="374"/>
+    <point x="120" y="387"/>
+    <point x="30" y="387"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="56" y="382"/>
+    <point x="56" y="382"/>
+    <point x="56" y="382"/>
+    <point x="56" y="382"/>
+  </glossary>
+  <glossary style="Glossary" data="Emirati" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="387"/>
+    <point x="120" y="387"/>
+    <point x="120" y="400"/>
+    <point x="30" y="400"/>
+  </glossary>
+  <glossary style="Glossary" data="empty" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="402"/>
+    <point x="120" y="402"/>
+    <point x="120" y="415"/>
+    <point x="30" y="415"/>
+  </glossary>
+  <glossary style="Glossary" data="engineering" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="417"/>
+    <point x="120" y="417"/>
+    <point x="120" y="430"/>
+    <point x="30" y="430"/>
+  </glossary>
+  <glossary style="Glossary" data="England" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="430"/>
+    <point x="120" y="430"/>
+    <point x="120" y="443"/>
+    <point x="30" y="443"/>
+  </glossary>
+  <glossary style="Glossary" data="English" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="444"/>
+    <point x="120" y="444"/>
+    <point x="120" y="457"/>
+    <point x="30" y="457"/>
+  </glossary>
+  <glossary style="Glossary" data="Entrance" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="458"/>
+    <point x="120" y="458"/>
+    <point x="120" y="471"/>
+    <point x="30" y="471"/>
+  </glossary>
+  <glossary style="Glossary" data="Evening" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="473"/>
+    <point x="120" y="473"/>
+    <point x="120" y="486"/>
+    <point x="30" y="486"/>
+  </glossary>
+  <glossary style="Glossary" data="exchange" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="487"/>
+    <point x="120" y="487"/>
+    <point x="120" y="500"/>
+    <point x="30" y="500"/>
+  </glossary>
+  <glossary style="Glossary" data="exclamation mark" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="501"/>
+    <point x="120" y="501"/>
+    <point x="120" y="514"/>
+    <point x="30" y="514"/>
+  </glossary>
+  <glossary style="Glossary" data="Excuse me" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="515"/>
+    <point x="120" y="515"/>
+    <point x="120" y="528"/>
+    <point x="30" y="528"/>
+  </glossary>
+  <glossary style="Glossary" data="expensive" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="529"/>
+    <point x="120" y="529"/>
+    <point x="120" y="542"/>
+    <point x="30" y="542"/>
+  </glossary>
+  <glossary style="Glossary" data="express" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="543"/>
+    <point x="120" y="543"/>
+    <point x="120" y="556"/>
+    <point x="30" y="556"/>
+  </glossary>
+  <glossary style="Glossary" data="eyes" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="557"/>
+    <point x="120" y="557"/>
+    <point x="120" y="570"/>
+    <point x="30" y="570"/>
+  </glossary>
+  <glossary style="Glossary" data="Fair" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="598"/>
+    <point x="120" y="598"/>
+    <point x="120" y="611"/>
+    <point x="30" y="611"/>
+  </glossary>
+  <glossary style="Glossary" data="family" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="612"/>
+    <point x="120" y="612"/>
+    <point x="120" y="625"/>
+    <point x="30" y="625"/>
+  </glossary>
+  <glossary style="Glossary" data="family name" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="627"/>
+    <point x="120" y="627"/>
+    <point x="120" y="640"/>
+    <point x="30" y="640"/>
+  </glossary>
+  <glossary style="Glossary" data="fat" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="641"/>
+    <point x="120" y="641"/>
+    <point x="120" y="654"/>
+    <point x="30" y="654"/>
+  </glossary>
+  <glossary style="Glossary" data="father" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="654"/>
+    <point x="120" y="654"/>
+    <point x="120" y="667"/>
+    <point x="30" y="667"/>
+  </glossary>
+  <glossary style="Glossary" data="fifteen" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="669"/>
+    <point x="120" y="669"/>
+    <point x="120" y="682"/>
+    <point x="30" y="682"/>
+  </glossary>
+  <glossary style="Glossary" data="fifth" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="683"/>
+    <point x="120" y="683"/>
+    <point x="120" y="696"/>
+    <point x="30" y="696"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="29" y="697"/>
+    <point x="29" y="697"/>
+    <point x="29" y="697"/>
+    <point x="29" y="697"/>
+  </glossary>
+  <glossary style="Glossary" data="fifty" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="697"/>
+    <point x="120" y="697"/>
+    <point x="120" y="710"/>
+    <point x="30" y="710"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="711"/>
+    <point x="79" y="711"/>
+    <point x="79" y="725"/>
+    <point x="30" y="725"/>
+  </glossary>
+  <glossary style="Glossary" data="film" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="711"/>
+    <point x="120" y="711"/>
+    <point x="120" y="724"/>
+    <point x="30" y="724"/>
+  </glossary>
+  <glossary style="Glossary" data="fine" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="31" y="725"/>
+    <point x="121" y="725"/>
+    <point x="121" y="738"/>
+    <point x="31" y="738"/>
+  </glossary>
+  <glossary style="Glossary" data="first" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="739"/>
+    <point x="120" y="739"/>
+    <point x="120" y="752"/>
+    <point x="30" y="752"/>
+  </glossary>
+  <glossary style="Glossary" data="first name" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="753"/>
+    <point x="120" y="753"/>
+    <point x="120" y="766"/>
+    <point x="30" y="766"/>
+  </glossary>
+  <glossary style="Glossary" data="five" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="767"/>
+    <point x="120" y="767"/>
+    <point x="120" y="780"/>
+    <point x="30" y="780"/>
+  </glossary>
+  <glossary style="Glossary" data="floor" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="781"/>
+    <point x="120" y="781"/>
+    <point x="120" y="794"/>
+    <point x="30" y="794"/>
+  </glossary>
+  <glossary style="Glossary" data="form" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="30" y="795"/>
+    <point x="120" y="795"/>
+    <point x="120" y="808"/>
+    <point x="30" y="808"/>
+  </glossary>
+  <glossary style="Glossary" data="forty" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="107"/>
+    <point x="375" y="107"/>
+    <point x="375" y="120"/>
+    <point x="285" y="120"/>
+  </glossary>
+  <glossary style="Glossary" data="four" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="121"/>
+    <point x="375" y="121"/>
+    <point x="375" y="134"/>
+    <point x="285" y="134"/>
+  </glossary>
+  <glossary style="Glossary" data="fourteen" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="135"/>
+    <point x="375" y="135"/>
+    <point x="375" y="148"/>
+    <point x="285" y="148"/>
+  </glossary>
+  <glossary style="Glossary" data="fourth" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="149"/>
+    <point x="375" y="149"/>
+    <point x="375" y="162"/>
+    <point x="285" y="162"/>
+  </glossary>
+  <glossary style="Glossary" data="France" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="163"/>
+    <point x="375" y="163"/>
+    <point x="375" y="176"/>
+    <point x="285" y="176"/>
+  </glossary>
+  <glossary style="Glossary" data="freezer" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="177"/>
+    <point x="375" y="177"/>
+    <point x="375" y="190"/>
+    <point x="285" y="190"/>
+  </glossary>
+  <glossary style="Glossary" data="French" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="191"/>
+    <point x="375" y="191"/>
+    <point x="375" y="204"/>
+    <point x="285" y="204"/>
+  </glossary>
+  <glossary style="Glossary" data="fresh" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="205"/>
+    <point x="375" y="205"/>
+    <point x="375" y="218"/>
+    <point x="285" y="218"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="471" y="214"/>
+    <point x="471" y="214"/>
+    <point x="471" y="214"/>
+    <point x="471" y="214"/>
+  </glossary>
+  <glossary style="" data="" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="298" y="214"/>
+    <point x="298" y="214"/>
+    <point x="298" y="214"/>
+    <point x="298" y="214"/>
+  </glossary>
+  <glossary style="Glossary" data="Friday" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="220"/>
+    <point x="375" y="220"/>
+    <point x="375" y="233"/>
+    <point x="285" y="233"/>
+  </glossary>
+  <glossary style="Glossary" data="friend" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="233"/>
+    <point x="375" y="233"/>
+    <point x="375" y="246"/>
+    <point x="285" y="246"/>
+  </glossary>
+  <glossary style="Glossary" data="from" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="247"/>
+    <point x="375" y="247"/>
+    <point x="375" y="260"/>
+    <point x="285" y="260"/>
+  </glossary>
+  <glossary style="Glossary" data="fruit" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="262"/>
+    <point x="375" y="262"/>
+    <point x="375" y="275"/>
+    <point x="285" y="275"/>
+  </glossary>
+  <glossary style="Glossary" data="full" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="275"/>
+    <point x="375" y="275"/>
+    <point x="375" y="288"/>
+    <point x="285" y="288"/>
+  </glossary>
+  <glossary style="Glossary" data="full stop" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="290"/>
+    <point x="375" y="290"/>
+    <point x="375" y="303"/>
+    <point x="285" y="303"/>
+  </glossary>
+  <glossary style="Glossary" data="gallon" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="332"/>
+    <point x="375" y="332"/>
+    <point x="375" y="345"/>
+    <point x="285" y="345"/>
+  </glossary>
+  <glossary style="Glossary" data="garage" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="346"/>
+    <point x="375" y="346"/>
+    <point x="375" y="359"/>
+    <point x="285" y="359"/>
+  </glossary>
+  <glossary style="Glossary" data="gas" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="360"/>
+    <point x="375" y="360"/>
+    <point x="375" y="373"/>
+    <point x="285" y="373"/>
+  </glossary>
+  <glossary style="Glossary" data="German" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="374"/>
+    <point x="375" y="374"/>
+    <point x="375" y="387"/>
+    <point x="285" y="387"/>
+  </glossary>
+  <glossary style="Glossary" data="Germany" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="388"/>
+    <point x="375" y="388"/>
+    <point x="375" y="401"/>
+    <point x="285" y="401"/>
+  </glossary>
+  <glossary style="Glossary" data="girl" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="403"/>
+    <point x="375" y="403"/>
+    <point x="375" y="416"/>
+    <point x="285" y="416"/>
+  </glossary>
+  <glossary style="Glossary" data="Go!" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="416"/>
+    <point x="375" y="416"/>
+    <point x="375" y="429"/>
+    <point x="285" y="429"/>
+  </glossary>
+  <glossary style="Glossary" data="Go along..." mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="430"/>
+    <point x="375" y="430"/>
+    <point x="375" y="443"/>
+    <point x="285" y="443"/>
+  </glossary>
+  <glossary style="Glossary" data="goal" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="445"/>
+    <point x="375" y="445"/>
+    <point x="375" y="458"/>
+    <point x="285" y="458"/>
+  </glossary>
+  <glossary style="Glossary" data="good" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="459"/>
+    <point x="375" y="459"/>
+    <point x="375" y="472"/>
+    <point x="285" y="472"/>
+  </glossary>
+  <glossary style="Glossary" data="Good afternoon" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="472"/>
+    <point x="375" y="472"/>
+    <point x="375" y="485"/>
+    <point x="285" y="485"/>
+  </glossary>
+  <glossary style="Glossary" data="Good evening" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="486"/>
+    <point x="375" y="486"/>
+    <point x="375" y="499"/>
+    <point x="285" y="499"/>
+  </glossary>
+  <glossary style="Glossary" data="Good luck!" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="500"/>
+    <point x="375" y="500"/>
+    <point x="375" y="513"/>
+    <point x="285" y="513"/>
+  </glossary>
+  <glossary style="Glossary" data="Good morning" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="515"/>
+    <point x="375" y="515"/>
+    <point x="375" y="528"/>
+    <point x="285" y="528"/>
+  </glossary>
+  <glossary style="Glossary" data="Good night" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="528"/>
+    <point x="375" y="528"/>
+    <point x="375" y="541"/>
+    <point x="285" y="541"/>
+  </glossary>
+  <glossary style="Glossary" data="grandfather" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="543"/>
+    <point x="375" y="543"/>
+    <point x="375" y="556"/>
+    <point x="285" y="556"/>
+  </glossary>
+  <glossary style="Glossary" data="grandmother" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="557"/>
+    <point x="375" y="557"/>
+    <point x="375" y="570"/>
+    <point x="285" y="570"/>
+  </glossary>
+  <glossary style="Glossary" data="green" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="571"/>
+    <point x="375" y="571"/>
+    <point x="375" y="584"/>
+    <point x="285" y="584"/>
+  </glossary>
+  <glossary style="Glossary" data="grey" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="585"/>
+    <point x="375" y="585"/>
+    <point x="375" y="598"/>
+    <point x="285" y="598"/>
+  </glossary>
+  <glossary style="Glossary" data="ground" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="599"/>
+    <point x="375" y="599"/>
+    <point x="375" y="612"/>
+    <point x="285" y="612"/>
+  </glossary>
+  <glossary style="Glossary" data="hair" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="641"/>
+    <point x="375" y="641"/>
+    <point x="375" y="654"/>
+    <point x="285" y="654"/>
+  </glossary>
+  <glossary style="Glossary" data="handle" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="655"/>
+    <point x="375" y="655"/>
+    <point x="375" y="668"/>
+    <point x="285" y="668"/>
+  </glossary>
+  <glossary style="Glossary" data="handsome" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="669"/>
+    <point x="375" y="669"/>
+    <point x="375" y="682"/>
+    <point x="285" y="682"/>
+  </glossary>
+  <glossary style="Glossary" data="happy" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="683"/>
+    <point x="375" y="683"/>
+    <point x="375" y="696"/>
+    <point x="285" y="696"/>
+  </glossary>
+  <glossary style="Glossary" data="Happy Birthday!" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="697"/>
+    <point x="375" y="697"/>
+    <point x="375" y="710"/>
+    <point x="285" y="710"/>
+  </glossary>
+  <glossary style="Glossary" data="Have a..." mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="711"/>
+    <point x="375" y="711"/>
+    <point x="375" y="724"/>
+    <point x="285" y="724"/>
+  </glossary>
+  <glossary style="Glossary" data="Hello!" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="725"/>
+    <point x="375" y="725"/>
+    <point x="375" y="738"/>
+    <point x="285" y="738"/>
+  </glossary>
+  <glossary style="Glossary" data="here" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="739"/>
+    <point x="375" y="739"/>
+    <point x="375" y="752"/>
+    <point x="285" y="752"/>
+  </glossary>
+  <glossary style="Glossary" data="Hi!" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="753"/>
+    <point x="375" y="753"/>
+    <point x="375" y="766"/>
+    <point x="285" y="766"/>
+  </glossary>
+  <glossary style="Glossary" data="Holland" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="767"/>
+    <point x="375" y="767"/>
+    <point x="375" y="780"/>
+    <point x="285" y="780"/>
+  </glossary>
+  <glossary style="Glossary" data="horn" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="781"/>
+    <point x="375" y="781"/>
+    <point x="375" y="794"/>
+    <point x="285" y="794"/>
+  </glossary>
+  <glossary style="Glossary" data="hospital" mode="" interactive="off" onpage="true" pagesortorder="0">
+    <point x="285" y="795"/>
+    <point x="375" y="795"/>
+    <point x="375" y="808"/>
+    <point x="285" y="808"/>
+  </glossary>
+</page>

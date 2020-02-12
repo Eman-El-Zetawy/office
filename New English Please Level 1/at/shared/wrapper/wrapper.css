@@ -1,0 +1,477 @@
+/*
+The style holds the information about the wrapper.
+'topbarcolor' specifies the color of the top and bottom bar.
+'selectedTabColor' specifies the color of the tab in selected state.
+'tabShadow' specifies the tab shadow.
+'tabSpacing' specifies the space between two cosecutive tabs.
+*/
+wrapper
+{
+	topbarcolor: 0x000000;
+	topbar:mcHeaderBar;
+	selectedTabColor: 0x000000;
+	tabShadow: tabShadow1;
+	tabSpacing: 0;
+}
+
+
+
+/*
+Different tab styles can be defined.
+'max_width' specifies the maximum width of the tab using style 'tab1'.
+*/
+tab1
+{
+	max_width: 150;
+	min_width: 90;
+}
+
+
+
+buttonHome
+{
+	max_width: 22;
+	min_width: 15;
+}
+tabBgUp1
+{
+	max_width: 150;
+	min_width: 5;
+}
+
+tabBgUp2
+{
+	max_width: 150;
+	min_width: 20;
+}
+
+buttonHelp
+{
+	max_width: 20;
+	min_width: 20;
+}
+
+
+/*
+'X' and 'Y' specifies the X and Y position of icon in tab using style 'tab1'.
+*/
+
+buttonHelp.icon
+{
+	X: 0;
+	Y: -4;
+}
+
+buttonHome.icon
+{
+	X: 0;
+	Y: -4;
+}
+
+
+tab1.icon
+{
+	X: 0;
+	Y: -4;
+}
+tabBgUp1.icon
+{
+	X: 0;
+	Y: -4;
+}
+
+tabBgUp2.icon
+{
+	X: 0;
+	Y: -4;
+}
+
+
+/*
+The style holds the attributes to customize the tab label using style 'tab1'.
+'left' and 'top' specifies the left and top position of label of tab using style 'tab1'.
+'multiline' and 'wordWrap' specifies the multiline and wordwrap attributes of label. Possible values: true or false.
+'tabGraphic' specifies the graphic for the tab to be displayed when in selected state.
+*/
+tab1.label
+{
+	left: 4;
+	top: 8;
+	multiline: true;
+	wordWrap: true;
+}
+
+buttonHome.label
+{
+	left: 2;
+	top: 2;
+	multiline: true;
+	wordWrap: true;
+}
+
+buttonHelp.label
+{
+	left: 2;
+	top: 2;
+	multiline: true;
+	wordWrap: true;
+}
+
+tabBgUp1.label
+{
+	left: 4;
+	top: 8;
+	multiline: true;
+	wordWrap: true;
+}
+
+tabBgUp2.label
+{
+	left: 4;
+	top: 8;
+	multiline: true;
+	wordWrap: true;
+}
+
+
+/*
+To customize up, over and selected states for tab labels, change the value of ‘tab1.label.up’, ‘tab1.label.over’ and ‘tab1.label.selected’ styles.
+We are explaining here the formatting of Up state, follow same steps for other two states also.
+'font_family' specifies the font type of text to be displayed in tab labels.
+'font_size'  specifies the font size of text to be displayed in tab labels.
+'text_align' specifies the allignment of the label text to be displayed in tab labels. Possible values: left, right or center
+'color'  specifies the color of text to be displayed in tab labels.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed in tab labels.  Possible values: true or false.
+'embed_font' specifies if the font embeded in wrapper skin should be used or not. Possible values: true or false.
+*/
+tab1.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgUp;
+}
+
+
+tab1.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgOver;
+}
+
+buttonHome.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0x000000;
+	bold: false;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: buttonHome;
+}
+
+buttonHelp.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0x000000;
+	bold: false;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: buttonHelp;
+}
+
+tab1.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgUp;
+}
+
+tabBgUp1.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgUp1;
+}
+
+
+tabBgUp1.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgOver1;
+}
+
+tabBgUp2.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgUp1;
+}
+
+
+tabBgUp2.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgOver1;
+}
+
+buttonHome.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0x000000;
+	bold: false;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: buttonHomeover;
+}
+
+
+buttonHelp.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0x000000;
+	bold: false;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: buttonHelpOver;
+}
+
+
+tab1.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgSelected;
+}
+
+
+buttonHome.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: buttonHomeSelected;
+}
+
+buttonHelp.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: false;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: buttonHelpSelected;
+}
+
+tabBgUp1.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgSelected1;
+}
+
+tabBgUp2.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgSelected1;
+}
+
+tab2
+{
+	max_width: 135;
+	min_width: 2;
+}
+
+tab2.icon
+{
+	X: 2;
+	Y: 12;
+}
+
+tab2.label
+{
+	left: 2;
+	top: 8;
+	multiline: true;
+	wordWrap: true;
+}
+
+tab2.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgUp;
+}
+
+tab2.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgOver;
+}
+
+tab2.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgSelected;
+}
+
+tab3
+{
+	max_width: 135;
+	min_width: 30;
+}
+
+tab3.icon
+{
+	X: 0;
+	Y: 2;
+}
+
+tab3.label
+{
+	left: 4;
+	top: 8;
+	multiline: true;
+	wordWrap: true;
+}
+
+tab3.label.up
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgUp;
+}
+
+tab3.label.over
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0x000000;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgOver;
+}
+
+tab3.label.selected
+{
+	font_family: Verdana;
+	font_size: 12;
+	text_align: left;
+	color: 0xE5FF00;
+	bold: true;
+	italic: false;
+	underline: false;
+	embed_font:true;
+	backround: tabBgSelected;
+}

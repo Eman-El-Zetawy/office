@@ -1,0 +1,76 @@
+/*
+The style holds the data to dropdown coverclips.
+'font_family' specifies the font type of text in coverclip.
+'font_size'  specifies the font size of text in coverclip.
+'bold', 'italic' and 'underline' specifies the formatting of text in coverclip. Possible values: true or false.
+'text_align' specifies the alignment of the label text in coverclip. Possible values: left, right or center
+'color' specifies the color of text in coverclip.
+'embed_font' specifies the font would be embedded or not.
+*/
+comboLabel{
+	font_family:verdana;
+	font_size:10;
+	bold:false;
+	italic:false;
+	underline:false;
+	text_align: left;
+	color: 0x000000;
+	embed_font:true;
+}
+/*
+The style holds the data to title label of dropdowns.
+'font_family' specifies the font type of text in label.
+'font_size'  specifies the font size of text in label.
+'bold', 'italic' and 'underline' specifies the formatting of text in label. Possible values: true or false.
+'text_align' specifies the alignment of the label text in label. Possible values: left, right or center
+'color' specifies the color of text in label.
+'embed_font' specifies the font would be embedded or not.
+*/
+titleLabel{
+	font_family:verdana;
+	font_size:9;
+	bold:true;
+	italic:false;
+	underline:false;
+	text_align: left;
+	color: 0x000000;
+	embed_font:true;
+}
+/*
+The style holds the data to customize the drop down box. Different styles can be defined for left and right hand side drop down box(e.g., In the current css, combo and list are defined.)
+'font_family' specifies the font type of text of items in listbox.
+'font_size'  specifies the font size of text of items in listbox.
+'bold', 'italic' and 'underline' specifies the formatting of text of items in listbox. Possible values: true or false.
+'text_align' specifies the allignment of the label text of items in listbox. Possible values: left, right or center
+'color' specifies the color of text of items in listbox.
+'embed' specifies the font would be embedded or not.
+'row_count' specifies the number of rows of menu items to be dispalyed at a time.
+'text_rollover_color'  specifies the text selection color (i.e. selection color of listbox items).
+'text_selected_color'  specifies the text rollover color of items in listbox.
+'text_highlight_color' specifies the color of text displayed on coverclip when 'alwaysOpen' attribute of 'dropDown' node is set to false in findres_config.xml
+'background_rollover_color' specifies the background rollover color of menu items of drop down box.
+'background_selection_color' specifies the background selection color of menu items of drop down box.
+'background_color' specifies the background color of the drop down box.
+'vScrollPolicy' and 'hScrollPolicy' specifies the verticle and horizontal scroll policy of the listbox.  Possible values: true or false.
+'borderStyle' and 'borderColor' specifies the border color and border style of listbox.
+*/
+list{
+	font_family:verdana;
+	font_size:10;
+	bold:false;
+	italic:false;
+	underline:false;
+	text_align: left;
+	color: 0x000000;
+	embed:true
+	row_count:10;
+	text_rollover_color:0x000000;
+	text_selected_color:0x000000;
+	background_rollover_color:0xECF6CF;
+	background_selection_color:0xB6E104;
+	background_color:0xFFFFFF;
+	vScrollPolicy:on;
+	hScrollPolicy:auto;
+	borderStyle:solid;
+	borderColor:0x4885A2;
+}

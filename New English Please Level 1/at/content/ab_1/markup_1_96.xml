@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page>
+  <popup style="flash" name="Unit 6 Lesson 4" type="flash" data="../atm/ep1_47/ep1_47.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="15" y="61"/>
+    <point x="56" y="61"/>
+    <point x="56" y="121"/>
+    <point x="15" y="121"/>
+  </popup>
+</page>

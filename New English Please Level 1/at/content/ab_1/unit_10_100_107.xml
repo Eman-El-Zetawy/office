@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<unit>
+  <page pageid="100"/>
+  <page pageid="101"/>
+  <page pageid="102"/>
+  <page pageid="103"/>
+  <page pageid="104"/>
+  <page pageid="105"/>
+  <page pageid="106">
+    <popup style="audio" name="Revision C Story" type="audio" data="../atm/Eng Please 1 NE CD2 Trk35.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="59"/>
+      <point x="56" y="59"/>
+      <point x="56" y="119"/>
+      <point x="15" y="119"/>
+    </popup>
+  </page>
+  <page pageid="107"/>
+</unit>

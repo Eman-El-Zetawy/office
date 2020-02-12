@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<categories id="activeteach">
+  <category label="What's it like?">
+    <category label="interactive">
+      <assetdata>
+        <asset data="../atm/ep1_33/ep1_33.swf"/>
+        <asset data="../atm/ep1_34/ep1_34.swf"/>
+        <asset data="../atm/ep1_35/ep1_35.swf"/>
+        <asset data="../atm/ep1_36/ep1_36.swf"/>
+        <asset data="../atm/ep1_37/ep1_37.swf"/>
+        <asset data="../atm/ep1_38/ep1_38.swf"/>
+        <asset data="../atm/ep1_39/ep1_39.swf"/>
+        <asset data="../atm/ep1_40/ep1_40.swf"/>
+      </assetdata>
+    </category>
+    <category label="audio">
+      <assetdata>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk16.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk17.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk18.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk19.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk20.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk21.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk22.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk23.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk24.mp3"/>
+      </assetdata>
+    </category>
+  </category>
+</categories>

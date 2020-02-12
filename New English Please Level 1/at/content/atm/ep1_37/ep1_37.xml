@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<version><![CDATA[student]]></version><!-- student/teacher -->
+	<banner><![CDATA[<b>Meeting Mariam at the airport (Unit 5, Lesson 3)</b>]]></banner>
+	<rubric><![CDATA[Listen and write the words.]]></rubric>
+	<helpText><![CDATA[Click on the audio button and listen. Type in the missing words to complete the text.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+    <hasAudioPanel>true</hasAudioPanel><!-- true/false -->
+
+	<feedback>
+		<relative><![CDATA[Your score: ]]></relative>
+		<final><![CDATA[Do you want to try again?]]></final>
+	</feedback>
+
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+
+	<popupMessages>
+		<message id="1"><![CDATA[]]></message>
+		<message id="2"><![CDATA[]]></message>
+	</popupMessages>
+
+	<assessmentItems childType="array" artWork="false" audio="true">
+		<assessmentItem id="1" name="screen_1" constYGap="100">
+			<banner><![CDATA[]]></banner>
+			<rubric><![CDATA[Listen and write the words.]]></rubric>
+			<audio><![CDATA[EP37_U5L3Ex1_DialogueA.mp3]]></audio>
+			<para><![CDATA[1. Mariam’s very [$InputTextField$] . [$NewLine$] 2. It [$InputTextField$] matter. [$NewLine$] 3. Yes, but it’s ten [$InputTextField$] .]]></para>
+			<answers>
+				<answer><![CDATA[late]]></answer>
+				<answer><![CDATA[doesn't]]></answer>
+				<answer><![CDATA[o'clock]]></answer>
+			</answers>
+		</assessmentItem>
+
+		<assessmentItem id="2" name="screen_2" constYGap="100">
+			<banner><![CDATA[]]></banner>
+			<rubric><![CDATA[Listen and write the words.]]></rubric>
+			<audio><![CDATA[EP37_U5L3Ex1_DialogueB.mp3]]></audio>
+			<para><![CDATA[1. What’s your sister [$InputTextField$] ? [$NewLine$] 2. She’s [$InputTextField$] tall and thin. [$NewLine$] 3. Like you. [$NewLine$] 4. Yes. And she’s got black hair and [$InputTextField$] eyes.]]></para>
+			<answers>
+				<answer><![CDATA[like]]></answer>
+				<answer><![CDATA[quite]]></answer>
+				<answer><![CDATA[green]]></answer>
+			</answers>
+		</assessmentItem>
+
+		<assessmentItem id="3" name="screen_3" constYGap="100">
+			<banner><![CDATA[]]></banner>
+			<rubric><![CDATA[Listen and write the words.]]></rubric>
+			<audio><![CDATA[EP37_U5L3Ex1_DialogueC.mp3]]></audio>
+			<para><![CDATA[1. [$InputTextField$] old is [$InputTextField$] ? [$NewLine$] 2. She’s 22. [$NewLine$] 3. [$InputTextField$] . There she is! Mariam.]]></para>
+			<answers>
+				<answer><![CDATA[How]]></answer>
+				<answer><![CDATA[she]]></answer>
+				<answer><![CDATA[Look]]></answer>
+			</answers>
+		</assessmentItem>
+	</assessmentItems>
+</assessment>

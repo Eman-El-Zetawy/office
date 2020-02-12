@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Objectives XML's root node. This XML contains the information of the assets of an AB module, categorised based on the objectives. -->
+<categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="objectives.xsd" id="activeteach">
+	<!-- Category will be displayed as the first level of hierarchy level on the left. -->
+	<category opened="true" label="My Resources" modify="true" removable="false">
+	<assetdata>
+		<!--[CDATA[My Resources]]-->
+		<!-- To add a hierarchy level, add a <category> node within the category node.-->
+	</assetdata>
+	</category>
+</categories>

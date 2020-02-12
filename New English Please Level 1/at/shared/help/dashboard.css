@@ -1,0 +1,285 @@
+/*
+To customize up, over and selected states for labels of menu items, change the value of ‘button.up’, ‘button.over’ and ‘button.down’ styles.
+We are explaining here the formatting of Up state, follow same steps for other two states also.
+'font_family' specifies the font type of text to be displayed for buttons in menu items.
+'font_size'  specifies the font size of text to be displayed for buttons in menu items.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed for buttons in menu items.  Possible values: true or false.
+'color'  specifies the color of text to be displayed for buttons in menu items.
+'text_align' specifies the allignment of the label text to be displayed for buttons in menu items. Possible values: left, right or center
+'graphic' specifies the linkage name of graphic used for buttons for buttons in menu items.
+'graphic_color' specifies the color of graphic buttons of menu items.
+'embed_font' specifies if the font embeded in portfolio skin should be used or not. Possible values: true or false.
+*/
+invisibleButton
+{
+	graphic: button_up;
+}
+
+video1
+{
+	BgColor: 0x4885A2;
+	MaxWidth: 785;
+	MaxHeight: 377;
+	MinWidth: 785;
+	MinHeight: 377;
+	MaintainAspectRatio: true;
+}
+
+button.up
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	graphic: button_up;
+	graphic_color:0xDEFFFC;
+	embed_font:true;
+}
+
+button.over
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x7D1369;
+	text_align: left;
+	graphic: button_over;
+	graphic_color:0xfadaf3;
+	embed_font:true;
+}
+
+button.down
+{
+	font_family:Arial;
+	font_size:10;
+	bold:false;
+	underline:false;
+	color: 0x576597;
+	text_align: left;
+	graphic: button_down;
+	graphic_color:0xDEFFFC;
+	embed_font:true;
+}
+/*
+To customize up, over and selected states for labels of catalofue product menu items, change the value of ‘catalogueItemTitle.up’, ‘catalogueItemTitle.over’ and ‘catalogueItemTitle.down’ styles.
+We are explaining here the formatting of Up state, follow same steps for other two states also.
+'font_family' specifies the font type of text to be displayed for buttons in menu items.
+'font_size'  specifies the font size of text to be displayed for buttons in menu items.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed for buttons in menu items.  Possible values: true or false.
+'color'  specifies the color of text to be displayed for buttons in menu items.
+'embed_font' specifies if the font embeded in portfolio skin should be used or not. Possible values: true or false.
+*/
+catalogueItemTitle.up
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	underline:false;
+	color: 0x000000;
+	embed_font:true;
+}
+catalogueItemTitle.over
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	underline:false;
+	color: 0x000000;
+	embed_font:true;
+}
+
+catalogueItemTitle.down
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	underline:false;
+	color: 0xFF0000;
+	embed_font:true;
+
+}
+/*
+To customize up, over and selected states for labels of catalofue product menu items, change the value of ‘rssFeedItem.up’, ‘rssFeedItem.over’ and ‘rssFeedItem.down’ styles.
+We are explaining here the formatting of Up state, follow same steps for other two states also.
+'font_family' specifies the font type of text to be displayed for buttons in menu items.
+'font_size'  specifies the font size of text to be displayed for buttons in menu items.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed for buttons in menu items.  Possible values: true or false.
+'color'  specifies the color of text to be displayed for buttons in menu items.
+'embed_font' specifies if the font embeded in portfolio skin should be used or not. Possible values: true or false.
+*/
+rssFeedItem.up
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	underline:false;
+	color: 0xFF9900;
+	embed_font:true;
+}
+rssFeedItem.over
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	underline:false;
+	color: 0xFF9900;
+	embed_font:true;
+}
+
+rssFeedItem.down
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	underline:false;
+	color: 0xFF9900;
+	embed_font:true;
+
+}
+/*
+The style holds the data to be used for formatting of the text in description of RSS feeder menu.
+'font_family' specifies the font type of text to be displayed in paneHeader.
+'font_size'  specifies the font size of text to be displayed in paneHeader.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed in paneHeader. Possible values: true or false.
+'color'  specifies the color of text to be displayed in paneHeader.
+'underline' specifies the underline 
+*/
+rssFeedDesc
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	embed_font:true;
+}
+/*
+The style holds the data to be used for formatting of the text in description of Product menu.
+'font_family' specifies the font type of text to be displayed in paneHeader.
+'font_size'  specifies the font size of text to be displayed in paneHeader.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed in paneHeader. Possible values: true or false.
+'color'  specifies the color of text to be displayed in paneHeader.
+'underline' specifies the underline 
+*/
+catalogueItemDesc
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	embed_font:true;
+}
+bckGrnd
+{
+	bckgrnd_color: 0xffffff;
+	bckgrndRollOver_color: 0xdedede; 
+}
+link
+{
+	color: 0x0000FF;
+}
+/*
+The style holds the data to be used for formatting of the text in the pane header.
+'font_family' specifies the font type of text to be displayed in paneHeader.
+'font_size'  specifies the font size of text to be displayed in paneHeader.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed in paneHeader. Possible values: true or false.
+'color'  specifies the color of text to be displayed in paneHeader.
+'text_align' specifies the allignment of the label text to be displayed in paneHeader. Possible values: left, right or center
+*/
+paneHeader
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	italic:false
+	underline:false;
+	color: 0xFFFFFF;
+	text_align: left;
+}
+/*
+The style holds the data to be used for formatting of the text in the dashBoard header.
+'font_family' specifies the font type of text to be displayed in paneHeader.
+'font_size'  specifies the font size of text to be displayed in paneHeader.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed in paneHeader. Possible values: true or false.
+'color'  specifies the color of text to be displayed in paneHeader.
+'text_align' specifies the allignment of the label text to be displayed in paneHeader. Possible values: left, right or center
+*/
+dashBoardHeader
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: Left;
+}
+
+
+/*
+The style holds the data to customize the drop down box.
+'font_family' specifies the font type of text of items in listbox.
+'font_size'  specifies the font size of text of items in listbox.
+'bold', 'italic' and 'underline' specifies the formatting of text of items in listbox. Possible values: true or false.
+'text_align' specifies the allignment of the label text of items in listbox. Possible values: left, right or center
+'color' specifies the color of text of items in listbox.
+'row_count' specifies the number of rows of menu items to be dispalyed at a time.
+'text_rollover_color'  specifies the text selection color (i.e. selection color of listbox items).
+'text_selected_color'  specifies the text rollover color of items in listbox.
+'background_rollover_color' specifies the background rollover color of menu items of drop down box.
+'background_selection_color' specifies the background selection color of menu items of drop down box.
+'background_color' specifies the background color of the drop down box.
+'vScrollPolicy' and 'hScrollPolicy' specifies the verticle and horizontal scroll policy of the listbox.  Possible values: true or false.
+'borderStyle' and 'borderColor' specifies the border color and border style of listbox.
+'text_highlight_color' specifies the color of text displayed on coverclip when 'alwaysOpen' attribute of 'dropDown' node is set to false in portfolio.xml
+*/
+list{
+	font_family:Arial;
+	font_size:12;
+	bold:true;
+	italic:false;
+	underline:false;
+	text_align: left;
+	color: 0x000000;
+	row_count:2;
+	text_rollover_color:0x000000;
+	text_selected_color:0x000000;
+	background_rollover_color:0xeeeeee;
+	background_selection_color:0xdddddd;
+	background_color:0xDEFFFC;
+	vScrollPolicy:on;
+	hScrollPolicy:auto;
+	borderStyle:solid;
+	borderColor:0x999999;
+	text_highlight_color:0xffffff;
+}
+
+
+/*
+The style holds the linkage-id of graphic icons embeded in portfolio_skin.fla
+Style associated with buttons is specified in ‘cssObject’ attribute of icon node in ‘portfolio.xml’
+*/
+bookIcon{
+	graphic:book_icon;
+}
+
+digiListIcon{
+	graphic:digiList_icon;
+}
+
+inactiveIcon{
+	graphic:inactiveIcon;
+}
+
+pdfIcon{
+	graphic:book_icon;
+}
+

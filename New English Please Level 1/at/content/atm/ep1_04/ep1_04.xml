@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[Contrôle de lecture (Level 3)]]></title>
+	<version><![CDATA[student]]></version>							<!-- student/teacher 15d-->
+	<banner><![CDATA[<b>Spell the words (Unit 1, Lesson 2).</b>]]></banner>
+	<rubric><![CDATA[]]></rubric>
+	<helpText><![CDATA[Click on the audio buttons and listen. Rearrange the characters within the words. When you drag and drop a character onto another they swap places.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+
+	<feedback>
+		<relative><![CDATA[Your score: ]]></relative>
+		<final><![CDATA[Do you want to try again?]]></final>
+	</feedback>
+
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+
+	<audioPanel><![CDATA[false]]></audioPanel>
+	<activityType><![CDATA[character]]></activityType>
+	<navigationAudio><![CDATA[false]]></navigationAudio>
+
+	<assessmentItems childType="array">
+
+		<assessmentItem id="1" constYGap="95">
+			<rubric><![CDATA[Listen and write the words.]]></rubric>
+			<audio><![CDATA[]]></audio>
+			<contentType><![CDATA[audio]]></contentType>
+			<groups childType="array">
+				<group>
+					<prompt><![CDATA[thank you]]></prompt>
+					<content><![CDATA[EP04_U1L2EX2_thankyou.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[hello]]></prompt>
+					<content><![CDATA[EP04_U1L2EX2_hello.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[all right]]></prompt>
+					<content><![CDATA[EP04_U1L2EX2_all right.mp3]]></content>
+				</group>
+				<group>;
+					<prompt><![CDATA[sorry]]></prompt>
+					<content><![CDATA[EP04_U1L2EX2_sorry.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[how are you?]]></prompt>
+					<content><![CDATA[EP04_U1L2EX2_howareyou.mp3]]></content>
+				</group>
+			</groups>
+		</assessmentItem>
+
+
+		<assessmentItem id="2" constYGap="95">
+			<rubric><![CDATA[Listen and write the words.]]></rubric>
+			<audio><![CDATA[]]></audio>
+			<contentType><![CDATA[audio]]></contentType>
+			<groups childType="array">
+				<group>
+					<prompt><![CDATA[name]]></prompt>
+					<content><![CDATA[EP04_U1L2Ex2_name.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[please]]></prompt>
+					<content><![CDATA[EP04_U1L2Ex2_please.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[fine]]></prompt>
+					<content><![CDATA[EP04_U1L2Ex2_fine.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[listen]]></prompt>
+					<content><![CDATA[EP04_U1L2Ex2_listen.mp3]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[write]]></prompt>
+					<content><![CDATA[EP04_U1L2Ex2_write.mp3]]></content>
+				</group>
+			</groups>
+		</assessmentItem>
+
+
+	<!--
+		<assessmentItem id="1">
+			<rubric><![CDATA[]]></rubric>
+			<audio><![CDATA[dummy_1.mp3]]></audio>
+			<contentType><![CDATA[image]]></contentType>
+			<groups childType="array">
+				<group>
+					<prompt><![CDATA[They're selling postcards of the hanging They're painting the passports brown]]></prompt>
+					<content><![CDATA[dummy_1.swf]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[The beauty parlour is filled with sailors]]></prompt>
+					<content><![CDATA[dummy_1.swf]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[The circus is in town Then in comes the blind commissioner They got him in a trance One hand is tied to a tight-rope walker]]></prompt>
+					<content><![CDATA[dummy_1.swf]]></content>
+				</group>
+			</groups>
+		</assessmentItem>
+		-->
+
+	</assessmentItems>
+</assessment>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui skin="shared/stimuli/skin.swf" strings="shared/stimuli/strings.xml" styles="shared/stimuli/styles.css">
+	<build/>
+	<store>
+		<!-- main window panel -->
+		<panel class="window">
+			<!-- View Pane Start -->
+			<pane class="viewPane">
+				<panel class="view">
+					<panel class="view.page">
+						<panel class="view.page.content"/>
+						<panel class="view.page.content.unmasked"/>
+					</panel>
+				</panel>
+			</pane>
+			<!-- View Pane End -->
+			<!-- window frame -->
+			<panel class="frame">
+				<!--graphic class="frameBorder"/-->
+                <panel class="windowControls">
+                    <control class="windowControls.quit"/>
+                </panel>
+				<panel class="trailPanel">
+					<control class="trailLink.home">
+						<label id="$label" class="trailLinkLabel">trailLinkHome</label>
+					</control>
+				</panel>
+				<panel class="nonDragPaletteHolder"/>
+			</panel>
+			<!-- Control panel -->
+			<panel class="controlPanel">
+				<panel class="paletteHolder"/>
+				<control class="controlButton.reset">
+					<label class="controlButtonLabel">controlButtonReset</label>
+				</control>
+			</panel>
+			<!-- Header Panel -->
+			<panel class="headerPanel">
+				<panel class="managePagePalette">
+					<graphic class="windowControls.menu"/>
+					<graphic class="windowControls.title"/>
+					
+					<panel class="windowControls">
+						<control class="windowControls.quit"/>
+					</panel>
+				</panel>
+			</panel>
+		</panel>
+		<panel class="view.home.intro">
+			<holder class="homeIntro" type="animation" showControls="false"/>
+		</panel>
+        <!-- Unit View -->
+        <panel class='view.pageTab'>
+			<panel class='pageTabHolder'/>
+			<graphic class='pageBorder'/>
+			<control class='scrollUp'/>
+			<control class='scrollDown'/>
+			<graphic class='scrollBase'/>
+			<control class='scrollThumb'/>
+		</panel>
+		<!-- alert panel -->
+		<panel class="alert">
+			<panel class="alertPanel">
+				<label class="alertLabel"/>
+				<control class="alertButtonYes">
+					<label class="alertButtonLabel"/>
+				</control>
+				<control class="alertButtonNo">
+					<label class="alertButtonLabel"/>
+				</control>
+				<control class="alertButtonCancel">
+					<label class="alertButtonLabel"/>
+				</control>
+			</panel>
+		</panel>
+		<!-- alert panel -->
+		<panel class="resetPopup">
+			<panel class="resetPanel">
+				<label class="resetPanelLabel"/>
+				<control class="resetButtonOK">
+					<label class="resetButtonLabel.Ok">resetButtonOK</label>
+				</control>
+				<control class="resetButtonCancel">
+					<label class="resetButtonLabel.Cancel">resetButtonCancel</label>
+				</control>
+			</panel>
+		</panel>
+		<!-- loader panel -->
+		<panel class="loader">
+			<panel class="screenMask"/>
+			<progress class="loaderBar"/>
+		</panel>
+		<!-- palettes -->
+		<panel class="palette.label">
+			<toggle class="paletteButton.label1" group="palette.label"/>
+			<toggle class="paletteButton.label2" group="palette.label"/>
+			<toggle class="paletteButton.label3" group="palette.label"/>
+			<toggle class="paletteButton.label4" group="palette.label"/>
+			<toggle class="paletteButton.label5" group="palette.label"/>
+			<toggle class="paletteButton.label6" group="palette.label"/>
+		</panel>
+		<!-- Draw Palette -->
+		<panel class="palette.draw">
+			<dropdown class="paletteButton.colorDraw" target="paletteDropdown.colorDraw"/>
+			<toggle class="paletteButton.thickPencil" group="palette.draw"/>
+			<toggle class="paletteButton.highlighter" group="palette.draw"/>
+		</panel>
+		<panel class="paletteDropdown.colorDraw">
+			<control class="paletteButton.colorDropdown.background"/>
+			<control class="paletteButton.colorDropdown.color1"/>
+			<control class="paletteButton.colorDropdown.color2"/>
+			<control class="paletteButton.colorDropdown.color3"/>
+			<control class="paletteButton.colorDropdown.color4"/>
+			<control class="paletteButton.colorDropdown.color5"/>
+			<control class="paletteButton.colorDropdown.color6"/>
+			<control class="paletteButton.colorDropdown.color7"/>
+			<control class="paletteButton.colorDropdown.color8"/>
+			<control class="paletteButton.colorDropdown.color9"/>
+		</panel>
+		<!-- Text Palette -->
+		<panel class="palette.text">
+			<panel class="paletteDropdown.colorText">
+				<control class="paletteButton.dropdown.background"/>
+				<control class="paletteButton.dropdown.color1"/>
+				<control class="paletteButton.dropdown.color2"/>
+				<control class="paletteButton.dropdown.color3"/>
+				<control class="paletteButton.dropdown.color4"/>
+				<control class="paletteButton.dropdown.color5"/>
+				<control class="paletteButton.dropdown.color6"/>
+				<control class="paletteButton.dropdown.color7"/>
+				<control class="paletteButton.dropdown.color8"/>
+				<control class="paletteButton.dropdown.color9"/>
+			</panel>
+			<dropdown class="paletteButton.colorText" target="paletteDropdown.colorText"/>
+
+			<toggle class="paletteButton.small.bold"/>
+			<toggle class="paletteButton.small.italic"/>
+			<toggle class="paletteButton.small.underline"/>
+
+			<toggle class="paletteButton.small.fontsize1"/>
+			<toggle class="paletteButton.small.fontsize2"/>
+			<toggle class="paletteButton.small.fontsize3"/>
+		</panel>
+	</store>
+</ui>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[<b>Where is it? (Unit 6, Lesson 1)</b>]]></title>
+	<Banner><![CDATA[je me vois]]></Banner>
+	<version><![CDATA[student]]></version>							<!-- student/teacher -->
+	<verticalIndent>75</verticalIndent>
+	<multipleSelection>false</multipleSelection>
+	<hilightText color="0x0033CC"></hilightText>
+	<helpText><![CDATA[Click on the audio button and listen. Select the correct option from the drop down menus to fill in the gaps.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+	<feedback>
+		<positiveFeedback><![CDATA[Bravo! Clique sur «Next».]]></positiveFeedback>
+		<negativeFeedback><![CDATA[Dommage, mauvaise réponse. Clique sur «Next».]]></negativeFeedback>
+	</feedback>
+	<contentUrl>
+    	<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+    <audioPanel><![CDATA[true]]></audioPanel>
+	<templateType><![CDATA[DD]]></templateType>  <!-- DND/DD -->
+	<!--multipleUse><![CDATA[true]]></multipleUse-->
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Listen and click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+			<!--image><![CDATA[dummy.swf]]></image-->
+
+			<!--Used for 18g(with block of reading text). Remove "--readingText" node for 18f (gapped options only). -->
+			<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<audio><![CDATA[EP41_U6L1Ex1_DialogueA.mp3]]></audio>
+			<options childType="array">
+
+				<!-- Use for 18f (gapped options only). Width should be "690". -->
+				<!--option id="1" left="0" top="0" height="800" width="690" lineHeight="35"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. each word <object type="mcTarget_" id="0" height="32" width="150"></object>below that describes older people and  <object type="mcTarget_" id="1" height="32" width="100"></object>decide how you would categorise themunder the <br/> headings in the grid.&nbsp; </font></p>]]></option-->
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. Excuse me. Where’s Mrs Brown's <object type="mcTarget_" id="0" height="32" width="150"></object>? <br>2. Go <object type="mcTarget_" id="1" height="32" width="100"></object>the corridor and it’s the <object type="mcTarget_" id="2" height="32" width="150"></object>door on the <object type="mcTarget_" id="3" height="32" width="150"></object>. <br>3. Thanks <object type="mcTarget_" id="4" height="32" width="150"></object> much.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[office]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[classroom]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[house]]></textValue>
+				</optionText>
+				<optionText id="1">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[along]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[up]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[down]]></textValue>
+				</optionText>
+				<optionText id="2">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[first]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[second]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[third]]></textValue>
+				</optionText>
+				<optionText id="3">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[right]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[fourth]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[left]]></textValue>
+				</optionText>
+				<optionText id="4">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[very]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[stop]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[wait]]></textValue>
+				</optionText>
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+		<assessmentItem id="2">
+			<rubric><![CDATA[Listen and click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+				<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+				<audio><![CDATA[EP41_U6L1Ex1_DialogueB.mp3]]></audio>
+			<options childType="array">
+
+			<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. Where’s room <object type="mcTarget_" id="5" height="32" width="150"></object>? <br>2. It’s on the <object type="mcTarget_" id="6" height="32" width="150"></object>floor. <br>3. The second floor? Is there a <object type="mcTarget_" id="7" height="32" width="150"></object>? <br>4. It’s over<object type="mcTarget_" id="8" height="32" width="150"></object>, but it’s<object type="mcTarget_" id="9" height="32" width="150"></object>.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="5">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[105]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[205]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[250]]></textValue>
+				</optionText>
+				<optionText id="6">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[second]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[fourth]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[sixth]]></textValue>
+				</optionText>
+				<optionText id="7">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[car]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[door]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[lift]]></textValue>
+				</optionText>
+				<optionText id="8">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[here]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[right]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[there]]></textValue>
+				</optionText>
+				<optionText id="9">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[broken]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[stairs]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[good]]></textValue>
+				</optionText>
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+
+		<assessmentItem id="3">
+			<rubric><![CDATA[Listen and click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+				<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+				<audio><![CDATA[EP41_U6L1Ex1_DialogueC.mp3]]></audio>
+			<options childType="array">
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. Good <object type="mcTarget_" id="10" height="32" width="150"></object>. <br>2. Good morning. Where’s Mr Saeedi’s <object type="mcTarget_" id="11" height="32" width="150"></object>, please? <br>3. It’s <object type="mcTarget_" id="12" height="32" width="150"></object> the stairs. <br>4. On the <object type="mcTarget_" id="13" height="32" width="150"></object> floor? <br>5. Yes. It’s the <object type="mcTarget_" id="14" height="32" width="150"></object> door on the right.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="10">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[morning]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[afternoon]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[evening]]></textValue>
+				</optionText>
+				<optionText id="11">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[restaurant]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[shop]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[office]]></textValue>
+				</optionText>
+				<optionText id="12">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[down]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[up]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[along]]></textValue>
+				</optionText>
+				<optionText id="13">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[first]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[second]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[third]]></textValue>
+				</optionText>
+				<optionText id="14">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[second]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[fifth]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[eighth]]></textValue>
+				</optionText>
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+</assessment>

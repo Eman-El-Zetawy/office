@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<categories id="activeteach">
+  <category label="In the city">
+    <category label="interactive">
+      <assetdata>
+        <asset data="../atm/ep1_25/ep1_25.swf"/>
+        <asset data="../atm/ep1_26/ep1_26.swf"/>
+        <asset data="../atm/ep1_27/ep1_27.swf"/>
+        <asset data="../atm/ep1_28/ep1_28.swf"/>
+        <asset data="../atm/ep1_29/ep1_29.swf"/>
+        <asset data="../atm/ep1_30/ep1_30.swf"/>
+        <asset data="../atm/ep1_31/ep1_31.swf"/>
+      </assetdata>
+    </category>
+    <category label="audio">
+      <assetdata>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk01.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk02.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk03.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk04.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk05.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk06.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk07.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk08.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk09.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD2 Trk10.mp3"/>
+      </assetdata>
+    </category>
+  </category>
+</categories>

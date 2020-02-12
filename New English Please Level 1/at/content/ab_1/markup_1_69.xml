@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page>
+  <popup style="audio" name="Unit 4 Lesson 4 Exercise 5" type="audio" data="../atm/Eng Please 1 NE CD2 Trk08.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="5" y="548"/>
+    <point x="47" y="548"/>
+    <point x="47" y="609"/>
+    <point x="5" y="609"/>
+  </popup>
+  <popup style="audio" name="Unit 4 Lesson 4 Exercise 6" type="audio" data="../atm/Eng Please 1 NE CD2 Trk09.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="5" y="679"/>
+    <point x="47" y="679"/>
+    <point x="47" y="740"/>
+    <point x="5" y="740"/>
+  </popup>
+</page>

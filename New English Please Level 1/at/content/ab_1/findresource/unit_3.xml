@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<categories id="activeteach">
+  <category label="Jobs and nationalities">
+    <category label="interactive">
+      <assetdata>
+        <asset data="../atm/ep1_17/ep1_17.swf"/>
+        <asset data="../atm/ep1_18/ep1_18.swf"/>
+        <asset data="../atm/ep1_19/ep1_19.swf"/>
+        <asset data="../atm/ep1_20/ep1_20.swf"/>
+        <asset data="../atm/ep1_21/ep1_21.swf"/>
+        <asset data="../atm/ep1_22/ep1_22.swf"/>
+        <asset data="../atm/ep1_23/ep1_23.swf"/>
+        <asset data="../atm/ep1_24/ep1_24.swf"/>
+      </assetdata>
+    </category>
+    <category label="audio">
+      <assetdata>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk46.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk47.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk48.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk49.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk50.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk51.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk52.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk53.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk54.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk55.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk56.mp3"/>
+      </assetdata>
+    </category>
+  </category>
+</categories>

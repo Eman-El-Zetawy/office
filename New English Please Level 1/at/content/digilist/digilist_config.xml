@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<digilist>
+	<imageFile data="" x="0" y="0"/>
+	<style skin="shared/digilist/digilist_Skin.swf" css="shared/digilist/digilist.css"/>
+	<dropDown>
+		<book x="15" y="20" w="139" h="22" cssObject="list" visible="true" alwaysOpen="false"/>
+		<asset x="406" y="20" w="140" h="22" cssObject="list" visible="true" alwaysOpen="false"/>
+	</dropDown>
+	<pane pos="left">
+		<scrollpane x="15" y="183" w="381" h="350"/>
+		<backgrnd graphic="bgLeftPane" x="11" y="143"/>
+		<button cssObject="button"/>
+	</pane>
+	<pane pos="right">
+		<scrollpane x="419" y="60" w="372.5" h="425"/>
+		<backgrnd graphic="bgRightPane" x="406" y="51"/>
+		<header graphic="subjectTitleLeft_mc" cssObject="paneHeader" x="15" y="154"/>
+		<button cssObject="button1"/>
+	</pane>
+	<introduction>
+		<button x="15" y="51" data="" cssObject="introButton"><![CDATA[Introduction]]></button>
+	</introduction>
+	
+	<conceptmap><![CDATA[Concept Maps]]></conceptmap>
+	<flashasset><![CDATA[Flash Asset]]></flashasset>
+	<url><![CDATA[URL]]></url>
+	<audio><![CDATA[Audio]]></audio>
+	<flash><![CDATA[Animations]]></flash>
+	<image><![CDATA[Artwork]]></image>
+	<bullets><![CDATA[Bullets]]></bullets>
+	<video><![CDATA[Video]]></video>
+	<slideshow><![CDATA[Mini Slideshow]]></slideshow>
+	<textimage><![CDATA[Text & Image]]></textimage>
+	<foundationquestion><![CDATA[Foundation Question]]></foundationquestion>
+	<HQ><![CDATA[Higher Question]]></HQ>
+	<html><![CDATA[Html]]></html>
+	<captivate><![CDATA[Captivate]]></captivate>
+	<downloadable><![CDATA[Downloadable]]></downloadable>
+	<BBCEngine><![CDATA[BBCEngine]]></BBCEngine>
+	<stimulitext><![CDATA[StimuliText]]></stimulitext>
+	<abVideoTool><![CDATA[VideoTool]]></abVideoTool>
+	<MathTool><![CDATA[Math Tool]]></MathTool>
+	<pdf listdata="appfile" listextn="pdf"><![CDATA[PDF]]></pdf>
+	<doc listdata="appfile" listextn="doc"><![CDATA[Documents]]></doc>
+	<xls listdata="appfile" listextn="xls"><![CDATA[Spreadsheets]]></xls>
+	<ppt listdata="appfile" listextn="ppt"><![CDATA[Presentations]]></ppt>
+</digilist>

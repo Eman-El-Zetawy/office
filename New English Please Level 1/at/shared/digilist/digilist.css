@@ -1,0 +1,196 @@
+/*
+Different styles can be defined for labels of menu items (e.g., In the current css, button and button1 are defined.)
+To customize up, over and selected states for labels of menu items, change the value of ‘button.up’, ‘button.over’ and ‘button.down’ styles.
+We are explaining here the formatting of Up state, follow same steps for other two states also.
+'font_family' specifies the font type of text to be displayed for buttons in menu items.
+'font_size'  specifies the font size of text to be displayed for buttons in menu items.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed for buttons in menu items.  Possible values: true or false.
+'color'  specifies the color of text to be displayed for buttons in menu items.
+'text_align' specifies the allignment of the label text to be displayed for buttons in menu items. Possible values: left, right or center
+'graphic' specifies the linkage name of graphic used for buttons for buttons in menu items.
+'embed_font' specifies if the font embeded in digilist skin should be used or not. Possible values: true or false.
+ Similarly, the introButtons can be customized.
+*/
+button.up
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0xFFFFFF;
+	text_align: left;
+	graphic: button_up;
+	embed_font:true;
+}
+
+button.over
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0xFFFFFF;
+	text_align: left;
+	graphic: button_over;
+	embed_font:true;
+}
+
+button.down
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	underline:false;
+	color: 0xFFFFFF;
+	text_align: left;
+	graphic: button_down;
+	embed_font:true;
+}
+
+button1.up
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	graphic: button_up1;
+}
+
+button1.over
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	graphic: button_over1;
+}
+
+button1.down
+{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	graphic: button_down1;
+}
+
+
+/*
+The style holds the data to be used for formatting of the text in the pane header.
+'font_family' specifies the font type of text to be displayed in paneHeader.
+'font_size'  specifies the font size of text to be displayed in paneHeader.
+'bold', 'italic' and 'underline' specifies the formatting of text to be displayed in paneHeader. Possible values: true or false.
+'color'  specifies the color of text to be displayed in paneHeader.
+'text_align' specifies the allignment of the label text to be displayed in paneHeader. Possible values: left, right or center
+*/
+paneHeader
+{
+	font_family:Arial;
+	font_size:11;
+	bold:true;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+}
+
+
+/*
+The style holds the data to customize the drop down box. Different styles can be defined for left and right hand side drop down box(e.g., In the current css, combo and list are defined.)
+'font_family' specifies the font type of text of items in listbox.
+'font_size'  specifies the font size of text of items in listbox.
+'bold', 'italic' and 'underline' specifies the formatting of text of items in listbox. Possible values: true or false.
+'text_align' specifies the allignment of the label text of items in listbox. Possible values: left, right or center
+'color' specifies the color of text of items in listbox.
+'row_count' specifies the number of rows of menu items to be dispalyed at a time.
+'text_rollover_color'  specifies the text selection color (i.e. selection color of listbox items).
+'text_selected_color'  specifies the text rollover color of items in listbox.
+'text_highlight_color' specifies the color of text displayed on coverclip when 'alwaysOpen' attribute of 'dropDown' node is set to false in digilist.xml
+'background_rollover_color' specifies the background rollover color of menu items of drop down box.
+'background_selection_color' specifies the background selection color of menu items of drop down box.
+'background_color' specifies the background color of the drop down box.
+'vScrollPolicy' and 'hScrollPolicy' specifies the verticle and horizontal scroll policy of the listbox.  Possible values: true or false.
+'borderStyle' and 'borderColor' specifies the border color and border style of listbox.
+*/
+combo{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false;
+	underline:false;
+	text_align: left;
+	color: 0x000000;
+	row_count:3;
+	text_rollover_color:0x000000;
+	text_selected_color:0x000000;
+	text_highlight_color:0xffffff;
+	background_rollover_color:0xeeeeee;
+	background_selection_color:0xdddddd;
+	background_color:0x000000;
+	borderStyle:solid;
+	borderColor:0x999999;
+}
+
+list{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false;
+	underline:false;
+	text_align: left;
+	color: 0xffffff;
+	row_count:5;
+	text_rollover_color:0x000000;
+	text_selected_color:0x000000;
+	background_rollover_color:0xeeeeee;
+	background_selection_color:0xdddddd;
+	background_color:0x000000;
+	vScrollPolicy:on;
+	hScrollPolicy:auto;
+	borderStyle:solid;
+	borderColor:0x999999;
+}
+
+introButton.up{
+	font_family:Arial;
+	font_size:11;
+	bold:false
+	italic:false
+	underline:false;
+	color: 0xFFFFFF;
+	text_align: left;
+	graphic: button_up;
+}
+
+introButton.over{
+	font_family:Arial;
+	font_size:11;
+	bold:false
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	graphic: button_over;
+}
+
+introButton.down{
+	font_family:Arial;
+	font_size:11;
+	bold:false;
+	italic:false
+	underline:false;
+	color: 0x000000;
+	text_align: left;
+	graphic: button_down;
+}

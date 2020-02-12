@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<unit>
+  <page pageid="blank"/>
+  <page pageid="1"/>
+  <page pageid="2"/>
+  <page pageid="3"/>
+  <page pageid="4">
+    <popup style="audio" name="Unit 0 Classroom... Exercise 3" type="audio" data="../atm/Eng Please 1 NE CD1 Trk02.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="680"/>
+      <point x="58" y="680"/>
+      <point x="58" y="742"/>
+      <point x="15" y="742"/>
+    </popup>
+  </page>
+  <page pageid="5">
+    <popup style="audio" name="Unit 0 Classroom... Exercise 4" type="audio" data="../atm/Eng Please 1 NE CD1 Trk03.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="59"/>
+      <point x="49" y="59"/>
+      <point x="49" y="122"/>
+      <point x="5" y="122"/>
+    </popup>
+  </page>
+  <page pageid="6">
+    <popup style="audio" name="Unit 0 Classroom... Exercise 7" type="audio" data="../atm/Eng Please 1 NE CD1 Trk04.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="528"/>
+      <point x="57" y="528"/>
+      <point x="57" y="589"/>
+      <point x="15" y="589"/>
+    </popup>
+  </page>
+  <page pageid="7">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 1" type="audio" data="../atm/Eng Please 1 NE CD1 Trk05.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="5" y="137"/>
+      <point x="48" y="137"/>
+      <point x="48" y="199"/>
+      <point x="5" y="199"/>
+    </popup>
+  </page>
+  <page pageid="8"/>
+  <page pageid="9">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 4" type="audio" data="../atm/Eng Please 1 NE CD1 Trk06.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="338"/>
+      <point x="57" y="338"/>
+      <point x="57" y="399"/>
+      <point x="15" y="399"/>
+    </popup>
+  </page>
+  <page pageid="10">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 5" type="audio" data="../atm/Eng Please 1 NE CD1 Trk07.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="59"/>
+      <point x="58" y="59"/>
+      <point x="58" y="121"/>
+      <point x="15" y="121"/>
+    </popup>
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 6" type="audio" data="../atm/Eng Please 1 NE CD1 Trk08.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="562"/>
+      <point x="57" y="562"/>
+      <point x="57" y="623"/>
+      <point x="15" y="623"/>
+    </popup>
+  </page>
+  <page pageid="11">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 7" type="audio" data="../atm/Eng Please 1 NE CD1 Trk09.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="334"/>
+      <point x="58" y="334"/>
+      <point x="58" y="396"/>
+      <point x="15" y="396"/>
+    </popup>
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 8" type="audio" data="../atm/Eng Please 1 NE CD1 Trk10.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="725"/>
+      <point x="57" y="725"/>
+      <point x="57" y="786"/>
+      <point x="15" y="786"/>
+    </popup>
+  </page>
+  <page pageid="12">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 9" type="audio" data="../atm/Eng Please 1 NE CD1 Trk11.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="280"/>
+      <point x="56" y="280"/>
+      <point x="56" y="340"/>
+      <point x="15" y="340"/>
+    </popup>
+  </page>
+  <page pageid="13"/>
+  <page pageid="14">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 3" type="audio" data="../atm/Eng Please 1 NE CD1 Trk12.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="712"/>
+      <point x="57" y="712"/>
+      <point x="57" y="773"/>
+      <point x="15" y="773"/>
+    </popup>
+  </page>
+  <page pageid="15">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 4" type="audio" data="../atm/Eng Please 1 NE CD1 Trk13.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="375"/>
+      <point x="58" y="375"/>
+      <point x="58" y="437"/>
+      <point x="15" y="437"/>
+    </popup>
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 5" type="audio" data="../atm/Eng Please 1 NE CD1 Trk14.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="725"/>
+      <point x="57" y="725"/>
+      <point x="57" y="786"/>
+      <point x="15" y="786"/>
+    </popup>
+  </page>
+  <page pageid="16">
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 6" type="audio" data="../atm/Eng Please 1 NE CD1 Trk15.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="370"/>
+      <point x="57" y="370"/>
+      <point x="57" y="431"/>
+      <point x="15" y="431"/>
+    </popup>
+    <popup style="audio" name="Unit 0 Alphabet... Exercise 7" type="audio" data="../atm/Eng Please 1 NE CD1 Trk16.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="715"/>
+      <point x="57" y="715"/>
+      <point x="57" y="776"/>
+      <point x="15" y="776"/>
+    </popup>
+  </page>
+  <page pageid="17"/>
+  <page pageid="18">
+    <popup style="audio" name="Unit 0 Counting Exercise 2" type="audio" data="../atm/Eng Please 1 NE CD1 Trk17.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+      <point x="15" y="59"/>
+      <point x="56" y="59"/>
+      <point x="56" y="119"/>
+      <point x="15" y="119"/>
+    </popup>
+  </page>
+  <page pageid="19"/>
+  <page pageid="20"/>
+  <page pageid="21"/>
+  <page pageid="22"/>
+  <page pageid="23"/>
+</unit>

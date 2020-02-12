@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[<b>Streets and roads (Unit 4, Lesson 4)</b>]]></title>
+	<Banner><![CDATA[je me vois]]></Banner>
+	<version><![CDATA[student]]></version>							<!-- student/teacher -->
+	<verticalIndent>75</verticalIndent>
+	<multipleSelection>false</multipleSelection>
+	<hilightText color="0x0033CC"></hilightText>
+	<helpText><![CDATA[Select the correct option from the drop-down menus to fill in the gaps.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+	<feedback>
+		<positiveFeedback><![CDATA[Bravo! Clique sur «Next».]]></positiveFeedback>
+		<negativeFeedback><![CDATA[Dommage, mauvaise réponse. Clique sur «Next».]]></negativeFeedback>
+	</feedback>
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+    <audioPanel><![CDATA[true]]></audioPanel>
+	<templateType><![CDATA[DD]]></templateType>  <!-- DND/DD -->
+	<!--multipleUse><![CDATA[true]]></multipleUse-->
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+			<!--image><![CDATA[dummy.swf]]></image-->
+
+			<!--Used for 18g(with block of reading text). Remove "--readingText" node for 18f (gapped options only). -->
+			<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<!--audio><![CDATA[dummy_1.mp3]]></audio-->
+			<options childType="array">
+
+				<!-- Use for 18f (gapped options only). Width should be "690". -->
+				<!--option id="1" left="0" top="0" height="800" width="690" lineHeight="35"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. each word <object type="mcTarget_" id="0" height="32" width="150"></object>below that describes older people and  <object type="mcTarget_" id="1" height="32" width="100"></object>decide how you would categorise themunder the <br/> headings in the grid.&nbsp; </font></p>]]></option-->
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Excuse me. Is <object type="mcTarget_" id="0" height="32" width="150"></object> the road to the <object type="mcTarget_" id="1" height="32" width="150"></object>?<br><br>No, <object type="mcTarget_" id="2" height="32" width="150"></object> isn’t. It’s the road to the bus <object type="mcTarget_" id="3" height="32" width="150"></object>.<br><br>Thank you.&nbsp; </font></p>]]></option>
+				</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[the]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[they]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[this]]></textValue>
+				</optionText>
+				<optionText id="1">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[airport]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[street]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[lorry]]></textValue>
+				</optionText>
+				<optionText id="2">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[they]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[she]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[it]]></textValue>
+				</optionText>
+				<optionText id="3">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[petrol]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[normal]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[station]]></textValue>
+				</optionText>
+
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+		<assessmentItem id="2">
+			<rubric><![CDATA[Click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<options childType="array">
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Hello. What <object type="mcTarget_" id="4" height="32" width="150"></object> the <object type="mcTarget_" id="5" height="32" width="150"></object>?<br><br>It’s the <object type="mcTarget_" id="6" height="32" width="150"></object>.<br><br>All <object type="mcTarget_" id="7" height="32" width="150"></object>.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="4">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[is]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[are]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[am]]></textValue>
+				</optionText>
+				<optionText id="5">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[full]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[garage]]></textValue>
+					<textValue id="3" correctAnswer="true"><![CDATA[problem]]></textValue>
+				</optionText>
+				<optionText id="6">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[clutch]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[white]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[please]]></textValue>
+				</optionText>
+				<optionText id="7">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[bus]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[right]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[cab]]></textValue>
+				</optionText>
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+
+		<assessmentItem id="3">
+			<rubric><![CDATA[Click on the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<options childType="array">
+
+				<option id="1" left="20" top="10" height="800" width="670" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Taxi! White Street <object type="mcTarget_" id="8" height="32" width="150"></object> . <br><br>Where’s <object type="mcTarget_" id="9" height="32" width="150"></object>?<br><br><object type="mcTarget_" id="10" height="32" width="150"></object>the bus station.&nbsp; </font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="8">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[much]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[please]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[how]]></textValue>
+				</optionText>
+				<optionText id="9">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="true"><![CDATA[that]]></textValue>
+					<textValue id="2" correctAnswer="false"><![CDATA[what]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[much]]></textValue>
+				</optionText>
+				<optionText id="10">
+					<textValue id="0" correctAnswer="false"><![CDATA[]]></textValue>
+					<textValue id="1" correctAnswer="false"><![CDATA[Seventy]]></textValue>
+					<textValue id="2" correctAnswer="true"><![CDATA[Near]]></textValue>
+					<textValue id="3" correctAnswer="false"><![CDATA[This]]></textValue>
+				</optionText>
+
+			</item>
+			<artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+			<componentStyle id="componentStyle">
+				<style id="color"><![CDATA[0x000000]]></style>
+				<style id="fontFamily"><![CDATA[Arial]]></style>
+				<style id="fontSize"><![CDATA[22]]></style>
+				<style id="textSelectedColor"><![CDATA[0x000000]]></style>
+				<style id="rollOverColor"><![CDATA[0x93BBCC]]></style>
+				<style id="selectionColor"><![CDATA[0x4885A2]]></style>
+			</componentStyle>
+
+		</assessmentItem>
+</assessment>

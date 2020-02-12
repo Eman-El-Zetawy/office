@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <book id="peleveng1" pagePrefix="" xScale="67.00167504187606" yScale="60.879904875148625" defaultPage="1" defaultSection="1" blankPage="">Student Book</book>
+  <content data="../at/content/ab_1/" markup="markup.xml" assets="assets_list.xml" markuplayer=""/>
+  <subjects>
+    <subject titleImage="Video top bar.swf">
+      <unit id="1" sectionid="1" pageid="1" endpageid="23" label="Unit 0 Check up!" src="unit_1_1_23.xml">
+        <title>Unit 0 Check up!</title>
+ <!--       <topic id="1" pageid="2" endpageid="3">Contents</topic>-->
+        <topic id="2" pageid="4" endpageid="6">Classroom language and numbers</topic>
+        <topic id="3" pageid="7" endpageid="12">The Aphabet-capital letters</topic>
+        <topic id="4" pageid="13" endpageid="16">The Aphabet-small letters</topic>
+        <topic id="5" pageid="17" endpageid="18">Counting</topic>
+        <topic id="6" pageid="19" endpageid="19">Names</topic>
+        <topic id="7" pageid="20" endpageid="20">Countries</topic>
+        <topic id="8" pageid="21" endpageid="21">Cities</topic>
+        <topic id="9" pageid="22" endpageid="22">Punctuation</topic>
+        <topic id="10" pageid="23" endpageid="23">Words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="2" sectionid="1" pageid="24" endpageid="33" label="Unit 1 Meeting people" src="unit_2_24_33.xml">
+        <title>Unit 1 Meeting people</title>
+        <topic id="1" pageid="24" endpageid="25">Lesson 1 Hello!</topic>
+        <topic id="2" pageid="26" endpageid="27">Lesson 2 My name's Bond</topic>
+        <topic id="3" pageid="28" endpageid="29">Lesson 3 This is Ahmed</topic>
+        <topic id="4" pageid="30" endpageid="31">Lesson 4 Good morning</topic>
+        <topic id="5" pageid="32" endpageid="32">Study</topic>
+        <topic id="6" pageid="33" endpageid="33">New words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="3" sectionid="1" pageid="34" endpageid="43" label="Unit 2 Family and friends" src="unit_3_34_43.xml">
+        <title>Unit 2 Family and friends</title>
+        <topic id="1" pageid="34" endpageid="35">Lesson 1 Who's that?</topic>
+        <topic id="2" pageid="36" endpageid="37">Lesson 2 Good Luck Hotel</topic>
+        <topic id="3" pageid="38" endpageid="39">Lesson 3 Where are you from?</topic>
+        <topic id="4" pageid="40" endpageid="41">Lesson 4 Welcome!</topic>
+        <topic id="5" pageid="42" endpageid="42">Study</topic>
+        <topic id="6" pageid="43" endpageid="43">New words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="4" sectionid="1" pageid="44" endpageid="51" label="Revision A" src="unit_4_44_51.xml">
+        <title>Revision A</title>
+        <topic id="1" pageid="44" endpageid="46">Grammar</topic>
+        <topic id="2" pageid="47" endpageid="48">New words</topic>
+        <topic id="3" pageid="49" endpageid="49">Read and write</topic>
+        <topic id="4" pageid="50" endpageid="51">Story: Hello London 1</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="5" sectionid="1" pageid="52" endpageid="61" label="Unit 3 Jobs and nationalities" src="unit_5_52_61.xml">
+        <title>Unit 3 Jobs and nationalities</title>
+        <topic id="1" pageid="52" endpageid="53">Lesson 1 He's a mechanic</topic>
+        <topic id="2" pageid="54" endpageid="55">Lesson 2 These are my brothers</topic>
+        <topic id="3" pageid="56" endpageid="57">Lesson 3 Are you English?</topic>
+        <topic id="4" pageid="58" endpageid="59">Lesson 4 Where are we?</topic>
+        <topic id="5" pageid="60" endpageid="60">Study</topic>
+        <topic id="6" pageid="61" endpageid="61">New words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="6" sectionid="1" pageid="62" endpageid="71" label="Unit 4 In the city" src="unit_6_62_71.xml">
+        <title>Unit 4 In the city</title>
+        <topic id="1" pageid="62" endpageid="63">Lesson 1 What's that?</topic>
+        <topic id="2" pageid="64" endpageid="65">Lesson 2 Is it far?</topic>
+        <topic id="3" pageid="66" endpageid="67">Lesson 3 The market</topic>
+        <topic id="4" pageid="68" endpageid="69">Lesson 4 Streets and roads</topic>
+        <topic id="5" pageid="70" endpageid="70">Study</topic>
+        <topic id="6" pageid="71" endpageid="71">New words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="7" sectionid="1" pageid="72" endpageid="79" label="Revision B" src="unit_7_72_79.xml">
+        <title>Revision B</title>
+        <topic id="1" pageid="72" endpageid="73">Grammar</topic>
+        <topic id="2" pageid="74" endpageid="75">New words</topic>
+        <topic id="3" pageid="76" endpageid="76">Punctuation</topic>
+        <topic id="4" pageid="77" endpageid="77">Write</topic>
+        <topic id="5" pageid="78" endpageid="79">Story: Hello London 2</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="8" sectionid="1" pageid="80" endpageid="89" label="Unit 5 What's it like?" src="unit_8_80_89.xml">
+        <title>Unit 5 What's it like?</title>
+        <topic id="1" pageid="80" endpageid="81">Lesson 1 That's mine!</topic>
+        <topic id="2" pageid="82" endpageid="83">Lesson 2 Whose is this?</topic>
+        <topic id="3" pageid="84" endpageid="85">Lesson 3 She's got green eyes</topic>
+        <topic id="4" pageid="86" endpageid="87">Lesson 4 How many?</topic>
+        <topic id="5" pageid="88" endpageid="88">Study</topic>
+        <topic id="6" pageid="89" endpageid="89">New words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="9" sectionid="1" pageid="90" endpageid="99" label="Unit 6 Where is it?" src="unit_9_90_99.xml">
+        <title>Unit 6 Where is it?</title>
+        <topic id="1" pageid="90" endpageid="91">Lesson 1 The second door on the right</topic>
+        <topic id="2" pageid="92" endpageid="93">Lesson 2 David's village</topic>
+        <topic id="3" pageid="94" endpageid="95">Lesson 3 Can I speak to Mrs Roberts?</topic>
+        <topic id="4" pageid="96" endpageid="97">Lesson 4 Peter's classroom</topic>
+        <topic id="5" pageid="98" endpageid="98">Study</topic>
+        <topic id="6" pageid="99" endpageid="99">New words</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="10" sectionid="1" pageid="100" endpageid="107" label="Revision C" src="unit_10_100_107.xml">
+        <title>Revision C</title>
+        <topic id="1" pageid="100" endpageid="101">Grammar</topic>
+        <topic id="2" pageid="102" endpageid="102">New words</topic>
+        <topic id="3" pageid="103" endpageid="103">Numbers</topic>
+        <topic id="4" pageid="104" endpageid="104">Spelling</topic>
+        <topic id="5" pageid="105" endpageid="105">Write</topic>
+        <topic id="6" pageid="106" endpageid="107">Story: Hello London 3</topic>
+      </unit>
+    </subject>
+    <subject titleImage="Video top bar.swf">
+      <unit id="11" sectionid="1" pageid="108" endpageid="112" label="Wordlist" src="unit_11_108_112.xml">
+        <title>Wordlist</title>
+      </unit>
+    </subject>
+  </subjects>
+  <styles>
+    <style OverStrokeAlpha="100" OverFillColor="0x89b300" OverStroke="1" OverFillAlpha="5" OverStrokeColor="0x89b300" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xffffff" id="ZoomArea" dragIcon="ZoomArea_dragicon.swf"/>
+    <style OverStrokeAlpha="100" OverFillColor="0x7602b1" OverStroke="1" OverFillAlpha="5" OverStrokeColor="0x7602b1" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0x660099" id="GoTo"/>
+    <style OverStrokeAlpha="100" OverFillColor="0xf16422" OverStroke="1" OverFillAlpha="5" OverStrokeColor="0xf16422" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xffffff" id="Glossary"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="Video" BgColor="0xffffff" MaxWidth="783" MaxHeight="375" MinWidth="783" MinHeight="375" MaintainAspectRatio="true" icon="Video_icon.swf" dragIcon="Video_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="audio" icon="audio_icon.swf" dragIcon="audio_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="word" icon="word_icon.swf" dragIcon="word_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="flash" icon="flash_icon.swf" dragIcon="flash_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="image" icon="image_icon.swf" dragIcon="image_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="ppt" icon="ppt_icon.swf" dragIcon="ppt_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="excel" icon="excel_icon.swf" dragIcon="excel_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="game" icon="game_icon.swf" dragIcon="game_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="objectives" icon="objectives_icon.swf" dragIcon="objectives_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="pdf" icon="pdf_icon.swf" dragIcon="pdf_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="pupil" icon="pupil_icon.swf" dragIcon="pupil_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="quiz" icon="quiz_icon.swf" dragIcon="quiz_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="slideshow" icon="slideshow_icon.swf" dragIcon="slideshow_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="teacher" icon="teacher_icon.swf" dragIcon="teacher_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="HTML" icon="HTML_icon.swf" dragIcon="HTML_dragicon.swf"/>
+    <style OverStrokeAlpha="100" OverFillColor="0x3366cc" OverStroke="1" OverFillAlpha="5" OverStrokeColor="0x3366cc" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xffffff" id="printedURL" icon="printedURL_icon.swf" dragIcon="printedURL_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="RP" icon="RP_icon.swf" dragIcon="RP_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="EC" icon="EC_icon.swf" dragIcon="EC_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="EZ" icon="EZ_icon.swf" dragIcon="EZ_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="GS" icon="GS_icon.swf" dragIcon="GS_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="globe" icon="globe_icon.swf" dragIcon="globe_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="GSpupil" icon="GSpupil_icon.swf" dragIcon="GSpupil_dragicon.swf"/>
+    <style OverStrokeAlpha="0" OverFillColor="0x999999" OverStroke="0" OverFillAlpha="0" OverStrokeColor="0x991111" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xff0000" id="espec" icon="espec_icon.swf" dragIcon="espec_dragicon.swf"/>
+    <style OverStrokeAlpha="100" OverFillColor="0x3366cc" OverStroke="1" OverFillAlpha="5" OverStrokeColor="0x3366cc" NormalFillAlpha="0" NormalStroke="0" NormalFillColor="0xffffff" NormalStrokeAlpha="0" NormalStrokeColor="0xffffff" id="Video_trans" BgColor="0xffffff" MaxWidth="783" MaxHeight="375" MinWidth="783" MinHeight="375" MaintainAspectRatio="true" icon="Video_trans_icon.swf" dragIcon="Video_trans_dragicon.swf"/>
+  </styles>
+  <contents sectionid="1" pageid="1"/>
+  <glossary pageid="15"/>
+  <index sectionid="1" pageid="1"/>
+  <configuration>
+    <activebookconfig>
+      <splitzoomMode lineThickness="0.25" lineColor="0x473D8F" buttonGraphic="/icon/splitButton.swf" buttonGraphicRollOver="/icon/tabGraphics01.swf"/>
+      <zoomMode highlightInBothView="true"/>
+      <resPalette xPos="3" flipXPos="711"/>
+      <stimuliText xPos="234" flipXPos="530"/>
+      <style>
+        <audio background="audioPlayer_bg.swf" x="42" y="86" button="audioPlayer.swf" verticalGap="10"/>
+        <audiosmall background="audioPlayerSmall_bg.swf" x="5" y="50" height="50" width="360"/>
+        <image background="abImage_bg.swf"/>
+        <bullets background="abImage_bg.swf" bullet="bullet.swf" titleBg="titleBg.swf"/>
+        <slideShow background="abImage_bg.swf" thumbnail="thumbNailBorder.swf" rightButton="rightButton.swf" leftButton="leftButton.swf" slider="slider.swf" titleBg="textTitleBg.swf" imageBorder="imageBorder.swf"/>
+        <textImage background="abImage_bg.swf" imageBorder="imageBorder.swf" titleBg="textTitleBg.swf"/>
+        <zoom background="abZoom_bg.swf"/>
+        <concept file="conceptMap.swf"/>
+        <video controls="videoControls.swf" slider="videoSlider.swf" bar="videoBar.swf"/>
+        <zoomFamily background="abZoom_bg.swf" buttons="zoomFamilyBtns.swf" x="675" y="447"/>
+        <html height="400" width="200"/>
+        <pageDragIcon dragIconTop="dragIcon2.swf" topX="5" topY="5" dragIconBottom="dragIcon2.swf" bottomX="5" bottomY="700"/>
+      </style>
+      <contents xpos="562" ypos="514" flipxpos="170" graphic="/icon/contentListBtn.swf" contents_tooltiptxt="Contents list"/>
+      <assets shiftXpos="266" shiftYpos="516" logoXpos="30" invBtnXpos="30" shiftButtonSingle="/icon/shift2.swf" shiftButtonDouble="/icon/shift1.swf" defaultMode="double" flipShiftXpos="465" flipLogoXpos="627" flipInvBtnXpos="628" single_tooltiptxt="Single page view" double_tooltiptxt="Double page view"/>
+      <historyconfig xPos="620" flipXPos="142" historyicon="/icon/history01.swf" yPos=".7" history_tooltiptxt="Go to previously viewed page"/>
+         <pageresources xpos="79" ypos="514.5" flipxpos="618" graphic="/icon/pageResourcesBtn.swf" resources_tooltiptxt="See a list of resources for this page">
+        <defaultText><![CDATA[There are no resources allocated to this page; try moving to another page.]]></defaultText>
+      </pageresources>
+ <pageNavigation nextButton="/icon/gotonext2.swf" navXPos="780" flipNavXPos="7" nextXPos="758" prevXPos="733" flipNextXPos="32" flipPrevXPos="7" prevButton="/icon/gotoprev2.swf" indexButton="" contentsButton="" indexXPos="243" contentXPos="0" pagenext_tooltiptxt="Next page" pagepre_tooltiptxt="Back a page"/>
+      <pageIndexBg xPos="562" flipXPos="115" yPos="1" backXpos="649.0" flipBackXpos="60" txtXpos="648" txtYpos="518" flipTxtXpos="59" imagefile="/icon/pageIndexback.swf"/>
+      <zoomNavigation nextButton="/icon/gotozoomnext2.swf" navXPos="643" flipNavXPos="58" nextXPos="107" prevXPos="24" zoomOutXPos="-14" zoomOutButton="/icon/gotozoomout2.swf" prevButton="/icon/gotozoomprev2.swf" zoomout_tooltiptxt="Zoom Out" zoomnext_tooltiptxt="Zoom Next" zoompre_tooltiptxt="Zoom Previous"/>
+      <annotationButton xPos="182" yPos="514" flipXPos="556" zoomXPos="594" zoomFlipXPos="10" graphic="/icon/annotationBtn.swf" annotate_tooltiptxt="Annotate pages"/>
+      <postit xpos="208" ypos="514.5" flipxpos="582" graphic="/icon/postit.swf" post_tooltiptxt="Add your own links to the page"/>
+      <interactivemode xPos="390" flipXPos="327" activename="." inactivename="." normal="/icon/interactiveicon2.swf" showMode="true" defaultMode="on" yPos="515.5" rollover="/icon/interactiveicon1.swf" interactive_tooltiptxt="Show/hide hotspot icons"/>
+      <manualZoom zoomInXPos="330" zoomInFlipXPos="407" zoomInYPos="513.5" zoomInFlipYPos="513.5" zoomIngraphic="/icon/zoomInBtn.swf" zoomOutXPos="356" zoomOutFlipXPos="433" zoomOutYPos="513.5" zoomOutFlipYPos="513.5" zoomOutgraphic="/icon/zoomOutBtn.swf" maxZoomLimit="150" zoomScale="10" zoomin_tooltiptxt="Zoom in" zoomout_tooltiptxt="Zoom out"/>
+      <flipButton xLPos="0" xRPos="791" yPos="-2" imageleft="" imageright="/icon/flipButtonR.swf" flip_tooltiptxt="Flip Button"/>
+      <pageTurnButton offmode="/icon/pageturn1.swf" xPos="474" flipXPos="246" onmode="/icon/pageturn2.swf" yPos="516" showMode="true" defaultMode="on" pageturn_tooltiptxt="Animated page turn on/off"/>
+    </activebookconfig>
+    <glossaryconfig playButton="/icon/glossaryPlay.swf"/>
+    <HomePageconfig xPos="-1" imageFile="/icon/home_img.jpg" yPos="65" headerbar="/icon/headerBar.swf"/>
+    <digiModulecofig nextButton="/icon/gotonext2.swf" prevButton="/icon/gotoprev2.swf" firstpageButton="/icon/gotocontent2.swf"/>
+    <MenuButtonconfig digiListSkin="/icon/buttonSkin02.jpg"/>
+    <PopupStyle popUpBackImage="/icon/popUpBack.jpg" glPopUpBackImage="/icon/glPopUpBack.swf" showWhiteBackground="false" closeButton="/icon/popupCloseBtn.swf" minButton="/icon/popupMinBtn.swf" maxButton="/icon/popupMaxBtn.swf" textFrame="false" restoreButton="/icon/restore.swf" maximizeButton="/icon/maximize.swf" maximizeButton_xpos="620"/>
+  </configuration>
+</root>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[]]></title>
+	<version><![CDATA[student]]></version>							<!-- student/teacher 15a-->
+	<banner><![CDATA[<b>Whose is this car? (Unit 5, Lesson 2)</b>]]></banner>
+	<rubric><![CDATA[]]></rubric>
+	<helpText><![CDATA[Rearrange the words to form sentences. When you drag and drop a word onto another they swap places.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+
+	<feedback>
+		<relative><![CDATA[Your score: ]]></relative>
+		<final><![CDATA[Do you want to try again?]]></final>
+	</feedback>
+
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+
+	<audioPanel><![CDATA[false]]></audioPanel>
+	<activityType><![CDATA[word]]></activityType>
+	<navigationAudio><![CDATA[false]]></navigationAudio>
+
+	<assessmentItems childType="array">
+
+		<assessmentItem id="1" constYGap="100">
+			<rubric><![CDATA[Put the words in the right place.]]></rubric>
+			<audio><![CDATA[]]></audio>
+			<contentType><![CDATA[text]]></contentType>
+			<groups childType="array">
+
+				<group>
+					<prompt><![CDATA[Whose is this car?]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[It’s my sister’s.]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[Is this your bag?]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[No, it’s his.]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+
+			</groups>
+		</assessmentItem>
+		<assessmentItem id="2" constYGap="100">
+			<rubric><![CDATA[Put the words in the right place.]]></rubric>
+			<audio><![CDATA[dummy_2.mp3]]></audio>
+			<contentType><![CDATA[text]]></contentType>
+			<groups childType="array">
+
+				<group>
+					<prompt><![CDATA[Is this ours?]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[No, it’s theirs.]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[Is this your bag?]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[No, it’s my father’s.]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+
+			</groups>
+		</assessmentItem>
+
+		<assessmentItem id="3" constYGap="100">
+			<rubric><![CDATA[Put the words in the right place.]]></rubric>
+			<audio><![CDATA[dummy_2.mp3]]></audio>
+			<contentType><![CDATA[text]]></contentType>
+			<groups childType="array">
+
+				<group>
+					<prompt><![CDATA[Whose is this key?]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[I think it’s ours.]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[Is that his car?]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+				<group>
+					<prompt><![CDATA[No, I think it’s hers.]]></prompt>
+					<content><![CDATA[]]></content>
+				</group>
+
+			</groups>
+		</assessmentItem>
+
+
+	</assessmentItems>
+</assessment>

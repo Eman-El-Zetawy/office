@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[Alphabet (Unit 1, Lesson 3)]]></title>
+	<Banner><![CDATA[Click on a card of each colour to find the matching pairs of English and Spanish equivalent expressions.]]></Banner>
+	<reversOnSort>false</reversOnSort>
+	<grid>
+		<rowNames><![CDATA[1,2,3,4]]></rowNames>
+		<columnNames><![CDATA[A,B,C,D,E,F]]></columnNames>
+		<gap><![CDATA[1.5]]></gap>
+	</grid>
+	<feedback>
+		<timeOverFeedback><![CDATA[Sorry, you are out of time.]]></timeOverFeedback>
+		<playerWinsFeedback><![CDATA[Congratulations! You have done it.]]></playerWinsFeedback>
+		<!--drawFeedback><![CDATA[Match nul! Cliquez sur ‘Close’ et puis sur Start pour rejouer.]]></drawFeedback-->
+	</feedback>
+    	<activityVersion>
+		<firstPlayer><![CDATA[Score]]></firstPlayer>
+		<secondPlayer><![CDATA[Score]]></secondPlayer>
+	</activityVersion>
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+	<promptType><![CDATA[audio]]></promptType>
+	<helpText><![CDATA[The aim of the game is to find the matching pairs.<br><br>Click on one card of each colour.<br>If the two cards are a matching pair, they will stay face up and you will score one point.<br>If they do not form a pair, they will turn over and no points are scored.<br><br>If you click on Reveal, all the cards will turn over in their current position for five seconds, and then you’ll be able to resume playing. (Reveal does not function in games with audio.)<br>If you click on Sort, all the cards will appear paired up and the game will be over.<br><br>Click on Reset to shuffle the cards and play again.]]></helpText>
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Match the blue letter cards to the green sound cards.]]></rubric>
+			<cards backColor="internal" useDefaultIconForSound="true">		<!--there are 2 values "internal"/"external" (internal for useng frame and external for taking value from xml file 'backColorId' attribute in 'card' node-->
+				<card id="1" backColorId="back_1" matchingCardId="2" childType="array">		<!-- "image"/"audio"/"text"  -->
+					<content type="text"><![CDATA[A]]></content>	<!--put path/url for external image/audio and text for text. in CDATA node -->
+				</card>
+				<card id="2" backColorId="back_2" matchingCardId="1" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_A.mp3]]></content>
+				</card>
+
+				<card id="3" backColorId="back_1" matchingCardId="4" childType="array">
+					<content type="text"><![CDATA[B]]></content>
+				</card>
+
+				<card id="4" backColorId="back_2" matchingCardId="3" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_B.mp3]]></content>
+				</card>
+				<card id="5" backColorId="back_1" matchingCardId="6" childType="array">
+					<content type="text"><![CDATA[C]]></content>
+				</card>
+
+				<card id="6" backColorId="back_2" matchingCardId="5" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_C.mp3]]></content>
+				</card>
+
+				<card id="7" backColorId="back_1" matchingCardId="8" childType="array">
+					<content type="text"><![CDATA[D]]></content>
+				</card>
+
+				<card id="8" backColorId="back_2" matchingCardId="7" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_D.mp3]]></content>
+				</card>
+
+				<card id="9" backColorId="back_1" matchingCardId="10" childType="array">
+					<content type="text"><![CDATA[E]]></content>
+				</card>
+
+				<card id="10" backColorId="back_2" matchingCardId="9" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_E.mp3]]></content>
+				</card>
+
+				<card id="11" backColorId="back_1" matchingCardId="12" childType="array">
+					<content type="text"><![CDATA[F]]></content>
+				</card>
+
+				<card id="12" backColorId="back_2" matchingCardId="11" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_F.mp3]]></content>
+				</card>
+
+				<card id="13" backColorId="back_1" matchingCardId="14" childType="array">
+					<content type="text"><![CDATA[G]]></content>
+				</card>
+
+				<card id="14" backColorId="back_2" matchingCardId="13" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_G.mp3]]></content>
+				</card>
+
+				<card id="15" backColorId="back_1" matchingCardId="16" childType="array">
+					<content type="text"><![CDATA[H]]></content>
+				</card>
+
+				<card id="16" backColorId="back_2" matchingCardId="15" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_H.mp3]]></content>
+				</card>
+
+				<card id="17" backColorId="back_1" matchingCardId="18" childType="array">
+					<content type="text"><![CDATA[I]]></content>
+				</card>
+
+				<card id="18" backColorId="back_2" matchingCardId="17" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_I.mp3]]></content>
+				</card>
+
+				<card id="19" backColorId="back_1" matchingCardId="20" childType="array">
+					<content type="text"><![CDATA[J]]></content>
+				</card>
+
+				<card id="20" backColorId="back_2" matchingCardId="19" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_J.mp3]]></content>
+				</card>
+
+				<card id="21" backColorId="back_1" matchingCardId="22" childType="array">
+					<content type="text"><![CDATA[K]]></content>
+				</card>
+
+				<card id="22" backColorId="back_2" matchingCardId="21" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_K.mp3]]></content>
+				</card>
+
+				<card id="23" backColorId="back_1" matchingCardId="24" childType="array">
+					<content type="text"><![CDATA[L]]></content>
+				</card>
+
+				<card id="24" backColorId="back_2" matchingCardId="23" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_L.mp3]]></content>
+				</card>
+				<card id="25" backColorId="back_1" matchingCardId="26" childType="array">
+					<content type="text"><![CDATA[M]]></content>
+				</card>
+
+				<card id="26" backColorId="back_2" matchingCardId="25" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_M.mp3]]></content>
+				</card>
+
+				<card id="27" backColorId="back_1" matchingCardId="28" childType="array">
+					<content type="text"><![CDATA[N]]></content>
+				</card>
+
+				<card id="28" backColorId="back_2" matchingCardId="27" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_N.mp3]]></content>
+				</card>
+				<card id="29" backColorId="back_1" matchingCardId="30" childType="array">
+					<content type="text"><![CDATA[O]]></content>
+				</card>
+
+				<card id="30" backColorId="back_2" matchingCardId="29" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_O.mp3]]></content>
+				</card>
+				<card id="31" backColorId="back_1" matchingCardId="32" childType="array">
+					<content type="text"><![CDATA[P]]></content>
+				</card>
+
+				<card id="32" backColorId="back_2" matchingCardId="31" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_P.mp3]]></content>
+				</card>
+				<card id="33" backColorId="back_1" matchingCardId="34" childType="array">
+					<content type="text"><![CDATA[Q]]></content>
+				</card>
+
+				<card id="34" backColorId="back_2" matchingCardId="33" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_Q.mp3]]></content>
+				</card>
+               	<card id="35" backColorId="back_1" matchingCardId="36" childType="array">
+					<content type="text"><![CDATA[R]]></content>
+				</card>
+
+				<card id="36" backColorId="back_2" matchingCardId="35" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_R.mp3]]></content>
+				</card>
+               	<card id="37" backColorId="back_1" matchingCardId="38" childType="array">
+					<content type="text"><![CDATA[S]]></content>
+				</card>
+
+				<card id="38" backColorId="back_2" matchingCardId="37" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_S.mp3]]></content>
+				</card>
+               	<card id="39" backColorId="back_1" matchingCardId="40" childType="array">
+					<content type="text"><![CDATA[T]]></content>
+				</card>
+
+				<card id="40" backColorId="back_2" matchingCardId="39" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_T.mp3]]></content>
+				</card>
+               	<card id="41" backColorId="back_1" matchingCardId="42" childType="array">
+					<content type="text"><![CDATA[U]]></content>
+				</card>
+
+				<card id="42" backColorId="back_2" matchingCardId="41" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_U.mp3]]></content>
+				</card>
+               	<card id="43" backColorId="back_1" matchingCardId="44" childType="array">
+					<content type="text"><![CDATA[V]]></content>
+				</card>
+
+				<card id="44" backColorId="back_2" matchingCardId="43" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_V.mp3]]></content>
+				</card>
+               	<card id="45" backColorId="back_1" matchingCardId="46" childType="array">
+					<content type="text"><![CDATA[W]]></content>
+				</card>
+
+				<card id="46" backColorId="back_2" matchingCardId="45" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_W.mp3]]></content>
+				</card>
+               	<card id="47" backColorId="back_1" matchingCardId="48" childType="array">
+					<content type="text"><![CDATA[X]]></content>
+				</card>
+
+				<card id="48" backColorId="back_2" matchingCardId="47" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_X.mp3]]></content>
+				</card>
+               	<card id="49" backColorId="back_1" matchingCardId="50" childType="array">
+					<content type="text"><![CDATA[Y]]></content>
+				</card>
+
+				<card id="50" backColorId="back_2" matchingCardId="49" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_Y.mp3]]></content>
+				</card>
+               	<card id="51" backColorId="back_1" matchingCardId="52" childType="array">
+					<content type="text"><![CDATA[Z]]></content>
+				</card>
+
+				<card id="52" backColorId="back_2" matchingCardId="51" childType="array">
+					<content type="audio"><![CDATA[EP06_U1L3Ex2_Z.mp3]]></content>
+				</card>
+			</cards>
+		</assessmentItem>
+	</assessmentItems>
+</assessment>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wrapper>
+  <apptype><![CDATA[AT]]></apptype>
+  <appLaunchMode/>
+  <uniqueid><![CDATA[pelevengactiveteach.xml]]></uniqueid>
+  <style skin="shared/wrapper/wrapper_skin.swf" css="shared/wrapper/wrapper.css"/>
+  <splash_screen duration="2000" teacher_data="content/wrapper/teacher_splash.swf" student_data="content/wrapper/student_splash.swf"/>
+  <logocofig xPos="648" yPos="-2" pearsonlogo=""/>
+  <resourcePalette iconMc="mcResBtn" x="3" y="555" posx="0" posy="33.5" content="content/respalette/respalette_config.xml" defaultFile="content/respalette/test.atr" demoEnabled="true" demoResourcePalette="content/respalette/popup_image.swf" data="respalette.swf" rp_tooltiptxt="Create your own lessons"/>
+  <bottomNavcofig activebookShade="/icon/bottomshade02.swf" regularShade="/icon/bottomshade02a.swf" uri=""/>
+  <history limit="30"/>
+  <waitClip limit="2" minlimit="1"/>
+  <catalogue catalogueFile="catalogue.xml" indexFile="index.xml" catalogueXMLPath="" indexXMLPath=""/>
+  <tabs>
+    <tab xpos="25" style="tabBgUp1" contentType="studentbook" mode="both" moduleid="peleveng1" tabType="standard" type="flash:activebook" data="activebook.swf" assetsList="assets_list.xml" content="content/ab_1/main.xml"><![CDATA[Student Book]]></tab>
+    <tab xpos="135" style="tabBgUp1" contentType="findresources" mode="both" moduleid="findres" tabType="standard" type="flash" data="findresource.swf" content="content/findresource/findres_config.xml"><![CDATA[Find Resources]]></tab>
+    <tab xpos="257" style="tabBgUp1" contentType="glossary" mode="both" moduleid="glossary" tabType="standard" type="flash" data="glossary.swf" content="content/glossary/glossary.xml" platform="ALL"><![CDATA[Glossary]]></tab>
+    <tab xpos="762" style="buttonHelp" contentType="help" mode="both" pdffile="content/help/help.pdf" type="help" tabType="standard" platform="All" moduleid="help"><![CDATA[]]></tab>
+  </tabs>
+</wrapper>

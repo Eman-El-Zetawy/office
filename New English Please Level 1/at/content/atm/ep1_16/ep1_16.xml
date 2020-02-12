@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[Wordsearch]]></title>
+	<helpText><![CDATA[]]></helpText>
+	<helpTextMainMenuScreen><![CDATA[The aim of the game is to find all of the hidden words.<br><br>Click on 'Open a wordsearch' to select an existing wordsearch.<br>Click on 'Create a wordsearch' to create a new one (for this session).<br><br>To select a wordsearch, click on 'Open a wordsearch' in the Main menu screen, and then click on the title of a wordsearch. The number in the title tells you how many words you'll need to find.<br><br>In the Main game screen, click on the first letter of a word, drag the selection and release it on the last letter. The words will be displayed vertically or horizontally.<br><br>If you click on 'Show word list' you lose ten seconds.<br><br>You can increase or decrease the play time, but only at the beginning of a game.<br><br>To select a different wordsearch click on 'Main menu'. To play again click on 'New game'.]]></helpTextMainMenuScreen>
+	<helpTextCreateWordSearchScreen><![CDATA[To create a wordsearch, enter a title, select the size of the wordsearch, fill in all the boxes and click on 'Save'.<br>Words must be at least 2 characters long, and no longer than 8 (for an 8x8 game) or 12 (for a 12x12 game). To include accented letters in any of the words, hold down the Alt key and type the numerical code for the accented letter using your number keypad.<br><br>Click on 'Clear' to create a new wordsearch.<br>Click on 'Main menu' to select a game.<br><br>Any new wordsearches will appear in the list of existing wordsearches, but will not be saved after you close the program.]]></helpTextCreateWordSearchScreen>
+	<feedback>
+		<positiveFeedback><![CDATA[Well done! Click on 'Close' and then click New Game to play again.]]></positiveFeedback>
+		<negativeFeedback><![CDATA[Dommage, mauvaise réponse. Clique sur «Next».]]></negativeFeedback>
+		<timeCompletionFeedback><![CDATA[Out of time! Click on 'Close' to see the correct answers and then click New Game to play again.]]></timeCompletionFeedback>
+	</feedback>
+	<mainMenuScreenRubric><![CDATA[Click on ‘Open a wordsearch’ to select an existing wordsearch. Click on ‘Create a wordsearch’ to create a new one (for this session).]]></mainMenuScreenRubric>
+	<wordSearchScreenRubric><![CDATA[Click on the first letter of a word, drag the selection and release it on the last letter. If you click on ‘Show word list’ you lose ten seconds. Click on Start to begin.]]></wordSearchScreenRubric>
+	<createWordSearchScreenRubric><![CDATA[Select the size of the wordsearch, fill in all the boxes and click on ‘Save’. Click on ‘Clear’ to create a new wordsearch. Click on ‘Main menu’ to select a game.]]>		</createWordSearchScreenRubric>
+	<distractWords><![CDATA[abcdefghijklmnopqrstuvwxyz]]></distractWords>
+	<wordSearchTitleListLimit><![CDATA[8]]></wordSearchTitleListLimit>
+	<maxWordInputField><![CDATA[9]]></maxWordInputField>
+	<gridInfo childType="array" color = "0x000000" fontFamily = "Arial" fontSize = "20" textSelectedColor = "0x000000" rollOverColor = "0xBFE467" selectionColor = "0x659A2E" width = "110" height = "30">
+		<grid type="8" maxSearchWords="7" xPos = "133.8" yPos = "163" gap = "0">
+			<rubric><![CDATA[Enter up to 7 words to be used in the wordsearch]]></rubric>
+		</grid>
+		<grid type="12" maxSearchWords="9" xPos = "52.5" yPos = "155" gap = "0">
+			<rubric><![CDATA[Enter up to 9 words to be used in the wordsearch]]></rubric>
+		</grid>
+	</gridInfo>
+	<timerInfo>
+		<minTime><![CDATA[30]]></minTime>
+		<maxTime><![CDATA[180]]></maxTime>
+		<defaultTime><![CDATA[90]]></defaultTime>
+		<gapTime><![CDATA[10]]></gapTime>
+	</timerInfo>
+	<highlighterInfo>
+		<color><![CDATA[0xE38902]]></color>
+		<alphaValue><![CDATA[50]]></alphaValue>
+		<thickness><![CDATA[30]]></thickness>
+	</highlighterInfo>
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Click on a title to select a wordsearch. The number in the title tells you how many words you’ll need to find.]]></rubric>
+			<existWordSearchList>
+				<wordSearch childType="array">
+					<grid type = "12" title = "the family" maxSearchWords="9">
+						<word><![CDATA[mother]]></word>
+						<word><![CDATA[father]]></word>
+						<word><![CDATA[sister]]></word>
+						<word><![CDATA[brother]]></word>
+						<word><![CDATA[daughter]]></word>
+						<word><![CDATA[son]]></word>
+						<word><![CDATA[aunt]]></word>
+						<word><![CDATA[uncle]]></word>
+						<word><![CDATA[cousin]]></word>
+
+
+					</grid>
+					<grid type = "12" title = "countries" maxSearchWords="9">
+						<word><![CDATA[england]]></word>
+						<word><![CDATA[america]]></word>
+						<word><![CDATA[algeria]]></word>
+						<word><![CDATA[jordan]]></word>
+						<word><![CDATA[syria]]></word>
+						<word><![CDATA[oman]]></word>
+						<word><![CDATA[egypt]]></word>
+						<word><![CDATA[kuwait]]></word>
+						<word><![CDATA[tunisia]]></word>
+
+
+					</grid>
+
+					<grid type = "12" title = "adjectives" maxSearchWords="9">
+						<word><![CDATA[big]]></word>
+						<word><![CDATA[small]]></word>
+						<word><![CDATA[tall]]></word>
+						<word><![CDATA[short]]></word>
+						<word><![CDATA[nice]]></word>
+						<word><![CDATA[handsome]]></word>
+						<word><![CDATA[cheap]]></word>
+						<word><![CDATA[expensive]]></word>
+						<word><![CDATA[new]]></word>
+
+					</grid>
+
+					<grid type = "12" title = "numbers" maxSearchWords="9">
+						<word><![CDATA[eleven]]></word>
+						<word><![CDATA[twelve]]></word>
+						<word><![CDATA[thirteen]]></word>
+						<word><![CDATA[fourteen]]></word>
+						<word><![CDATA[fifteen]]></word>
+						<word><![CDATA[sixteen]]></word>
+						<word><![CDATA[seventeen]]></word>
+						<word><![CDATA[eighteen]]></word>
+						<word><![CDATA[nineteen]]></word>
+
+					</grid>
+
+
+				</wordSearch>
+			</existWordSearchList>
+		</assessmentItem>
+	</assessmentItems>
+</assessment>

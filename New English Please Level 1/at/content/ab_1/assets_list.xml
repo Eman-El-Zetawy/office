@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<assets>
+  <asset moduleID="peleveng1" sectionID="1" pageID="4" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk02.mp3">
+    <name>Unit 0 Classroom... Exercise 3</name>
+    <description>Classroom language and numbers</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="5" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk03.mp3">
+    <name>Unit 0 Classroom... Exercise 4</name>
+    <description>Classroom language and numbers</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="6" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk04.mp3">
+    <name>Unit 0 Classroom... Exercise 7</name>
+    <description>Classroom language and numbers</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="7" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk05.mp3">
+    <name>Unit 0 Alphabet... Exercise 1</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="9" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk06.mp3">
+    <name>Unit 0 Alphabet... Exercise 4</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="10" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk07.mp3">
+    <name>Unit 0 Alphabet... Exercise 5</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="10" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk08.mp3">
+    <name>Unit 0 Alphabet... Exercise 6</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="11" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk09.mp3">
+    <name>Unit 0 Alphabet... Exercise 7</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="11" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk10.mp3">
+    <name>Unit 0 Alphabet... Exercise 8</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="12" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk11.mp3">
+    <name>Unit 0 Alphabet... Exercise 9</name>
+    <description>The Alphabet - Capital letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="14" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk12.mp3">
+    <name>Unit 0 Alphabet... Exercise 3</name>
+    <description>The Alphabet - Small letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="15" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk13.mp3">
+    <name>Unit 0 Alphabet... Exercise 4</name>
+    <description>The Alphabet - Small letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="15" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk14.mp3">
+    <name>Unit 0 Alphabet... Exercise 5</name>
+    <description>The Alphabet - Small letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="16" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk15.mp3">
+    <name>Unit 0 Alphabet... Exercise 6</name>
+    <description>The Alphabet - Small letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="16" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk16.mp3">
+    <name>Unit 0 Alphabet... Exercise 7</name>
+    <description>The Alphabet - Small letters</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="18" chapterID="1" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk17.mp3">
+    <name>Unit 0 Counting Exercise 2</name>
+    <description>Counting</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="24" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk18.mp3">
+    <name>Unit 1 Lesson 1 Exercise 1</name>
+    <description>Unit 1 Lesson 1 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="24" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_01/ep1_01.swf">
+    <name>Unit 1 Lesson 1</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="25" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk19.mp3">
+    <name>Unit 1 Lesson 1 Exercise 5</name>
+    <description>Unit 1 Lesson 1 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="26" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk20.mp3">
+    <name>Unit 1 Lesson 2 Exercise 1</name>
+    <description>Unit 1 Lesson 2 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="26" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_03/ep1_03.swf">
+    <name>Unit 1 Lesson 2</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="27" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk21.mp3">
+    <name>Unit 1 Lesson 2 Exercise 3</name>
+    <description>Unit 1 Lesson 2 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="27" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_04/ep1_04.swf">
+    <name>Unit 1 Lesson 2</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="28" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk22.mp3">
+    <name>Unit 1 Lesson 3 Exercise 1</name>
+    <description>Unit 1 Lesson 3 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="28" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_05/ep1_05.swf">
+    <name>Unit 1 Lesson 3</name>
+    <description>interactive multiple choice activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="28" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk23.mp3">
+    <name>Unit 1 Lesson 3 Exercise 2</name>
+    <description>Unit 1 Lesson 3 Exercise 2</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="28" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk24.mp3">
+    <name>Unit 1 Lesson 3 Exercise 4</name>
+    <description>Unit 1 Lesson 3 Exercise 4</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="29" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk25.mp3">
+    <name>Unit 1 Lesson 3 Exercise 5</name>
+    <description>Unit 1 Lesson 3 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="29" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_06/ep1_06.swf">
+    <name>Unit 1 Lesson 3</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="30" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk26.mp3">
+    <name>Unit 1 Lesson 4 Exercise 1</name>
+    <description>Unit 1 Lesson 4 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="30" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk27.mp3">
+    <name>Unit 1 Lesson 4 Exercise 2</name>
+    <description>Unit 1 Lesson 4 Exercise 2</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="30" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_07/ep1_07.swf">
+    <name>Unit 1 Lesson 4</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="31" chapterID="2" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk28.mp3">
+    <name>Unit 1 Lesson 4 Exercise 5</name>
+    <description>Unit 1 Lesson 4 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="31" chapterID="2" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_08/ep1_08.swf">
+    <name>Unit 1 Lesson 4</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="34" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk34.mp3">
+    <name>Unit 2 Lesson 1 Exercise 1</name>
+    <description>Unit 2 Lesson 1 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="34" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_09/ep1_09.swf">
+    <name>Unit 2 Lesson 1</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="35" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_10/ep1_10.swf">
+    <name>Unit 2 Lesson 1</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="36" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk35.mp3">
+    <name>Unit 2 Lesson 2 Exercise 1</name>
+    <description>Unit 2 Lesson 2 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="36" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_12/ep1_12.swf">
+    <name>Unit 2 Lesson 2</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="37" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_11/ep1_11.swf">
+    <name>Unit 2 Lesson 2</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="37" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk36.mp3">
+    <name>Unit 2 Lesson 2 Exercise 5</name>
+    <description>Unit 2 Lesson 2 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="37" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk37.mp3">
+    <name>Unit 2 Lesson 2 Exercise 6</name>
+    <description>Unit 2 Lesson 2 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="38" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk38.mp3">
+    <name>Unit 2 Lesson 3 Exercise 2</name>
+    <description>Unit 2 Lesson 3 Exercise 2</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="38" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_13/ep1_13.swf">
+    <name>Unit 2 Lesson 3</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="39" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk39.mp3">
+    <name>Unit 2 Lesson 3 Exercise 3</name>
+    <description>Unit 2 Lesson 3 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="39" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_14/ep1_14.swf">
+    <name>Unit 2 Lesson 3</name>
+    <description>interactive multiple choice activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="40" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk40.mp3">
+    <name>Unit 2 Lesson 4 Exercise 1</name>
+    <description>Unit 2 Lesson 4 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="40" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_15/ep1_15.swf">
+    <name>Unit 2 Lesson 4</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="41" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk41.mp3">
+    <name>Unit 2 Lesson 4 Exercise 4</name>
+    <description>Unit 2 Lesson 4 Exercise 4</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="41" chapterID="3" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk42.mp3">
+    <name>Unit 2 Lesson 4 Exercise 5</name>
+    <description>Unit 2 Lesson 4 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="43" chapterID="3" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_16/ep1_16.swf">
+    <name>Unit 2 New words</name>
+    <description>interactive wordsearch activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="50" chapterID="4" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk43.mp3">
+    <name>Revision A Story</name>
+    <description>Hello London 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="52" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk46.mp3">
+    <name>Unit 3 Lesson 1 Exercise 2</name>
+    <description>Unit 3 Lesson 1 Exercise 2</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="52" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_17/ep1_17.swf">
+    <name>Unit 3 Lesson 1</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="53" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk47.mp3">
+    <name>Unit 3 Lesson 1 Exercise 3</name>
+    <description>Unit 3 Lesson 1 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="53" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_18/ep1_18.swf">
+    <name>Unit 3 Lesson 1</name>
+    <description>interactive matching activity</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="54" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk48.mp3">
+    <name>Unit 3 Lesson 2 Exercise 1</name>
+    <description>Unit 3 Lesson 2 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="54" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_20/ep1_20.swf">
+    <name>Unit 3 Lesson 2</name>
+    <description>interactive multiple choice activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="55" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk49.mp3">
+    <name>Unit 3 Lesson 2 Exercise 3</name>
+    <description>Unit 3 Lesson 2 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="55" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_19/ep1_19.swf">
+    <name>Unit 3 Lesson 2</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="55" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk50.mp3">
+    <name>Unit 3 Lesson 2 Exercise 5</name>
+    <description>Unit 3 Lesson 2 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="56" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk51.mp3">
+    <name>Unit 3 Lesson 3 Exercise 1</name>
+    <description>Unit 3 Lesson 3 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="56" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_21/ep1_21.swf">
+    <name>Unit 3 Lesson 3</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="57" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk52.mp3">
+    <name>Unit 3 Lesson 3 Exercise 3</name>
+    <description>Unit 3 Lesson 3 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="57" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk53.mp3">
+    <name>Unit 3 Lesson 3 Exercise 6</name>
+    <description>Unit 3 Lesson 3 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="57" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_22/ep1_22.swf">
+    <name>Unit 3 Lesson 3</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="58" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk54.mp3">
+    <name>Unit 3 Lesson 4 Exercise 2</name>
+    <description>Unit 3 Lesson 4 Exercise 2</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="58" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_23/ep1_23.swf">
+    <name>Unit 3 Lesson 4</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="59" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk55.mp3">
+    <name>Unit 3 Lesson 4 Exercise 5</name>
+    <description>Unit 3 Lesson 4 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="59" chapterID="5" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD1 Trk56.mp3">
+    <name>Unit 3 Lesson 4 Exercise 7</name>
+    <description>Unit 3 Lesson 4 Exercise 7</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="61" chapterID="5" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_24/ep1_24.swf">
+    <name>Unit 3 New words</name>
+    <description>interactive wordsearch activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="63" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_25/ep1_25.swf">
+    <name>Unit 4 Lesson 1</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="63" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_26/ep1_26.swf">
+    <name>Unit 4 Lesson 1</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="63" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk01.mp3">
+    <name>Unit 4 Lesson 1 Exercise 5</name>
+    <description>Unit 4 Lesson 1 exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="64" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk02.mp3">
+    <name>Unit 4 Lesson 2 Exercise 1</name>
+    <description>Unit 4 Lesson 2 exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="64" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_27/ep1_27.swf">
+    <name>Unit 4 Lesson 2</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="65" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk03.mp3">
+    <name>Unit 4 Lesson 2 Exercise 4</name>
+    <description>Unit 4 Lesson 2 Exercise 4</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="65" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk04.mp3">
+    <name>Unit 4 Lesson 2 Exercise 5</name>
+    <description>Unit 4 Lesson 2 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="65" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk05.mp3">
+    <name>Unit 4 Lesson 2 Exercise 6</name>
+    <description>Unit 4 Lesson 2 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="65" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_28/ep1_28.swf">
+    <name>Unit 4 Lesson 2 Exercise 2</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="66" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk06.mp3">
+    <name>Unit 4 Lesson 3 Exercise 1</name>
+    <description>Unit 4 Lesson 3 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="66" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_29/ep1_29.swf">
+    <name>Unit 4 lesson 3</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="67" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_30/ep1_30.swf">
+    <name>Unit 4 Lesson 3</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="67" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk07.mp3">
+    <name>Unit 4 Lesson 3 Exercise 6</name>
+    <description>Unit 4 Lesson 3 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="68" chapterID="6" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_31/ep1_31.swf">
+    <name>Unit 4 Lesson 4</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="69" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk08.mp3">
+    <name>Unit 4 Lesson 4 Exercise 5</name>
+    <description>Unit 4 Lesson 4 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="69" chapterID="6" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk09.mp3">
+    <name>Unit 4 Lesson 4 Exercise 6</name>
+    <description>Unit 4 Lesson 4 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="78" chapterID="7" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk10.mp3">
+    <name>Revision B Story</name>
+    <description>Hello London 2</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="80" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk16.mp3">
+    <name>Unit 5 Lesson 1 Exercise 1</name>
+    <description>Unit 5 Lesson 1 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="80" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_33/ep1_33.swf">
+    <name>Unit 5 Lesson 1</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="81" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_34/ep1_34.swf">
+    <name>Unit 5 Lesson 1</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="82" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_35/ep1_35.swf">
+    <name>Unit 5 Lesson 2</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="83" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_36/ep1_36.swf">
+    <name>Unit 5 Lesson 2</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="83" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk17.mp3">
+    <name>Unit 5 Lesson 2 Exercise 6</name>
+    <description>Unit 5 Lesson 2 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="84" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk18.mp3">
+    <name>Unit 5 Lesson 3 Exercise 1</name>
+    <description>Unit 5 Lesson 3 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="84" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_37/ep1_37.swf">
+    <name>Unit 5 Lesson 3</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="84" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_38/ep1_38.swf">
+    <name>Unit 5 Lesson 3</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="85" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk19.mp3">
+    <name>Unit 5 Lesson 3 Exercise 6</name>
+    <description>Unit 5 Lesson 3 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="86" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk20.mp3">
+    <name>Unit 5 Lesson 4 Exercise 1</name>
+    <description>Unit 5 Lesson 4 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="86" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_39/ep1_39.swf">
+    <name>Unit 5 Lesson 4</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="87" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk21.mp3">
+    <name>Unit 5 Lesson 4 Exercise 3</name>
+    <description>Unit 5 Lesson 4 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="87" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk22.mp3">
+    <name>Unit 5 Lesson 4 Exercise 4</name>
+    <description>Unit 5 Lesson 4 Exercise 4</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="87" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk23.mp3">
+    <name>Unit 5 Lesson 4 Exercise 5</name>
+    <description>Unit 5 Lesson 4 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="87" chapterID="8" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk24.mp3">
+    <name>Unit 5 Lesson 4 Exercise 6</name>
+    <description>Unit 5 Lesson 4 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="89" chapterID="8" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_40/ep1_40.swf">
+    <name>Unit 5 New words</name>
+    <description>wordsearch</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="90" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk26.mp3">
+    <name>Unit 6 Lesson 1 Exercise 1</name>
+    <description>Unit 6 Lesson 1 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="90" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_41/ep1_41.swf">
+    <name>Unit 6 Lesson 1</name>
+    <description>interactive multiple choice</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="91" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk27.mp3">
+    <name>Unit 6 Lesson 1 Exercise 3</name>
+    <description>Unit 6 Lesson 1 Exercise 3</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="91" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_42/ep1_42.swf">
+    <name>Unit 6 Lesson 1</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="91" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk28.mp3">
+    <name>Unit 6 Lesson 1 Exercise 5</name>
+    <description>Unit 6 Lesson 1 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="92" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_44/ep1_44.swf">
+    <name>Unit 6 Lesson 2</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="93" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_43/ep1_43.swf">
+    <name>Unit 6 Lesson 2</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="93" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk29.mp3">
+    <name>Unit 6 Lesson 2 Exercise 6</name>
+    <description>Unit 6 Lesson 2 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="94" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk30.mp3">
+    <name>Unit 6 Lesson 3 Exercise 1</name>
+    <description>Unit 6 Lesson 3 Exercise 1</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="94" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_45/ep1_45.swf">
+    <name>Unit 6 Lesson 3</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="95" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk31.mp3">
+    <name>Unit 6 Lesson 3 Exercise 4</name>
+    <description>Unit 6 Lesson 3 Exercise 4</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="95" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk32.mp3">
+    <name>Unit 6 Lesson 3 Exercise 6</name>
+    <description>Unit 6 Lesson 3 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="95" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_46/ep1_46.swf">
+    <name>Unit 6 Lesson 3</name>
+    <description>interactive matching activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="96" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_47/ep1_47.swf">
+    <name>Unit 6 Lesson 4</name>
+    <description>interactive gapfill activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="97" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk33.mp3">
+    <name>Unit 6 Lesson 4 Exercise 5</name>
+    <description>Unit 6 Lesson 4 Exercise 5</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="97" chapterID="9" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk34.mp3">
+    <name>Unit 6 Lesson 4 Exercise 6</name>
+    <description>Unit 6 Lesson 4 Exercise 6</description>
+    <type>listening exercise</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="99" chapterID="9" style="flash" assetList="true" mode="both" interactive="on" restype="flash" fullscreen="false" id="../atm/ep1_48/ep1_48.swf">
+    <name>Unit 6 Lesson 4</name>
+    <description>interactive sorting activity</description>
+    <type>interactive activity</type>
+  </asset>
+  <asset moduleID="peleveng1" sectionID="1" pageID="106" chapterID="10" style="audio" assetList="true" mode="both" interactive="on" restype="audio" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" id="../atm/Eng Please 1 NE CD2 Trk35.mp3">
+    <name>Revision C Story</name>
+    <description>Hello London 3</description>
+    <type>listening exercise</type>
+  </asset>
+</assets>

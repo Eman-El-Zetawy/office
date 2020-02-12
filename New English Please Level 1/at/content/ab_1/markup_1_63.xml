@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page>
+  <popup style="flash" name="Unit 4 Lesson 1 " type="flash" data="../atm/ep1_25/ep1_25.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="5" y="20"/>
+    <point x="47" y="20"/>
+    <point x="47" y="81"/>
+    <point x="5" y="81"/>
+  </popup>
+  <popup style="flash" name="Unit 4 Lesson 1 " type="flash" data="../atm/ep1_26/ep1_26.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="5" y="104"/>
+    <point x="46" y="104"/>
+    <point x="46" y="164"/>
+    <point x="5" y="164"/>
+  </popup>
+  <popup style="audio" name="Unit 4 Lesson 1 Exercise 5" type="audio" data="../atm/Eng Please 1 NE CD2 Trk01.mp3" audioSmall="true" height="100" width="282" background="audio_player_small_bg.swf" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="5" y="546"/>
+    <point x="47" y="546"/>
+    <point x="47" y="607"/>
+    <point x="5" y="607"/>
+  </popup>
+</page>

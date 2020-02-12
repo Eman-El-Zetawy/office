@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[<b>Mary’s village (Unit 6, Lesson 2)</b>]]></title>
+	<Banner><![CDATA[je me vois]]></Banner>
+	<version><![CDATA[student]]></version>							<!-- student/teacher -->
+	<verticalIndent>75</verticalIndent>
+	<multipleSelection>false</multipleSelection>
+	<hilightText color="0x0033CC"></hilightText>
+	<helpText><![CDATA[Drag and drop the correct item to fill in the gaps.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+	<feedback>
+		<positiveFeedback><![CDATA[Bravo! Clique sur «Next».]]></positiveFeedback>
+		<negativeFeedback><![CDATA[Dommage, mauvaise réponse. Clique sur «Next».]]></negativeFeedback>
+	</feedback>
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+    <audioPanel><![CDATA[true]]></audioPanel>
+	<templateType><![CDATA[DND]]></templateType>  <!-- DND/DD -->
+	<multipleUse><![CDATA[false]]></multipleUse>
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Finish the sentences with the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+			<!--image><![CDATA[dummy.swf]]></image-->
+
+
+			<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<!--audio><![CDATA[dummy_1.mp3]]></audio-->
+			<options childType="array">
+
+				<!-- Use for 18f (gapped options only). Width should be "690". -->
+				<!--option id="1" left="0" top="0" height="800" width="690" lineHeight="35"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. each word <object type="mcTargetArea_" id="0" height="32" width="150"></object>below that describes older people and  <object type="mcTargetArea_" id="1" height="32" width="100"></object>decide how you would categorise themunder the <br/> headings in the grid.&nbsp; </font></p>]]></option-->
+
+				<option id="1" left="20" top="10" height="800" width="726" lineHeight="55"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Mary’s village is <object type="mcTargetArea_" id="0" height="32" width="100"></object> England. It is a very <object type="mcTargetArea_" id="1" height="32" width="100"></object> village. On the <object type="mcTargetArea_" id="2" height="32" width="100"></object> there is a hotel and next <object type="mcTargetArea_" id="3" height="32" width="100"></object> the hotel there <object type="mcTargetArea_" id="4" height="32" width="100"></object> a bank. On <object type="mcTargetArea_" id="5" height="32" width="100"></object> left <object type="mcTargetArea_" id="6" height="32" width="100"></object> a school. The village <object type="mcTargetArea_" id="7" height="32" width="100"></object> also got two <object type="mcTargetArea_" id="8" height="32" width="100"></object>. There is a garage in the <object type="mcTargetArea_" id="9" height="32" width="100"></object> of the village.</font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="0"><![CDATA[has]]></textValue>
+					<textValue id="1"><![CDATA[middle]]></textValue>
+					<textValue id="2"><![CDATA[the]]></textValue>
+					<textValue id="3"><![CDATA[to]]></textValue>
+					<textValue id="4"><![CDATA[is]]></textValue>
+					<textValue id="5"><![CDATA[right]]></textValue>
+					<textValue id="6"><![CDATA[restaurants]]></textValue>
+					<textValue id="7"><![CDATA[in]]></textValue>
+					<textValue id="8"><![CDATA[there's]]></textValue>
+					<textValue id="9"><![CDATA[small]]></textValue>
+				</optionText>
+				<!--optionText id="0">
+					<textValue id="0"><![CDATA[in]]></textValue>
+					<textValue id="1"><![CDATA[small]]></textValue>
+					<textValue id="2"><![CDATA[right]]></textValue>
+					<textValue id="3"><![CDATA[to]]></textValue>
+					<textValue id="4"><![CDATA[is]]></textValue>
+					<textValue id="5"><![CDATA[the]]></textValue>
+					<textValue id="6"><![CDATA[there's]]></textValue>
+					<textValue id="7"><![CDATA[has]]></textValue>
+					<textValue id="8"><![CDATA[restaurants]]></textValue>
+					<textValue id="9"><![CDATA[middle]]></textValue>
+				</optionText-->
+			</item>
+			<mapping childType="array">
+				<answer id="0"><![CDATA[0 7]]></answer>
+				<answer id="1"><![CDATA[1 9]]></answer>
+				<answer id="2"><![CDATA[2 5]]></answer>
+				<answer id="3"><![CDATA[3 3]]></answer>
+				<answer id="4"><![CDATA[4 4]]></answer>
+				<answer id="5"><![CDATA[5 2]]></answer>
+				<answer id="6"><![CDATA[6 8]]></answer>
+				<answer id="7"><![CDATA[7 0]]></answer>
+				<answer id="8"><![CDATA[8 6]]></answer>
+				<answer id="9"><![CDATA[9 1]]></answer>
+			</mapping>
+            <artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "2"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+		</assessmentItem>
+		<assessmentItem id="2">
+			<rubric><![CDATA[Finish the sentences with the right word.]]></rubric>
+
+			<options childType="array">
+				<option id="1" left="20" top="10" height="800" width="700" lineHeight="55"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Peter’s city <object type="mcTargetArea_" id="10" height="32" width="100"></object> in Italy. It is a <object type="mcTargetArea_" id="11" height="32" width="100"></object> city. <object type="mcTargetArea_" id="12" height="32" width="100"></object> is a big airport and there are many hotels <object type="mcTargetArea_" id="13" height="32" width="100"></object> the airport. In <object type="mcTargetArea_" id="14" height="32" width="100"></object> middle <object type="mcTargetArea_" id="15" height="32" width="100"></object> the city there <object type="mcTargetArea_" id="16" height="32" width="100"></object> many restaurants and <object type="mcTargetArea_" id="17" height="32" width="100"></object>. Peter’s house is next <object type="mcTargetArea_" id="18" height="32" width="100"></object> a big <object type="mcTargetArea_" id="19" height="32" width="100"></object>.</font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="10"><![CDATA[There]]></textValue>
+					<textValue id="11"><![CDATA[the]]></textValue>
+					<textValue id="12"><![CDATA[is]]></textValue>
+					<textValue id="13"><![CDATA[of]]></textValue>
+					<textValue id="14"><![CDATA[big]]></textValue>
+					<textValue id="15"><![CDATA[near]]></textValue>
+					<textValue id="16"><![CDATA[to]]></textValue>
+					<textValue id="17"><![CDATA[market]]></textValue>
+					<textValue id="18"><![CDATA[are]]></textValue>
+					<textValue id="19"><![CDATA[shops]]></textValue>
+				</optionText>
+				<!--optionText id="0">
+					<textValue id="10"><![CDATA[is]]></textValue>
+					<textValue id="11"><![CDATA[big]]></textValue>
+					<textValue id="12"><![CDATA[There]]></textValue>
+					<textValue id="13"><![CDATA[near]]></textValue>
+					<textValue id="14"><![CDATA[the]]></textValue>
+					<textValue id="15"><![CDATA[of]]></textValue>
+					<textValue id="16"><![CDATA[are]]></textValue>
+					<textValue id="17"><![CDATA[shops]]></textValue>
+					<textValue id="18"><![CDATA[to]]></textValue>
+					<textValue id="19"><![CDATA[market]]></textValue>
+				</optionText-->
+			</item>
+			<mapping childType="array">
+				<answer id="10"><![CDATA[10 12]]></answer>
+				<answer id="11"><![CDATA[11 14]]></answer>
+				<answer id="12"><![CDATA[12 10]]></answer>
+				<answer id="13"><![CDATA[13 15]]></answer>
+				<answer id="14"><![CDATA[14 11]]></answer>
+				<answer id="15"><![CDATA[15 13]]></answer>
+				<answer id="16"><![CDATA[16 18]]></answer>
+				<answer id="17"><![CDATA[17 19]]></answer>
+				<answer id="18"><![CDATA[18 16]]></answer>
+				<answer id="19"><![CDATA[19 17]]></answer>
+			</mapping>
+		</assessmentItem>
+		<assessmentItem id="3">
+			<rubric><![CDATA[Finish the sentences with the right word.]]></rubric>
+
+			<options childType="array">
+				<option id="1" left="20" top="10" height="800" width="726" lineHeight="55"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Lisa’s <object type="mcTargetArea_" id="20" height="32" width="100"></object> is in <object type="mcTargetArea_" id="21" height="32" width="100"></object> small village in Scotland. It is <object type="mcTargetArea_" id="22" height="32" width="100"></object> a park. There <object type="mcTargetArea_" id="23" height="32" width="100"></object> a big <object type="mcTargetArea_" id="24" height="32" width="100"></object> room downstairs and <object type="mcTargetArea_" id="25" height="32" width="100"></object> there <object type="mcTargetArea_" id="26" height="32" width="100"></object> three <object type="mcTargetArea_" id="27" height="32" width="100"></object> and a bathroom. It <object type="mcTargetArea_" id="28" height="32" width="100"></object> got a <object type="mcTargetArea_" id="29" height="32" width="100"></object> door.
+</font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="20"><![CDATA[near]]></textValue>
+					<textValue id="21"><![CDATA[red]]></textValue>
+					<textValue id="22"><![CDATA[house]]></textValue>
+					<textValue id="23"><![CDATA[sitting]]></textValue>
+					<textValue id="24"><![CDATA[is]]></textValue>
+					<textValue id="25"><![CDATA[has]]></textValue>
+					<textValue id="26"><![CDATA[bedrooms]]></textValue>
+					<textValue id="27"><![CDATA[are]]></textValue>
+					<textValue id="28"><![CDATA[upstairs]]></textValue>
+					<textValue id="29"><![CDATA[a]]></textValue>
+				</optionText>
+				<!--optionText id="0">
+					<textValue id="20"><![CDATA[house]]></textValue>
+					<textValue id="21"><![CDATA[a]]></textValue>
+					<textValue id="22"><![CDATA[near]]></textValue>
+					<textValue id="23"><![CDATA[is]]></textValue>
+					<textValue id="24"><![CDATA[sitting]]></textValue>
+					<textValue id="25"><![CDATA[upstairs]]></textValue>
+					<textValue id="26"><![CDATA[are]]></textValue>
+					<textValue id="27"><![CDATA[bedrooms]]></textValue>
+					<textValue id="28"><![CDATA[has]]></textValue>
+					<textValue id="29"><![CDATA[red]]></textValue>
+				</optionText-->
+			</item>
+			<mapping childType="array">
+				<answer id="20"><![CDATA[20 22]]></answer>
+				<answer id="21"><![CDATA[21 29]]></answer>
+				<answer id="22"><![CDATA[22 20]]></answer>
+				<answer id="23"><![CDATA[23 24]]></answer>
+				<answer id="24"><![CDATA[24 23]]></answer>
+				<answer id="25"><![CDATA[25 28]]></answer>
+				<answer id="26"><![CDATA[26 27]]></answer>
+				<answer id="27"><![CDATA[27 26]]></answer>
+				<answer id="28"><![CDATA[28 25]]></answer>
+				<answer id="29"><![CDATA[29 21]]></answer>
+			</mapping>
+		</assessmentItem>
+	</assessmentItems>
+
+</assessment>

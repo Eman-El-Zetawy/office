@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<findres xsi:noNamespaceSchemaLocation="wrapper.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <style skin="shared/findresource/findres_skin.swf" css="shared/findresource/findres.css"/>
+  <header data="mcHeader" x="0" y="0">
+    <objectiveTitle title="Find Resources by:" data="txtLabelObj" x="106" y="18" w="200" h="30" cssObject="titleLabel"/>
+    <fromTitle title="From:" data="txtLabelFrom" x="389" y="18" w="80" h="30" cssObject="titleLabel"/>
+    <objectives data="cmbObjectives" w="156.8" h="21.4" x="198.5" y="15" mergeListInMultipleBooks="true" cssObject="list">
+      <teacher>
+        <option>Select</option>
+      </teacher>
+      <student>
+        <option>Select</option>
+        <option>Unit 0</option>
+        <option>Unit 1</option>
+        <option>Unit 2</option>
+        <option>Unit 3</option>
+        <option>Unit 4</option>
+        <option>Unit 5</option>
+        <option>Unit 6</option>
+      </student>
+    </objectives>
+    <books data="cmbAllBooks" w="156.8" h="21.3" x="424" y="15" cssObject="list" selectText=""/>
+    <leftcoverclip data="leftCoverClip" xscale="100" yscale="100" x="100" y="7" cssObject="comboLabel"/>
+    <rightcoverclip data="rightCoverClip" xscale="100" yscale="100" x="325" y="7" cssObject="comboLabel"/>
+  </header>
+  <Prefix>
+    <chapter text="/Ch "/>
+    <page text="/Pg "/>
+  </Prefix>
+  <leftpane path="content/findresource">
+    <treeview x="94.0" y="47" w="406" h="450"/>
+    <backgrnd graphic="bgLeftPane" x="94.0" y="47" w="290" h="430"/>
+  </leftpane>
+  <rightpane>
+    <scrollpane x="501.1" y="47" w="193" h="450.5"/>
+    <backgrnd graphic="bgRightPane" x="501.1" y="46" w="290" h="430"/>
+  </rightpane>
+  <defaultopen leftcomboindex="0" rightcomboindex="0"/>
+  <xmlPaths>
+    <product moduleID="peleveng1" path="findresource"/>
+  </xmlPaths>
+</findres>

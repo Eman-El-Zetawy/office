@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[<b>How do you do? (Unit 1, Lesson 4)</b>]]></title>
+	<Banner><![CDATA[je me vois]]></Banner>
+	<version><![CDATA[student]]></version>							<!-- student/teacher -->
+	<verticalIndent>75</verticalIndent>
+	<multipleSelection>false</multipleSelection>
+	<hilightText color="0x0033CC"></hilightText>
+	<helpText><![CDATA[Drag and drop the correct item to fill in the gaps.<br>Click on Submit to submit your answers.<br><br>You will find out whether you got the answers right or wrong. If you get any answers wrong, click on Show answers to see the correct answers (you will not be able to change your answers, though).<br><br>Click on the ‘Next’ arrow to move to the next screen. You can check your score at any time by clicking on My score.<br><br>At the end of the test you will receive your score, and you will have the option of re-taking the test if you want to.]]></helpText>
+	<feedback>
+		<positiveFeedback><![CDATA[Bravo! Clique sur «Next».]]></positiveFeedback>
+		<negativeFeedback><![CDATA[Dommage, mauvaise réponse. Clique sur «Next».]]></negativeFeedback>
+	</feedback>
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+    <audioPanel><![CDATA[true]]></audioPanel>
+	<templateType><![CDATA[DND]]></templateType>  <!-- DND/DD -->
+	<multipleUse><![CDATA[false]]></multipleUse>
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Finish the sentences with the right word.]]></rubric>
+
+			<!--Used for 18i(with a/w) -->
+			<!--image><![CDATA[dummy.swf]]></image-->
+
+
+			<!--readingText><![CDATA[<h>J’aime les weekends</h> et le camping. C’est génial. Mais je n’aime pas les araignées. J’aime aussi le skate mais je n’aime pas le rugby. C’est nul.   <i>Tom</i>]]></readingText-->
+
+			<!--Used for 18h (with audio, audio button in the control bar) -->
+			<!--audio><![CDATA[dummy_1.mp3]]></audio-->
+			<options childType="array">
+
+				<!-- Use for 18f (gapped options only). Width should be "690". -->
+				<!--option id="1" left="0" top="0" height="800" width="690" lineHeight="35"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">1. each word <object type="mcTargetArea_" id="0" height="32" width="150"></object>below that describes older people and  <object type="mcTargetArea_" id="1" height="32" width="100"></object>decide how you would categorise themunder the <br/> headings in the grid.&nbsp; </font></p>]]></option-->
+
+				<option id="1" left="20" top="10" height="800" width="726" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Good <object type="mcTargetArea_" id="0" height="32" width="100"></object>. My <object type="mcTargetArea_" id="1" height="32" width="100"></object>Bob. <br><br>Hello Bob. How<object type="mcTargetArea_" id="2" height="32" width="100"></object>you? <br><br>Fine<object type="mcTargetArea_" id="3" height="32" width="100"></object> .</font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="0"><![CDATA[thanks]]></textValue>
+					<textValue id="1"><![CDATA[name’s]]></textValue>
+					<textValue id="2"><![CDATA[morning]]></textValue>
+					<textValue id="3"><![CDATA[are]]></textValue>
+				</optionText>
+			</item>
+			<mapping childType="array">
+				<answer id="0"><![CDATA[0 2]]></answer>
+				<answer id="1"><![CDATA[1 1]]></answer>
+				<answer id="2"><![CDATA[2 3]]></answer>
+				<answer id="3"><![CDATA[3 0]]></answer>
+			</mapping>
+            <artwork childType="array">
+				<image id = "0"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "1"><![CDATA[dummy_aw.jpg]]></image>
+				<image id = "2"><![CDATA[dummy_aw.jpg]]></image>
+			</artwork>
+		</assessmentItem>
+		<assessmentItem id="2">
+			<rubric><![CDATA[Finish the sentences with the right word.]]></rubric>
+
+			<options childType="array">
+				<option id="1" left="20" top="10" height="800" width="726" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px">Good <object type="mcTargetArea_" id="4" height="32" width="100"></object>.<object type="mcTargetArea_" id="5" height="32" width="100"></object> your name,<object type="mcTargetArea_" id="6" height="32" width="100"></object>?<br><br> Mark Jones. <br><br>Hello Mr Jones.<object type="mcTargetArea_" id="7" height="32" width="100"></object>to meet you.</font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="4"><![CDATA[Pleased]]></textValue>
+					<textValue id="5"><![CDATA[please]]></textValue>
+					<textValue id="6"><![CDATA[afternoon]]></textValue>
+					<textValue id="7"><![CDATA[What’s]]></textValue>
+				</optionText>
+			</item>
+			<mapping childType="array">
+				<answer id="4"><![CDATA[4 6]]></answer>
+				<answer id="5"><![CDATA[5 7]]></answer>
+				<answer id="6"><![CDATA[6 5]]></answer>
+				<answer id="7"><![CDATA[7 4]]></answer>
+			</mapping>
+		</assessmentItem>
+
+		<assessmentItem id="3">
+			<rubric><![CDATA[Finish the sentences with the right word.]]></rubric>
+
+			<options childType="array">
+				<option id="1" left="20" top="10" height="800" width="726" lineHeight="40"><![CDATA[<p><font color="#000000" face="Arial" style="font-size:22px"> <object type="mcTargetArea_" id="8" height="32" width="100"></object> evening. Are you Mrs Smith?<br><br> No, I<object type="mcTargetArea_" id="9" height="32" width="100"></object> Mrs Kent.<br><br>Oh, I’m<object type="mcTargetArea_" id="10" height="32" width="100"></object>.<br><br> <object type="mcTargetArea_" id="11" height="32" width="100"></object> all right.</font></p>]]></option>
+			</options>
+
+			<item>
+				<optionText id="0">
+					<textValue id="8"><![CDATA[am]]></textValue>
+					<textValue id="9"><![CDATA[That’s]]></textValue>
+					<textValue id="10"><![CDATA[Good]]></textValue>
+					<textValue id="11"><![CDATA[sorry]]></textValue>
+				</optionText>
+			</item>
+			<mapping childType="array">
+				<answer id="8"><![CDATA[8 10]]></answer>
+				<answer id="9"><![CDATA[9 8]]></answer>
+				<answer id="10"><![CDATA[10 11]]></answer>
+				<answer id="11"><![CDATA[11 9]]></answer>
+			</mapping>
+		</assessmentItem>
+
+	</assessmentItems>
+
+</assessment>

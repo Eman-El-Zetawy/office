@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<categories id="activeteach">
+  <category label="Meeting people">
+    <category label="interactive">
+      <assetdata>
+        <asset data="../atm/ep1_01/ep1_01.swf"/>
+        <asset data="../atm/ep1_03/ep1_03.swf"/>
+        <asset data="../atm/ep1_04/ep1_04.swf"/>
+        <asset data="../atm/ep1_05/ep1_05.swf"/>
+        <asset data="../atm/ep1_06/ep1_06.swf"/>
+        <asset data="../atm/ep1_07/ep1_07.swf"/>
+        <asset data="../atm/ep1_08/ep1_08.swf"/>
+      </assetdata>
+    </category>
+    <category label="audio">
+      <assetdata>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk18.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk19.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk20.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk21.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk22.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk23.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk24.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk25.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk26.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk27.mp3"/>
+        <asset data="../atm/Eng Please 1 NE CD1 Trk28.mp3"/>
+      </assetdata>
+    </category>
+  </category>
+</categories>

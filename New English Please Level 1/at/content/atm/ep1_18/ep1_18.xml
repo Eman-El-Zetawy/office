@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	French character set needed for Studio interactives : Lower case : à	â æ ç é	è	ê  î ô œ ù û Upper case : À	Â É	È
+-->
+
+<assessment>
+	<title><![CDATA[Jobs (Unit 3, Lesson 1)]]></title>
+	<Banner><![CDATA[Click on a card of each colour to find the matching pairs of English and Spanish equivalent expressions.]]></Banner>
+	<reversOnSort>false</reversOnSort>
+	<grid>
+		<rowNames><![CDATA[1,2,3,4]]></rowNames>
+		<columnNames><![CDATA[A,B,C,D,E,F]]></columnNames>
+		<gap><![CDATA[1.5]]></gap>
+	</grid>
+	<feedback>
+		<timeOverFeedback><![CDATA[Sorry, you are out of time.]]></timeOverFeedback>
+		<playerWinsFeedback><![CDATA[Congratulations! You have done it.]]></playerWinsFeedback>
+		<!--drawFeedback><![CDATA[Match nul! Cliquez sur ‘Close’ et puis sur Start pour rejouer.]]></drawFeedback-->
+	</feedback>
+    	<activityVersion>
+		<firstPlayer><![CDATA[Score]]></firstPlayer>
+		<secondPlayer><![CDATA[Score]]></secondPlayer>
+	</activityVersion>
+	<contentUrl>
+		<image>content/image/</image>
+		<audio>content/audio/</audio>
+	</contentUrl>
+	<promptType><![CDATA[audio]]></promptType>
+	<helpText><![CDATA[The aim of the game is to find the matching pairs.<br><br>Click on one card of each colour.<br>If the two cards are a matching pair, they will stay face up and you will score one point.<br>If they do not form a pair, they will turn over and no points are scored.<br><br>If you click on Reveal, all the cards will turn over in their current position for five seconds, and then you’ll be able to resume playing. (Reveal does not function in games with audio.)<br>If you click on Sort, all the cards will appear paired up and the game will be over.<br><br>Click on Reset to shuffle the cards and play again.]]></helpText>
+	<assessmentItems childType="array">
+		<assessmentItem id="1">
+			<rubric><![CDATA[Match the blue word cards to the green sound cards.]]></rubric>
+			<cards backColor="internal" useDefaultIconForSound="true">		<!--there are 2 values "internal"/"external" (internal for useng frame and external for taking value from xml file 'backColorId' attribute in 'card' node-->
+				<card id="1" backColorId="back_1" matchingCardId="2" childType="array">		<!-- "image"/"audio"/"text"  -->
+					<content type="text"><![CDATA[policeman]]></content>	<!--put path/url for external image/audio and text for text. in CDATA node -->
+				</card>
+				<card id="2" backColorId="back_2" matchingCardId="1" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_policeman.mp3]]></content>
+				</card>
+
+				<card id="3" backColorId="back_1" matchingCardId="4" childType="array">
+					<content type="text"><![CDATA[mechanic]]></content>
+				</card>
+
+				<card id="4" backColorId="back_2" matchingCardId="3" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_mechanic.mp3]]></content>
+				</card>
+				<card id="5" backColorId="back_1" matchingCardId="6" childType="array">
+					<content type="text"><![CDATA[student]]></content>
+				</card>
+
+				<card id="6" backColorId="back_2" matchingCardId="5" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_student.mp3]]></content>
+				</card>
+
+				<card id="7" backColorId="back_1" matchingCardId="8" childType="array">
+					<content type="text"><![CDATA[teacher]]></content>
+				</card>
+
+				<card id="8" backColorId="back_2" matchingCardId="7" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_teacher.mp3]]></content>
+				</card>
+
+				<card id="9" backColorId="back_1" matchingCardId="10" childType="array">
+					<content type="text"><![CDATA[nurse]]></content>
+				</card>
+
+				<card id="10" backColorId="back_2" matchingCardId="9" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_nurse.mp3]]></content>
+				</card>
+
+				<card id="11" backColorId="back_1" matchingCardId="12" childType="array">
+					<content type="text"><![CDATA[driver]]></content>
+				</card>
+
+				<card id="12" backColorId="back_2" matchingCardId="11" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_driver.mp3]]></content>
+				</card>
+
+				<card id="13" backColorId="back_1" matchingCardId="14" childType="array">
+					<content type="text"><![CDATA[doctor]]></content>
+				</card>
+
+				<card id="14" backColorId="back_2" matchingCardId="13" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_doctor.mp3]]></content>
+				</card>
+
+				<card id="15" backColorId="back_1" matchingCardId="16" childType="array">
+					<content type="text"><![CDATA[secretary]]></content>
+				</card>
+
+				<card id="16" backColorId="back_2" matchingCardId="15" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1Ex2_secretary.mp3]]></content>
+				</card>
+
+				<card id="17" backColorId="back_1" matchingCardId="18" childType="array">
+					<content type="text"><![CDATA[I’m a spaceman.]]></content>
+				</card>
+
+				<card id="18" backColorId="back_2" matchingCardId="17" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1EX2_Im a spaceman.mp3]]></content>
+				</card>
+
+				<card id="19" backColorId="back_1" matchingCardId="20" childType="array">
+					<content type="text"><![CDATA[Is he a teacher?]]></content>
+				</card>
+
+				<card id="20" backColorId="back_2" matchingCardId="19" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1EX2_Is he a teacher.mp3]]></content>
+				</card>
+
+				<card id="21" backColorId="back_1" matchingCardId="22" childType="array">
+					<content type="text"><![CDATA[He’s a mechanic.]]></content>
+				</card>
+
+				<card id="22" backColorId="back_2" matchingCardId="21" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1EX2_Hes a mechanic.mp3]]></content>
+				</card>
+
+				<card id="23" backColorId="back_1" matchingCardId="24" childType="array">
+					<content type="text"><![CDATA[Are you a nurse?]]></content>
+				</card>
+
+				<card id="24" backColorId="back_2" matchingCardId="23" childType="array">
+					<content type="audio"><![CDATA[EP18_U3L1EX2_Are you a nurse.mp3]]></content>
+				</card>
+			</cards>
+		</assessmentItem>
+	</assessmentItems>
+</assessment>

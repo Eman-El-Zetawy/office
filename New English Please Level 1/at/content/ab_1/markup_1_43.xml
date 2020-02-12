@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page>
+  <popup style="flash" name="Unit 2 New words" type="flash" data="../atm/ep1_16/ep1_16.swf" fullscreen="false" mode="both" interactive="on" onpage="true" pagesortorder="0">
+    <point x="15" y="77"/>
+    <point x="56" y="77"/>
+    <point x="56" y="137"/>
+    <point x="15" y="137"/>
+  </popup>
+</page>

@@ -1,0 +1,22 @@
+﻿<home>
+  <style skin="shared/help/dashboard_skin_half.swf" css="shared/help/dashboard.css"/>
+  <dashBoard visible="true">
+    <backgrnd graphic="bgDashBoard" x="400" y="5"/>
+    <rssTextFeed>
+      <header graphic="rssTittle_mc" cssObject="dashBoardHeader" x="405" y="22"><![CDATA[]]></header>
+      <scrollpane x="400" y="28" w="354" h="150"/>
+      <defaultMessage graphic="defaultRssText_mc"/>
+      <items graphic="item1_mc" graphicCssObject="bckGrnd" titleCssObject="rssFeedItem" descCssObject="rssFeedDesc"/>
+    </rssTextFeed>
+    <alert>
+      <incorrect text="This is not the correct folder."/>
+    </alert>
+    <productsMenu>
+      <header graphic="prodMenuHeader_mc" cssObject="dashBoardHeader" x="400" y="23"><![CDATA[]]></header>
+      <scrollpane x="418" y="43" w="369" h="454"/>
+      <items graphic="items_mc" graphicCssObject="bckGrnd" titleCssObject="catalogueItemTitle" descCssObject="catalogueItemDesc"/>
+      <menuItems/>
+    </productsMenu>
+  </dashBoard>
+  <buttons/>
+</home>

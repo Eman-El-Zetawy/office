@@ -1,0 +1,1407 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root xsi:noNamespaceSchemaLocation="glossary.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <glossary screenTitle=" " columnTitle="Key Terms">
+    <headerFile data="" x="33" y="-14.5"/>
+    <style skin="shared/glossary/glossary_skin.swf" css="shared/glossary/glossary.css"/>
+    <pane pos="left">
+      <scrollpane x="75" y="67" w="275.5" h="413"/>
+      <button cssObject="button1"/>
+    </pane>
+    <background graphic="backgroundGl" x="35" y="60"/>
+    <button x="82" y="16" gap="25" cssObject="button"/>
+    <definition x="377" y="75" cssObject="definition"/>
+    <letter id="A">
+      <term name="Algeria" data="nep1_algeria.mp3" image="algeria.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Algerian" data="nep1_algerian.mp3" image="algerian.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="America" data="nep1_america.mp3" image="america.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="American" data="nep1_american.mp3" image="american.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Arab" data="nep1_arab.mp3" image="arab.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="a hundred" data="nep1_a_hundred.mp3" image="a_hundred.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="about" data="nep1_about.mp3" image="about.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="actor" data="nep1_actor.mp3" image="actor.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="afternoon" data="nep1_afternoon.mp3" image="afternoon.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="airline" data="nep1_airline.mp3" image="airline.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="airport" data="nep1_airport.mp3" image="airport.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="all right" data="nep1_all right.mp3" image="all right.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="along" data="nep1_along.mp3" image="along.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="and" data="nep1_and.mp3" image="and.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="answer" data="nep1_answer.mp3" image="answer.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="any" data="nep1_any.mp3" image="any.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="apple" data="nep1_apple.mp3" image="apple.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="apricot" data="nep1_apricot.mp3" image="apricot.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ask" data="nep1_ask.mp3" image="ask.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="aspirin" data="nep1_aspirin.mp3" image="aspirin.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="atlas" data="nep1_atlas.mp3" image="atlas.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="aunt" data="nep1_aunt.mp3" image="aunt.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="B">
+      <term name="Bahrain" data="nep1_bahrain.mp3" image="bahrain.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Bahraini" data="nep1_bahraini.mp3" image="bahraini.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="British" data="nep1_british.mp3" image="british.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="baby" data="nep1_baby.mp3" image="baby.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bad" data="nep1_bad.mp3" image="bad.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bag" data="nep1_bag.mp3" image="bag.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bald" data="nep1_bald.mp3" image="bald.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="banana" data="nep1_banana.mp3" image="banana.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bank" data="nep1_bank.mp3" image="bank.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="basketball player" data="nep1_basketball_player.mp3" image="basketball_player.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bathroom" data="nep1_bathroom.mp3" image="bathroom.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="battery" data="nep1_battery.mp3" image="battery.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="beard" data="nep1_beard.mp3" image="beard.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="beautiful" data="nep1_beautiful.mp3" image="beautiful.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bedroom" data="nep1_bedroom.mp3" image="bedroom.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="between" data="nep1_between.mp3" image="between.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bicycle" data="nep1_bicycle.mp3" image="bicycle.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="big" data="nep1_big.mp3" image="big.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="black" data="nep1_black.mp3" image="black.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="blonde" data="nep1_blonde.mp3" image="blonde.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="blue" data="nep1_blue.mp3" image="blue.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="book" data="nep1_book.mp3" image="book.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="box" data="nep1_box.mp3" image="box.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="boy" data="nep1_boy.mp3" image="boy.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="brakes" data="nep1_brakes.mp3" image="brakes.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="broken" data="nep1_broken.mp3" image="broken.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="brother" data="nep1_brother.mp3" image="brother.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="brown" data="nep1_brown.mp3" image="brown.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="building" data="nep1_building.mp3" image="building.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bus" data="nep1_bus.mp3" image="bus.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bus station" data="nep1_bus_station.mp3" image="bus_station.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="busy" data="nep1_busy.mp3" image="busy.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="bye-bye" data="nep1_bye_bye.mp3" image="bye_bye.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="C">
+      <term name="cab" data="nep1_cab.mp3" image="cab.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="cable" data="nep1_cable.mp3" image="cable.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="camera" data="nep1_camera.mp3" image="camera.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="can I..?" data="nep1_can_i.mp3" image="can_i.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="canteen" data="nep1_canteen.mp3" image="canteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="car" data="nep1_car.mp3" image="car.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="chair" data="nep1_chair.mp3" image="chair.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="cheap" data="nep1_cheap.mp3" image="cheap.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="child" data="nep1_child.mp3" image="child.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="children" data="nep1_children.mp3" image="children.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="city" data="nep1_city.mp3" image="city.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="classroom" data="nep1_classroom.mp3" image="classroom.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="clerk" data="nep1_clerk.mp3" image="clerk.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="clutch" data="nep1_clutch.mp3" image="clutch.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="coffee" data="nep1_coffee.mp3" image="coffee.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="coffee shop" data="nep1_coffee_shop.mp3" image="coffee_shop.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="cold" data="nep1_cold.mp3" image="cold.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="come" data="nep1_come.mp3" image="come.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="come on!" data="nep1_come_on.mp3" image="come_on.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="comma" data="nep1_comma.mp3" image="comma.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="company" data="nep1_company.mp3" image="company.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="computer" data="nep1_computer.mp3" image="computer.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="corridor" data="nep1_corridor.mp3" image="corridor.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="country" data="nep1_country.mp3" image="country.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="cousin" data="nep1_cousin.mp3" image="cousin.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="crossword" data="nep1_crossword.mp3" image="crossword.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="cupboard" data="nep1_cupboard.mp3" image="cupboard.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="customs" data="nep1_customs.mp3" image="customs.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="D">
+      <term name="Dutch" data="nep1_dutch.mp3" image="dutch.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="date" data="nep1_date.mp3" image="date.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="daughter" data="nep1_daughter.mp3" image="daughter.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="day" data="nep1_day.mp3" image="day.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="desk" data="nep1_desk.mp3" image="desk.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="dinar" data="nep1_dinar.mp3" image="dinar.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="dining room" data="nep1_dining_room.mp3" image="dining_room.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="diploma" data="nep1_diploma.mp3" image="diploma.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="dirham" data="nep1_dirham.mp3" image="dirham.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="doctor" data="nep1_doctor.mp3" image="doctor.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="dollar" data="nep1_dollar.mp3" image="dollar.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="door" data="nep1_door.mp3" image="door.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="down" data="nep1_down.mp3" image="down.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="dozen" data="nep1_dozen.mp3" image="dozen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="driver" data="nep1_driver.mp3" image="driver.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="E">
+      <term name="Egypt" data="nep1_egypt.mp3" image="egypt.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Egyptian" data="nep1_egyptian.mp3" image="egyptian.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Emirati" data="nep1_emirati.mp3" image="emirati.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="England" data="nep1_england.mp3" image="england.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="English" data="nep1_english.mp3" image="english.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Excuse me" data="nep1_excuse me.mp3" image="excuse me.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="eight" data="nep1_eight.mp3" image="eight.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="eighteen" data="nep1_eighteen.mp3" image="eighteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="eighty" data="nep1_eighty.mp3" image="eighty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="eleven" data="nep1_eleven.mp3" image="eleven.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="empty" data="nep1_empty.mp3" image="empty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="engineering" data="nep1_engineering.mp3" image="engineering.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="entrance" data="nep1_entrance.mp3" image="entrance.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="evening" data="nep1_evening.mp3" image="evening.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="exchange" data="nep1_exchange.mp3" image="exchange.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="exclamation mark" data="nep1_exclamation_mark.mp3" image="exclamation_mark.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="expensive" data="nep1_expensive.mp3" image="expensive.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="express" data="nep1_express.mp3" image="express.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="eyes" data="nep1_eyes.mp3" image="eyes.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="F">
+      <term name="France" data="nep1_france.mp3" image="france.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="French" data="nep1_french.mp3" image="french.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Friday" data="nep1_friday.mp3" image="friday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fair" data="nep1_fair.mp3" image="fair.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="family" data="nep1_family.mp3" image="family.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="family name" data="nep1_family_name.mp3" image="family_name.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fat" data="nep1_fat.mp3" image="fat.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="father" data="nep1_father.mp3" image="father.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fifteen" data="nep1_fifteen.mp3" image="fifteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fifth" data="nep1_fifth.mp3" image="fifth.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fifty" data="nep1_fifty.mp3" image="fifty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="film" data="nep1_film.mp3" image="film.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fine" data="nep1_fine.mp3" image="fine.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="first" data="nep1_first.mp3" image="first.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="first name" data="nep1_first_name.mp3" image="first_name.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="five" data="nep1_five.mp3" image="five.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="floor" data="nep1_floor.mp3" image="floor.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="form" data="nep1_form.mp3" image="form.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="forty" data="nep1_forty.mp3" image="forty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="four" data="nep1_four.mp3" image="four.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fourteen" data="nep1_fourteen.mp3" image="fourteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fourth" data="nep1_fourth.mp3" image="fourth.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="freezer" data="nep1_freezer.mp3" image="freezer.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fresh" data="nep1_fresh.mp3" image="fresh.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="friend" data="nep1_friend.mp3" image="friend.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="from" data="nep1_from.mp3" image="from.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="fruit" data="nep1_fruit.mp3" image="fruit.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="full" data="nep1_full.mp3" image="full.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="full stop" data="nep1_full_stop.mp3" image="full_stop.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="G">
+      <term name="German" data="nep1_german.mp3" image="german.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Germany" data="nep1_germany.mp3" image="germany.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Go along..." data="nep1_go_along.mp3" image="go_along.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Go!" data="nep1_go.mp3" image="go.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Good afternoon" data="nep1_good_afternoon.mp3" image="good_afternoon.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Good evening" data="nep1_good_evening.mp3" image="good_evening.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Good luck!" data="nep1_good_luck.mp3" image="good_luck.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Good morning" data="nep1_good_morning.mp3" image="good_morning.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Good night" data="nep1_good_night.mp3" image="good_night.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="gallon" data="nep1_gallon.mp3" image="gallon.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="garage" data="nep1_garage.mp3" image="garage.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="gas" data="nep1_gas.mp3" image="gas.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="girl" data="nep1_girl.mp3" image="girl.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="goal" data="nep1_goal.mp3" image="goal.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="good" data="nep1_good.mp3" image="good.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="grandfather" data="nep1_grandfather.mp3" image="grandfather.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="grandmother" data="nep1_grandmother.mp3" image="grandmother.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="green" data="nep1_green.mp3" image="green.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="grey" data="nep1_grey.mp3" image="grey.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ground" data="nep1_ground.mp3" image="ground.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="H">
+      <term name="Happy Birthday!" data="nep1_happy_birthday.mp3" image="happy_birthday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Have a..." data="nep1_have_a.mp3" image="have_a.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Hello!" data="nep1_hello.mp3" image="hello.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Hi!" data="nep1_hi.mp3" image="hi.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Holland" data="nep1_holland.mp3" image="holland.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="How are you?" data="nep1_how_are_you.mp3" image="how_are_you.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="How do you do?" data="nep1_how_do_you_do.mp3" image="how_do_you_do.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="How many...?" data="nep1_how_many.mp3" image="how_many.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="How much...?" data="nep1_how_much.mp3" image="how_much.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="hair" data="nep1_hair.mp3" image="hair.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="handle" data="nep1_handle.mp3" image="handle.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="handsome" data="nep1_handsome.mp3" image="handsome.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="happy" data="nep1_happy.mp3" image="happy.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="here" data="nep1_here.mp3" image="here.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="horn" data="nep1_horn.mp3" image="horn.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="hospital" data="nep1_hospital.mp3" image="hospital.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="hot" data="nep1_hot.mp3" image="hot.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="hotel" data="nep1_hotel.mp3" image="hotel.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="house" data="nep1_house.mp3" image="house.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="hungry" data="nep1_hungry.mp3" image="hungry.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="husband" data="nep1_husband.mp3" image="husband.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="I">
+      <term name="Iraq" data="nep1_iraq.mp3" image="iraq.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Iraqi" data="nep1_iraqi.mp3" image="iraqi.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ice-cream" data="nep1_ice_cream.mp3" image="ice_cream.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="immigration" data="nep1_immigration.mp3" image="immigration.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="in" data="nep1_in.mp3" image="in.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="in the middle" data="nep1_in_the_middle.mp3" image="in_the_middle.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="inch" data="nep1_inch.mp3" image="inch.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="J">
+      <term name="Japan" data="nep1_japan.mp3" image="japan.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Japanese" data="nep1_japanese.mp3" image="japanese.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Jordan" data="nep1_jordan.mp3" image="jordan.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Jordanian" data="nep1_jordanian.mp3" image="jordanian.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="jack" data="nep1_jack.mp3" image="jack.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="jacket" data="nep1_jacket.mp3" image="jacket.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="jeans" data="nep1_jeans.mp3" image="jeans.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="job" data="nep1_job.mp3" image="job.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="just a minute" data="nep1_just_a_minute.mp3" image="just_a_minute.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="K">
+      <term name="Kuwait" data="nep1_kuwait.mp3" image="kuwait.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Kuwaiti" data="nep1_kuwaiti.mp3" image="kuwaiti.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="karate" data="nep1_karate.mp3" image="karate.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ketchup" data="nep1_ketchup.mp3" image="ketchup.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="key" data="nep1_key.mp3" image="key.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="kilo" data="nep1_kilo.mp3" image="kilo.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="kilometre" data="nep1_kilometre.mp3" image="kilometre.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="king" data="nep1_king.mp3" image="king.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="kitchen" data="nep1_kitchen.mp3" image="kitchen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="L">
+      <term name="Lebanese" data="nep1_lebanese.mp3" image="lebanese.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Lebanon" data="nep1_lebanon.mp3" image="lebanon.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Libya" data="nep1_libya.mp3" image="libya.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Libyan" data="nep1_libyan.mp3" image="libyan.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="late" data="nep1_late.mp3" image="late.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="left" data="nep1_left.mp3" image="left.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="lemon" data="nep1_lemon.mp3" image="lemon.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="lemonade" data="nep1_lemonade.mp3" image="lemonade.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="lift" data="nep1_lift.mp3" image="lift.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="listen" data="nep1_listen.mp3" image="listen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="long" data="nep1_long.mp3" image="long.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="look" data="nep1_look.mp3" image="look.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="lorry" data="nep1_lorry.mp3" image="lorry.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="M">
+      <term name="Ministry of Foreign Affairs" data="nep1_ministry_of_foreign_affairs.mp3" image="ministry_of_foreign_affairs.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Ministry of Labour" data="nep1_ministry_of_labour.mp3" image="ministry_of_labour.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Monday" data="nep1_monday.mp3" image="monday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Moroccan" data="nep1_moroccan.mp3" image="moroccan.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Morocco" data="nep1_morocco.mp3" image="morocco.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Mr" data="nep1_mr.mp3" image="mr.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Mrs" data="nep1_mrs.mp3" image="mrs.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="My name's..." data="nep1_my_name.mp3" image="my_name.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="man" data="nep1_man.mp3" image="man.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="manager" data="nep1_manager.mp3" image="manager.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="market" data="nep1_market.mp3" image="market.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="married" data="nep1_married.mp3" image="married.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="match" data="nep1_match.mp3" image="match.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="mechanic" data="nep1_mechanic.mp3" image="mechanic.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="middle" data="nep1_middle.mp3" image="middle.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="mine" data="nep1_mine.mp3" image="mine.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ministry" data="nep1_ministry.mp3" image="ministry.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="minute" data="nep1_minute.mp3" image="minute.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="mirror" data="nep1_mirror.mp3" image="mirror.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="month" data="nep1_month.mp3" image="month.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="morning" data="nep1_morning.mp3" image="morning.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="mosque" data="nep1_mosque.mp3" image="mosque.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="mother" data="nep1_mother.mp3" image="mother.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="moustache" data="nep1_moustache.mp3" image="moustache.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="music" data="nep1_music.mp3" image="music.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="my" data="nep1_my.mp3" image="my.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="N">
+      <term name="name" data="nep1_name.mp3" image="name.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="nationality" data="nep1_nationality.mp3" image="nationality.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="near" data="nep1_near.mp3" image="near.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="new" data="nep1_new.mp3" image="new.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="next to" data="nep1_next to.mp3" image="next to.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="nice" data="nep1_nice.mp3" image="nice.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="night" data="nep1_night.mp3" image="night.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="nine" data="nep1_nine.mp3" image="nine.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="nineteen" data="nep1_nineteen.mp3" image="nineteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ninety" data="nep1_ninety.mp3" image="ninety.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ninth" data="nep1_ninth.mp3" image="ninth.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="no" data="nep1_no.mp3" image="no.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="not bad" data="nep1_not_bad.mp3" image="not_bad.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="number" data="nep1_number.mp3" image="number.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="nurse" data="nep1_nurse.mp3" image="nurse.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="O">
+      <term name="Oh!" data="nep1_oh.mp3" image="oh.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Oman" data="nep1_oman.mp3" image="oman.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Omani" data="nep1_omani.mp3" image="omani.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="o'clock" data="nep1_o_clock.mp3" image="o_clock.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="office" data="nep1_office.mp3" image="office.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="officer" data="nep1_officer.mp3" image="officer.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="offside" data="nep1_offside.mp3" image="offside.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="old" data="nep1_old.mp3" image="old.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="on" data="nep1_on.mp3" image="on.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="on the ... floor" data="nep1_on_the_floor.mp3" image="on_the_floor.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="on the left" data="nep1_on_the_left.mp3" image="on_the_left.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="on the right" data="nep1_on_the_right.mp3" image="on_the_right.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="one" data="nep1_one.mp3" image="one.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="orange" data="nep1_orange.mp3" image="orange.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="out" data="nep1_out.mp3" image="out.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="over there" data="nep1_over_there.mp3" image="over_there.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="P">
+      <term name="Palestinian" data="nep1_palestinian.mp3" image="palestinian.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="page" data="nep1_page.mp3" image="page.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="palace" data="nep1_palace.mp3" image="palace.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="park" data="nep1_park.mp3" image="park.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="passport" data="nep1_passport.mp3" image="passport.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="pen" data="nep1_pen.mp3" image="pen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="people" data="nep1_people.mp3" image="people.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="petrol" data="nep1_petrol.mp3" image="petrol.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="petrol station" data="nep1_petrol station.mp3" image="petrol station.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="phone" data="nep1_phone.mp3" image="phone.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="photocopying" data="nep1_photocopying.mp3" image="photocopying.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="picture" data="nep1_picture.mp3" image="picture.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="please" data="nep1_please.mp3" image="please.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="pleased" data="nep1_pleased.mp3" image="pleased.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="pleased to meet you" data="nep1_pleased_to_meet_you.mp3" image="pleased_to_meet_you.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="policeman" data="nep1_policeman.mp3" image="policeman.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="politician" data="nep1_politician.mp3" image="politician.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="pretty" data="nep1_pretty.mp3" image="pretty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="primary school" data="nep1_primary_school.mp3" image="primary_school.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="pull" data="nep1_pull.mp3" image="pull.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="punctuation" data="nep1_punctuation.mp3" image="punctuation.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="puncture" data="nep1_puncture.mp3" image="puncture.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="push" data="nep1_push.mp3" image="push.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="Q">
+      <term name="Qatar" data="nep1_qatar.mp3" image="qatar.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Qatari" data="nep1_qatari.mp3" image="qatari.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="queen" data="nep1_queen.mp3" image="queen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="queue" data="nep1_queue.mp3" image="queue.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="quite" data="nep1_quite.mp3" image="quite.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="R">
+      <term name="Royal Palace" data="nep1_royal_palace.mp3" image="royal_palace.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="radio" data="nep1_radio.mp3" image="radio.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="read" data="nep1_read.mp3" image="read.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="reception" data="nep1_reception.mp3" image="reception.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="red" data="nep1_red.mp3" image="red.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="rest" data="nep1_rest.mp3" image="rest.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="restaurant" data="nep1_restaurant.mp3" image="restaurant.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="rice" data="nep1_rice.mp3" image="rice.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="right" data="nep1_right.mp3" image="right.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="road" data="nep1_road.mp3" image="road.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="room" data="nep1_room.mp3" image="room.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="S">
+      <term name="Saturday" data="nep1_saturday.mp3" image="saturday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Saudi" data="nep1_saudi.mp3" image="saudi.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Saudi Arabia" data="nep1_saudi_arabia.mp3" image="saudi_arabia.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Sudan" data="nep1_sudan.mp3" image="sudan.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Sudanese" data="nep1_sudanese.mp3" image="sudanese.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Sunday" data="nep1_sunday.mp3" image="sunday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Syria" data="nep1_syria.mp3" image="syria.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Syrian" data="nep1_syrian.mp3" image="syrian.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="salad" data="nep1_salad.mp3" image="salad.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sandwich" data="nep1_sandwich.mp3" image="sandwich.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="say" data="nep1_say.mp3" image="say.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="school" data="nep1_school.mp3" image="school.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="seat" data="nep1_seat.mp3" image="seat.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="second" data="nep1_second.mp3" image="second.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="secretary" data="nep1_secretary.mp3" image="secretary.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="seven" data="nep1_seven.mp3" image="seven.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="seventeen" data="nep1_seventeen.mp3" image="seventeen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="seventh" data="nep1_seventh.mp3" image="seventh.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="seventy" data="nep1_seventy.mp3" image="seventy.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="shampoo" data="nep1_shampoo.mp3" image="shampoo.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="shop" data="nep1_shop.mp3" image="shop.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="short" data="nep1_short.mp3" image="short.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="single" data="nep1_single.mp3" image="single.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sister" data="nep1_sister.mp3" image="sister.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sitting room" data="nep1_sitting_room.mp3" image="sitting_room.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="six" data="nep1_six.mp3" image="six.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sixteen" data="nep1_sixteen.mp3" image="sixteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sixth" data="nep1_sixth.mp3" image="sixth.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sixty" data="nep1_sixty.mp3" image="sixty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="small" data="nep1_small.mp3" image="small.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="so am I" data="nep1_so_am_i.mp3" image="so_am_i.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="son" data="nep1_son.mp3" image="son.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sorry" data="nep1_sorry.mp3" image="sorry.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="spaceman" data="nep1_spaceman.mp3" image="spaceman.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="speak" data="nep1_speak.mp3" image="speak.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="spell" data="nep1_spell.mp3" image="spell.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="spelling" data="nep1_spelling.mp3" image="spelling.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="stairs" data="nep1_stairs.mp3" image="stairs.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="station" data="nep1_station.mp3" image="station.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="stereo" data="nep1_stereo.mp3" image="stereo.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="stop" data="nep1_stop.mp3" image="stop.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="street" data="nep1_street.mp3" image="street.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="student" data="nep1_student.mp3" image="student.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="suitcase" data="nep1_suitcase.mp3" image="suitcase.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sun" data="nep1_sun.mp3" image="sun.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="sweet" data="nep1_sweet.mp3" image="sweet.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="T">
+      <term name="The United Arab Emirates" data="nep1_the_united_arab_emirates.mp3" image="the_united_arab_emirates.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="The United Kingdom" data="nep1_the_united_kingdom.mp3" image="the_united_kingdom.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="The United States of America" data="nep1_the_united_states_of_america.mp3" image="the_united_states_of_america.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Thursday" data="nep1_thursday.mp3" image="thursday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Tuesday" data="nep1_tuesday.mp3" image="tuesday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Tunisia" data="nep1_tunisia.mp3" image="tunisia.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Tunisian" data="nep1_tunisian.mp3" image="tunisian.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="table" data="nep1_table.mp3" image="table.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="taxi" data="nep1_taxi.mp3" image="taxi.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="tea" data="nep1_tea.mp3" image="tea.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="teacher" data="nep1_teacher.mp3" image="teacher.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="telephone" data="nep1_telephone.mp3" image="telephone.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="telephone number" data="nep1_telephone_number.mp3" image="telephone_number.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="ten" data="nep1_ten.mp3" image="ten.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="tenth" data="nep1_tenth.mp3" image="tenth.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thank you very much" data="nep1_thank_you_very_much.mp3" image="thank_you_very_much.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thanks" data="nep1_thanks.mp3" image="thanks.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="that" data="nep1_that.mp3" image="that.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="that's all right" data="nep1_thats_all_right.mp3" image="thats_all_right.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="their" data="nep1_their.mp3" image="their.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="theirs" data="nep1_theirs.mp3" image="theirs.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="there" data="nep1_there.mp3" image="there.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="there are ..." data="nep1_there_are.mp3" image="there_are.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="there is ..." data="nep1_there_is.mp3" image="there_is.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="these" data="nep1_these.mp3" image="these.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thin" data="nep1_thin.mp3" image="thin.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thing" data="nep1_thing.mp3" image="thing.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="third" data="nep1_third.mp3" image="third.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thirsty" data="nep1_thirsty.mp3" image="thirsty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thirteen" data="nep1_thirteen.mp3" image="thirteen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thirty" data="nep1_thirty.mp3" image="thirty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="this" data="nep1_this.mp3" image="this.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="those" data="nep1_those.mp3" image="those.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="thousand" data="nep1_thousand.mp3" image="thousand.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="three" data="nep1_three.mp3" image="three.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="time" data="nep1_time.mp3" image="time.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="today" data="nep1_today.mp3" image="today.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="toilets" data="nep1_toilets.mp3" image="toilets.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="tomorrow" data="nep1_tomorrow.mp3" image="tomorrow.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="too" data="nep1_too.mp3" image="too.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="tree" data="nep1_tree.mp3" image="tree.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="truck" data="nep1_truck.mp3" image="truck.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="twelve" data="nep1_twelve.mp3" image="twelve.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="twenty" data="nep1_twenty.mp3" image="twenty.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="two" data="nep1_two.mp3" image="two.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="U">
+      <term name="umbrella" data="nep1_umbrella.mp3" image="umbrella.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="uncle" data="nep1_uncle.mp3" image="uncle.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="up" data="nep1_up.mp3" image="up.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="upstairs" data="nep1_upstairs.mp3" image="upstairs.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="V">
+      <term name="very" data="nep1_very.mp3" image="very.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="video" data="nep1_video.mp3" image="video.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="villa" data="nep1_villa.mp3" image="villa.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="visa" data="nep1_visa.mp3" image="visa.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="W">
+      <term name="Wednesday" data="nep1_wednesday.mp3" image="wednesday.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="What's the time?" data="nep1_whats_the_time.mp3" image="whats_the_time.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="What's your name?" data="nep1_whats_your_name.mp3" image="whats_your_name.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="What?" data="nep1_what.mp3" image="what.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Where ...?" data="nep1_where.mp3" image="where.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Where are you from?" data="nep1_where_are_you_from.mp3" image="where_are_you_from.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Who ...?" data="nep1_who.mp3" image="who.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Who's that?" data="nep1_whos_that.mp3" image="whos_that.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="wait" data="nep1_wait.mp3" image="wait.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="wall" data="nep1_wall.mp3" image="wall.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="watermelon" data="nep1_watermelon.mp3" image="watermelon.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="week" data="nep1_week.mp3" image="week.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="white" data="nep1_white.mp3" image="white.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="wife" data="nep1_wife.mp3" image="wife.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="window" data="nep1_window.mp3" image="window.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="workshop" data="nep1_workshop.mp3" image="workshop.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="write" data="nep1_write.mp3" image="write.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="X">
+      <term name="X-ray" data="nep1_x_ray.mp3" image="x_ray.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="Y">
+      <term name="Yemen" data="nep1_yemen.mp3" image="yemen.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="Yemeni" data="nep1_yemeni.mp3" image="yemeni.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="yacht" data="nep1_yacht.mp3" image="yacht.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="year" data="nep1_year.mp3" image="year.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="yellow" data="nep1_yellow.mp3" image="yellow.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="yes" data="nep1_yes.mp3" image="yes.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="young" data="nep1_young.mp3" image="young.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+    <letter id="Z">
+      <term name="zebra" data="nep1_zebra.mp3" image="zebra.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+      <term name="zero" data="nep1_zero.mp3" image="zero.jpg">
+        <description>Click on the play button to hear the word</description>
+      </term>
+    </letter>
+  </glossary>
+</root>

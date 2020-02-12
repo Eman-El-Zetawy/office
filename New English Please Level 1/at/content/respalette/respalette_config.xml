@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- It is the root node of the xml file. All content will be captured as child node of this node.-->
+	<!--Created by Pravin Ranjan-->
+<resPalette xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wrapper.xsd">
+	<!-- The node holds the data for data for styling of the Resource Palette module.
+		'skin' specifies the path to the skin file for the Resource Palette.
+		'css' specifies the path to the Cascading Style Sheet file for Digilist.-->
+	<style skin="shared/respalette/respalette_skin.swf" css="shared/respalette/respalette.css" />
+	<!--The node holds data for configuring the Resource Palette box.-->
+	<resourcePalette>
+
+		<!-- The node holds all the data for styling of palette box.
+		     'defaultContent' specifies default content of the palette box when new option is selected. -->
+		<paletteBox defaultContent="content/respalette/test.atr"  x="598" y="7" ></paletteBox>
+	</resourcePalette>
+	<!-- The node holds the data for the look and feel of the tree.-->
+	<leftpane>
+
+		<!-- The node holds the data for the location of treeview on the screen.
+		     'x' and 'y' specifies the x and y positions of treeview.
+		     'w' and 'h' specifies the height and width of treeview.-->
+		<treeview x="1" y="28" w="198" h="452"/>
+	</leftpane>
+	<rightpane>
+		<!-- The node holds the data for the location of scrollpane on the screen.
+		     'x' and 'y' specifies the x and y positions of scrollpane.
+		     'w' and 'h' specifies the height and width of scrollpane.-->
+		<scrollpane x="198" y="28" w="191" h="450"/>
+		<!-- Provides color labels of different assets.-->
+		<panel cssObject='panel'/>
+	</rightpane>
+	<!--Current unit configuration node.
+	'visible' specifies whether current unit should be shown or not.
+	'editable' specifies whether current unit would be editable or not.
+	'openicon' Specifies linkage identifier of open icon from resPalette_skin.fla.
+	'closeicon' Specifies linkage identifier of close icon from resPalette_skin.fla.
+	'emptyicon' Specifies linkage identifier of empty icon from resPalette_skin.fla.
+	'unit1' Lebel text on current unit 1.
+	'unit2' Lebel text on current unit 2 when shown simultaneously.
+	-->
+
+	<Prefix>
+		<chapter text = "/Ch " />
+		<page text = "/Pg " />
+	</Prefix>
+
+	<AssetType>
+		<zoom text1 = "Zoom " text2 = "Page "/>
+	</AssetType>
+
+	<!-- The node stores the message of resource palette when the content of a book is not installed or the contetn is removed.-->
+	<contentMissingMsg text1 = "Item can not be found. Please ensure all components are installed." />
+
+	<popupText>
+		<menu>
+			<addFolder text = "Unable to add folder. Folder with the same name already exists." />
+			<moveFolder text1 = "Unable to move this folder. Folder with the same name already exists." text2 = "This folder cannot be moved." />
+			<copyFolder text1 = "Unable to copy this folder. Folder with the same name already exists." />
+			<renameFolder text1 = "Unable to rename this folder. Folder with the same name already exists." text2 = "This folder cannot be renamed." />
+			<editResource text1 = "A resource with the same name already exists in the current folder." />
+			<linkResource text1 = "'.atr' files cannot be opened through Resource Palette." />
+		</menu>
+		<dragNdrop>
+			<treeDrag text1 = "This folder cannot be moved." text2 = "Unable to copy this folder. Folder with the same name already exists." text3 = "Unable to move this folder. Folder with the same name already exists."/>
+			<assetActiveBook text1 = "Unable to copy resource. A resource with the same name already exists."  text2 = "Unable to copy resource. A resource with the same name already exists." text3 = "Unable to Add resource. A resource with the same name already exists."/>
+			<fromScrollpane copytext = "Unable to copy resource. A resource with the same name already exists." movetext1 = "Unable to move resource. A resource with the same name already exists." movetext2 = "Current Unit resource cannot be moved."/>
+		</dragNdrop>
+	</popupText>
+	<currentunit modify="false" visible="true" editable="true" openicon="nodrag_folder_open" closeicon="nodrag_folder_closed" emptyicon="nodrag_folder_closed" unit1="Current unit AF1" unit2="Current unit AF2" />
+</resPalette>
+
